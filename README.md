@@ -1,7 +1,7 @@
 ### How the algorithm works
 
 The algorithm is a constrained breadth-first tree growth over real 3D stellar
-positions from the HYG v4.2 catalog in `hyg_v42.csv`. It begins at Sol and
+positions from the AT-HYG catalog in `athyg-33.csv`. It begins at Sol and
 grows outward until exactly 268 leaf entities each occupy a unique destination
 star.
 
@@ -57,36 +57,24 @@ If you pass `--output`, that explicit path is used instead.
 
 Run the script with the repo-local catalog:
 
-```powershell
-python .\journey_algo.py
+```bash
+python ./journey_algo.py
 ```
 
 Run with an explicit seed:
 
-```powershell
-python .\journey_algo.py --seed 42
+```bash
+python ./journey_algo.py --seed 42
 ```
 
 Run with an explicit target leaf count:
 
-```powershell
-python .\journey_algo.py --target 268
-```
-
-Run with an explicit catalog override:
-
-```powershell
-python .\journey_algo.py --catalog .\hyg_v42.csv
+```bash
+python ./journey_algo.py --target 268
 ```
 
 Run with an explicit output path:
 
-```powershell
-python .\journey_algo.py --output .\stellar_tree_custom.toml
+```bash
+python ./journey_algo.py --output ./stellar_tree_custom.toml
 ```
-Missing HIP values in Gaia DB:
-Barong → 72622
-Erlik → 61941
-Leonard → 8903
-Rangda → 67927
-Vassago → 45238

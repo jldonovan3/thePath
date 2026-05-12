@@ -4,7 +4,7 @@ Stellar Branching Algorithm - Biased Random Walk on a Real Star Graph
 =====================================================================
 
 This script grows a breadth-first branching tree over real 3D stellar
-positions from the HYG v4.2 catalog. A single entity departs Sol, claims the
+positions from the athyg-33 catalog. A single entity departs Sol, claims the
 nearest star at or above Sol's spectral rank, then branches outward until
 exactly 268 leaf entities occupy unique destination stars.
 
@@ -16,7 +16,7 @@ Key rules:
     a cone around the parent's incoming direction
 
 Default inputs and outputs:
-  - catalog: hyg_v42.csv located next to this script
+  - catalog: athyg-33.csv located next to this script
   - output:  stellar_tree_versionN.toml in the current working directory
 
 Usage:
@@ -33,7 +33,6 @@ import json
 import math
 import random
 import re
-import tomllib
 from collections import deque
 from dataclasses import dataclass, field
 from pathlib import Path
@@ -41,6 +40,7 @@ from typing import Any
 
 import numpy as np
 import pandas as pd
+import tomllib
 from scipy.spatial import KDTree
 
 MK_CLASSES = "OBAFGKM"
@@ -49,6 +49,8 @@ OUTPUT_PATTERN = re.compile(r"^stellar_tree_version(\d+)\.toml$")
 
 DEFAULT_TARGET_LEAVES = 268
 DEFAULT_SEED = 42
+COORDINATE_COLUMN_OPTIONS = (("x0", "y0", "z0"), ("x", "y", "z"))
+INTERNAL_COORD_COLUMNS = ("_coord_x_pc", "_coord_y_pc", "_coord_z_pc")
 
 
 @dataclass(frozen=True)
@@ -86,6 +88,36 @@ class TreeNode:
         TreeNode._next_id += 1
 
 
+def resolve_coordinate_columns(df: pd.DataFrame) -> tuple[str, str, str]:
+    """Return the first supported parsec-coordinate column set in the catalog."""
+    for columns in COORDINATE_COLUMN_OPTIONS:
+        if all(column in df.columns for column in columns):
+            return columns
+    supported = " or ".join("/".join(columns) for columns in COORDINATE_COLUMN_OPTIONS)
+    raise ValueError(f"Catalog must include parsec coordinate columns: {supported}.")
+
+
+def optional_int(row: pd.Series, *columns: str) -> int | None:
+    """Read the first present numeric identifier from a row."""
+    for column in columns:
+        if column not in row.index or pd.isna(row[column]):
+            continue
+        value = pd.to_numeric(row[column], errors="coerce")
+        if pd.notna(value):
+            return int(value)
+    return None
+
+
+def optional_float(row: pd.Series, column: str) -> float | None:
+    """Read an optional numeric field from a row."""
+    if column not in row.index or pd.isna(row[column]):
+        return None
+    value = pd.to_numeric(row[column], errors="coerce")
+    if pd.isna(value):
+        return None
+    return float(value)
+
+
 def parse_spectral_rank(spect_str: str) -> int | None:
     """
     Convert a spectral type string such as 'G2V' or 'F5III' to a numeric rank.
@@ -108,7 +140,7 @@ def parse_spectral_rank(spect_str: str) -> int | None:
 
 def load_catalog(csv_path: Path) -> pd.DataFrame:
     """
-    Load the HYG v4.2 CSV and prepare it for spatial queries.
+    Load the athyg CSV and prepare it for spatial queries.
 
     Filters out stars that lack valid 3D coordinates or a parseable spectral
     type. Adds a 'spectral_rank' column.
@@ -117,12 +149,19 @@ def load_catalog(csv_path: Path) -> pd.DataFrame:
     df = pd.read_csv(csv_path, low_memory=False)
     print(f"  Raw rows: {len(df)}")
 
+    source_coord_columns = resolve_coordinate_columns(df)
+    for source_column, internal_column in zip(
+        source_coord_columns, INTERNAL_COORD_COLUMNS
+    ):
+        df[internal_column] = pd.to_numeric(df[source_column], errors="coerce")
+
     df["spectral_rank"] = df["spect"].apply(parse_spectral_rank)
-    df = df.dropna(subset=["spectral_rank", "x", "y", "z"]).copy()
+    df = df.dropna(subset=["spectral_rank", *INTERNAL_COORD_COLUMNS]).copy()
     df["spectral_rank"] = df["spectral_rank"].astype(int)
     df["proper"] = df["proper"].fillna("")
 
     print(f"  Usable stars after filtering: {len(df)}")
+    print(f"  Coordinate columns: {', '.join(source_coord_columns)}")
     print(
         f"  Spectral rank range: {df['spectral_rank'].min()} - "
         f"{df['spectral_rank'].max()}"
@@ -132,7 +171,7 @@ def load_catalog(csv_path: Path) -> pd.DataFrame:
 
 def build_spatial_index(df: pd.DataFrame) -> SpatialIndex:
     """Build a KD-tree and aligned NumPy arrays for fast nearest-neighbor search."""
-    coords = df[["x", "y", "z"]].to_numpy(dtype=np.float64)
+    coords = df[list(INTERNAL_COORD_COLUMNS)].to_numpy(dtype=np.float64)
     cat_indices = df.index.to_numpy()
     spectral_ranks = df["spectral_rank"].to_numpy(dtype=np.int16)
     index_lookup = {int(cat_idx): pos for pos, cat_idx in enumerate(cat_indices)}
@@ -310,24 +349,39 @@ def build_star_payload(
         "spectral_type": row["spect"],
         "spectral_rank": int(row["spectral_rank"]),
         "position_parsecs": {
-            "x": round(float(row["x"]), 6),
-            "y": round(float(row["y"]), 6),
-            "z": round(float(row["z"]), 6),
+            "x": round(float(row["_coord_x_pc"]), 6),
+            "y": round(float(row["_coord_y_pc"]), 6),
+            "z": round(float(row["_coord_z_pc"]), 6),
         },
     }
 
     if row["proper"]:
         payload["proper_name"] = row["proper"]
-    if pd.notna(row["id"]):
-        payload["hyg_id"] = int(row["id"])
-    if pd.notna(row["hip"]):
-        payload["hip"] = int(row["hip"])
-    if pd.notna(row["lum"]):
-        payload["luminosity"] = float(row["lum"])
-    if pd.notna(row["absmag"]):
-        payload["absolute_magnitude"] = float(row["absmag"])
-    if pd.notna(row["dist"]):
-        payload["distance_from_sol_pc"] = round(float(row["dist"]), 4)
+
+    hyg_id = optional_int(row, "hyg") if "hyg" in row.index else optional_int(row, "id")
+    if hyg_id is not None:
+        payload["hyg_id"] = hyg_id
+
+    if "hyg" in row.index:
+        athyg_id = optional_int(row, "id")
+        if athyg_id is not None:
+            payload["athyg_id"] = athyg_id
+
+    hip = optional_int(row, "hip")
+    if hip is not None:
+        payload["hip"] = hip
+
+    luminosity = optional_float(row, "lum")
+    if luminosity is not None:
+        payload["luminosity"] = luminosity
+
+    absolute_magnitude = optional_float(row, "absmag")
+    if absolute_magnitude is not None:
+        payload["absolute_magnitude"] = absolute_magnitude
+
+    distance_from_sol = optional_float(row, "dist")
+    if distance_from_sol is not None:
+        payload["distance_from_sol_pc"] = round(distance_from_sol, 4)
 
     star_cache[cat_idx] = payload
     return payload
@@ -401,7 +455,9 @@ def run_branching_walk(
         direction=np.zeros(3, dtype=np.float64),
         spatial_index=spatial_index,
         claimed=claimed,
-        attempts=[SearchAttempt(min_rank=sol_rank, k_candidates=128, direction_weight=0.0)],
+        attempts=[
+            SearchAttempt(min_rank=sol_rank, k_candidates=128, direction_weight=0.0)
+        ],
     )
     if first_dest is None:
         raise RuntimeError("No eligible star found for the initial departure from Sol.")
@@ -418,7 +474,9 @@ def run_branching_walk(
     )
     all_nodes[root.node_id] = root
 
-    first_star_name = catalog.at[first_dest, "proper"] or catalog.at[first_dest, "spect"]
+    first_star_name = (
+        catalog.at[first_dest, "proper"] or catalog.at[first_dest, "spect"]
+    )
     first_star_dist = np.linalg.norm(travel_dir)
     print(
         f"  First destination: {first_star_name} "
@@ -451,7 +509,9 @@ def run_branching_walk(
             ],
         )
         if child_dest is None:
-            raise RuntimeError("Unable to find a destination for one of the first two branches.")
+            raise RuntimeError(
+                "Unable to find a destination for one of the first two branches."
+            )
 
         claimed.add(child_dest)
         child_pos = get_position(spatial_index, child_dest)
@@ -570,13 +630,29 @@ def run_branching_walk(
         "proper_name": "Sol",
         "spectral_type": sol_row["spect"],
         "spectral_rank": sol_rank,
-        "luminosity": float(sol_row["lum"]),
         "position_parsecs": {"x": 0.0, "y": 0.0, "z": 0.0},
     }
-    if pd.notna(sol_row["id"]):
-        origin["hyg_id"] = int(sol_row["id"])
-    if pd.notna(sol_row["hip"]):
-        origin["hip"] = int(sol_row["hip"])
+
+    sol_hyg_id = (
+        optional_int(sol_row, "hyg")
+        if "hyg" in sol_row.index
+        else optional_int(sol_row, "id")
+    )
+    if sol_hyg_id is not None:
+        origin["hyg_id"] = sol_hyg_id
+
+    if "hyg" in sol_row.index:
+        sol_athyg_id = optional_int(sol_row, "id")
+        if sol_athyg_id is not None:
+            origin["athyg_id"] = sol_athyg_id
+
+    sol_hip = optional_int(sol_row, "hip")
+    if sol_hip is not None:
+        origin["hip"] = sol_hip
+
+    sol_luminosity = optional_float(sol_row, "lum")
+    if sol_luminosity is not None:
+        origin["luminosity"] = sol_luminosity
 
     tree_nodes = {
         str(node_id): build_node_payload(all_nodes[node_id], catalog, star_cache)
@@ -692,11 +768,14 @@ def verify_and_summarize(result: dict[str, Any]) -> bool:
         f"    Spectral rank: min={min(leaf_ranks)}, max={max(leaf_ranks)}, "
         f"mean={sum(leaf_ranks) / len(leaf_ranks):.1f}"
     )
-    print(
-        f"    Luminosity (solar): min={min(leaf_lums):.3f}, "
-        f"max={max(leaf_lums):.1f}, "
-        f"median={sorted(leaf_lums)[len(leaf_lums) // 2]:.3f}"
-    )
+    if leaf_lums:
+        print(
+            f"    Luminosity (solar): min={min(leaf_lums):.3f}, "
+            f"max={max(leaf_lums):.1f}, "
+            f"median={sorted(leaf_lums)[len(leaf_lums) // 2]:.3f}"
+        )
+    else:
+        print("    Luminosity (solar): unavailable in catalog")
 
     named_leaves = [leaf for leaf in leaves if "proper_name" in leaf["star"]]
     if named_leaves:
@@ -704,9 +783,7 @@ def verify_and_summarize(result: dict[str, Any]) -> bool:
         for leaf in named_leaves[:15]:
             star = leaf["star"]
             lum_text = (
-                f"{star['luminosity']:.2f} L_sun"
-                if "luminosity" in star
-                else "n/a"
+                f"{star['luminosity']:.2f} L_sun" if "luminosity" in star else "n/a"
             )
             dist_text = (
                 f"{star['distance_from_sol_pc']:.1f} pc"
@@ -753,8 +830,10 @@ def format_toml_scalar(value: Any) -> str:
 
 def is_array_of_tables(value: Any) -> bool:
     """Return True when a value should be emitted as an array-of-tables."""
-    return isinstance(value, list) and bool(value) and all(
-        isinstance(item, dict) for item in value
+    return (
+        isinstance(value, list)
+        and bool(value)
+        and all(isinstance(item, dict) for item in value)
     )
 
 
@@ -834,7 +913,9 @@ def emit_toml_mapping(
             emit_toml_array_item(lines, path + [key], item)
 
 
-def emit_toml_array_item(lines: list[str], path: list[str], mapping: dict[str, Any]) -> None:
+def emit_toml_array_item(
+    lines: list[str], path: list[str], mapping: dict[str, Any]
+) -> None:
     """Emit one item in a TOML array-of-tables."""
     scalars, tables, array_tables = split_mapping_items(mapping)
     lines.append(f"[[{render_table_path(path)}]]")
@@ -864,8 +945,8 @@ def dumps_toml(data: dict[str, Any]) -> str:
 
 
 def resolve_default_catalog_path() -> Path:
-    """Return the repo-local HYG catalog path."""
-    return Path(__file__).resolve().parent / "hyg_v42.csv"
+    """Return the repo-local AT-HYG catalog path."""
+    return Path(__file__).resolve().parent / "athyg-33.csv"
 
 
 def next_versioned_output_path(directory: Path) -> Path:
@@ -882,7 +963,7 @@ def main() -> None:
     default_catalog = resolve_default_catalog_path()
 
     parser = argparse.ArgumentParser(
-        description="Stellar branching algorithm over the HYG star graph."
+        description="Stellar branching algorithm over the AT-HYG star graph."
     )
     parser.add_argument(
         "--seed",
@@ -894,7 +975,7 @@ def main() -> None:
         "--catalog",
         type=Path,
         default=default_catalog,
-        help=f"Path to the HYG v4.2 CSV catalog (default: {default_catalog.name})",
+        help=f"Path to the AT-HYG CSV catalog (default: {default_catalog.name})",
     )
     parser.add_argument(
         "--target",
