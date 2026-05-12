@@ -35,8 +35,7 @@ spawns 1-5 children chosen uniformly, clamped so the leaf total never overshoots
 
 ### Output format
 
-The output is written as TOML, not JSON. The file keeps the same logical
-sections as the old JSON export:
+The output is written as TOML with the following structure:
 
 - `metadata`
 - `origin`
