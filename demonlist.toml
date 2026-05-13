@@ -1,8 +1,8 @@
 # 268 tables
 
 [Aamon]
+hip = 33719
 demon_name = "AAMON"
-hipparcos_id = 68030
 demon_type = 6
 demon_form = "LOCUS"
 known = true
@@ -10,8 +10,8 @@ first_sentience = 4623
 demon_disposition = "CRUSHER"
 
 [Abaddon]
+hip = 79165
 demon_name = "ABADDON"
-hipparcos_id = 23875
 demon_type = 9
 demon_form = "LOCUS"
 known = true
@@ -19,8 +19,8 @@ first_sentience = 3307
 demon_disposition = "ASSIMILATOR"
 
 [Abezethibou]
+hip = 78072
 demon_name = "ABEZETHIBOU"
-hipparcos_id = 37727
 demon_type = 7
 demon_form = "LATTICE"
 known = true
@@ -28,8 +28,8 @@ first_sentience = 4135
 demon_disposition = "STRINGIFIER"
 
 [Abraxas]
+hip = 24608
 demon_name = "ABRAXAS"
-hipparcos_id = 11783
 demon_type = 3
 demon_form = "ORGANIC"
 known = true
@@ -37,8 +37,8 @@ first_sentience = 3829
 demon_disposition = "BENEFICIARY"
 
 [Abyzou]
+hip = 28267
 demon_name = "ABYZOU"
-hipparcos_id = 90485
 demon_type = 4
 demon_form = "ORGANIC"
 known = true
@@ -46,8 +46,8 @@ first_sentience = 3296
 demon_disposition = "STRINGIFIER"
 
 [Achlys]
+hip = 86201
 demon_name = "ACHLYS"
-hipparcos_id = 26690
 demon_type = 4
 demon_form = "ORGANIC"
 known = true
@@ -55,8 +55,8 @@ first_sentience = 4241
 demon_disposition = "BENEFICIARY"
 
 [Adrammelech]
+hip = 40918
 demon_name = "ADRAMMELECH"
-hipparcos_id = 37718
 demon_type = 4
 demon_form = "TORUS"
 known = true
@@ -64,8 +64,8 @@ first_sentience = 4909
 demon_disposition = "DESTROYER"
 
 [Aeshma]
+hip = 72603
 demon_name = "AESHMA"
-hipparcos_id = 97767
 demon_type = 6
 demon_form = "RECONSTITUTION"
 known = true
@@ -73,8 +73,8 @@ first_sentience = 3741
 demon_disposition = "CRUSHER"
 
 [Agrat bat Mahlat]
+hip = 43557
 demon_name = "AGRAT BAT MAHLAT"
-hipparcos_id = 77801
 demon_type = 7
 demon_form = "LOCUS"
 known = true
@@ -82,8 +82,8 @@ first_sentience = 4439
 demon_disposition = "DESTROYER"
 
 [Agares]
+hip = 107350
 demon_name = "AGARES"
-hipparcos_id = 22336
 demon_type = 3
 demon_form = "LATTICE"
 known = true
@@ -91,8 +91,8 @@ first_sentience = 3121
 demon_disposition = "STRINGIFIER"
 
 [Agiel]
+hip = 32076
 demon_name = "AGIEL"
-hipparcos_id = 104738
 demon_type = 8
 demon_form = "SPHERE"
 known = true
@@ -100,8 +100,8 @@ first_sentience = 4285
 demon_disposition = "STRINGIFIER"
 
 [Ahriman]
+hip = 75809
 demon_name = "AHRIMAN"
-hipparcos_id = 103673
 demon_type = 6
 demon_form = "ORGANIC"
 known = false
@@ -109,8 +109,8 @@ first_sentience = 3136
 demon_disposition = "DESTROYER"
 
 [Aim]
+hip = 53634
 demon_name = "AIM"
-hipparcos_id = 58380
 demon_type = 4
 demon_form = "LATTICE"
 known = true
@@ -118,8 +118,8 @@ first_sentience = 3330
 demon_disposition = "DEVOURER"
 
 [Aka Manah]
+hip = 57021
 demon_name = "AKA MANAH"
-hipparcos_id = 36795
 demon_type = 6
 demon_form = "RECONSTITUTION"
 known = true
@@ -127,8 +127,8 @@ first_sentience = 3527
 demon_disposition = "OBSERVER"
 
 [Akuma]
+hip = 42173
 demon_name = "AKUMA"
-hipparcos_id = 110618
 demon_type = 6
 demon_form = "SPHERE"
 known = true
@@ -136,8 +136,8 @@ first_sentience = 4040
 demon_disposition = "STRINGIFIER"
 
 [Al Ana]
+hip = 54061
 demon_name = "AL ANA"
-hipparcos_id = 84489
 demon_type = 5
 demon_form = "LATTICE"
 known = true
@@ -145,8 +145,8 @@ first_sentience = 4682
 demon_disposition = "DEVOURER"
 
 [Ala]
+hip = 68593
 demon_name = "ALA"
-hipparcos_id = 52535
 demon_type = 8
 demon_form = "ORGANIC"
 known = true
@@ -154,8 +154,8 @@ first_sentience = 4421
 demon_disposition = "BENEFICIARY"
 
 [Alal]
+hip = 37853
 demon_name = "ALAL"
-hipparcos_id = 100511
 demon_type = 5
 demon_form = "LATTICE"
 known = true
@@ -163,8 +163,8 @@ first_sentience = 3764
 demon_disposition = "CRUSHER"
 
 [Alastor]
+hip = 43477
 demon_name = "ALASTOR"
-hipparcos_id = 19859
 demon_type = 7
 demon_form = "TORUS"
 known = true
@@ -172,8 +172,8 @@ first_sentience = 3484
 demon_disposition = "OBSERVER"
 
 [Alloces]
+hip = 97295
 demon_name = "ALLOCES"
-hipparcos_id = 85423
 demon_type = 4
 demon_form = "ORGANIC"
 known = true
@@ -181,8 +181,8 @@ first_sentience = 4693
 demon_disposition = "BENEFICIARY"
 
 [Allu]
+hip = 74666
 demon_name = "ALLU"
-hipparcos_id = 104887
 demon_type = 3
 demon_form = "SWARM"
 known = true
@@ -190,8 +190,8 @@ first_sentience = 3727
 demon_disposition = "DEVOURER"
 
 [Amaymon]
+hip = 21861
 demon_name = "AMAYMON"
-hipparcos_id = 72567
 demon_type = 9
 demon_form = "SWARM"
 known = true
@@ -199,8 +199,8 @@ first_sentience = 3355
 demon_disposition = "DEVOURER"
 
 [Amdusias]
+hip = 32765
 demon_name = "AMDUSIAS"
-hipparcos_id = 61872
 demon_type = 7
 demon_form = "LATTICE"
 known = true
@@ -208,8 +208,8 @@ first_sentience = 4000
 demon_disposition = "OBSERVER"
 
 [Amalanhig]
+hip = 67301
 demon_name = "AMALANHIG"
-hipparcos_id = 111170
 demon_type = 5
 demon_form = "RECONSTITUTION"
 known = true
@@ -217,8 +217,8 @@ first_sentience = 4770
 demon_disposition = "DEVOURER"
 
 [Amy]
+hip = 19205
 demon_name = "AMY"
-hipparcos_id = 98813
 demon_type = 9
 demon_form = "SWARM"
 known = true
@@ -226,8 +226,8 @@ first_sentience = 4671
 demon_disposition = "DEVOURER"
 
 [Anammelech]
+hip = 63125
 demon_name = "ANAMMELECH"
-hipparcos_id = 103682
 demon_type = 5
 demon_form = "SWARM"
 known = false
@@ -235,8 +235,8 @@ first_sentience = 4226
 demon_disposition = "ASSIMILATOR"
 
 [Anathan]
+hip = 64407
 demon_name = "ANATHAN"
-hipparcos_id = 114948
 demon_type = 4
 demon_form = "LATTICE"
 known = true
@@ -244,8 +244,8 @@ first_sentience = 4073
 demon_disposition = "STRINGIFIER"
 
 [Anaye]
+hip = 84143
 demon_name = "ANAYE"
-hipparcos_id = 91262
 demon_type = 7
 demon_form = "ORGANIC"
 known = true
@@ -253,8 +253,8 @@ first_sentience = 3905
 demon_disposition = "ASSIMILATOR"
 
 [Anqa]
+hip = 80467
 demon_name = "ANQA"
-hipparcos_id = 80179
 demon_type = 6
 demon_form = "LATTICE"
 known = true
@@ -262,8 +262,8 @@ first_sentience = 3558
 demon_disposition = "ANALYZER"
 
 [Ancitif]
+hip = 44728
 demon_name = "ANCITIF"
-hipparcos_id = 106559
 demon_type = 9
 demon_form = "RECONSTITUTION"
 known = true
@@ -271,8 +271,8 @@ first_sentience = 4133
 demon_disposition = "DESTROYER"
 
 [Andhaka]
+hip = 9085
 demon_name = "ANDHAKA"
-hipparcos_id = 33202
 demon_type = 9
 demon_form = "SWARM"
 known = true
@@ -280,8 +280,8 @@ first_sentience = 3939
 demon_disposition = "DEVOURER"
 
 [Andras]
+hip = 61212
 demon_name = "ANDRAS"
-hipparcos_id = 66249
 demon_type = 3
 demon_form = "TORUS"
 known = false
@@ -289,8 +289,8 @@ first_sentience = 4804
 demon_disposition = "BENEFICIARY"
 
 [Andrealphus]
+hip = 69699
 demon_name = "ANDREALPHUS"
-hipparcos_id = 107310
 demon_type = 7
 demon_form = "TORUS"
 known = true
@@ -298,8 +298,8 @@ first_sentience = 4590
 demon_disposition = "DESTROYER"
 
 [Andromalius]
+hip = 102485
 demon_name = "ANDROMALIUS"
-hipparcos_id = 117815
 demon_type = 5
 demon_form = "LATTICE"
 known = true
@@ -307,8 +307,8 @@ first_sentience = 4025
 demon_disposition = "OBSERVER"
 
 [Anti]
+hip = 46733
 demon_name = "ANTI"
-hipparcos_id = 88726
 demon_type = 4
 demon_form = "LATTICE"
 known = true
@@ -316,8 +316,8 @@ first_sentience = 3101
 demon_disposition = "STRINGIFIER"
 
 [Antichrist]
+hip = 71989
 demon_name = "ANTICHRIST"
-hipparcos_id = 87822
 demon_type = 6
 demon_form = "SWARM"
 known = true
@@ -325,8 +325,8 @@ first_sentience = 4178
 demon_disposition = "OBSERVER"
 
 [Anzû]
+hip = 70782
 demon_name = "ANZÛ"
-hipparcos_id = 17651
 demon_type = 3
 demon_form = "TORUS"
 known = true
@@ -334,8 +334,8 @@ first_sentience = 4202
 demon_disposition = "DESTROYER"
 
 [Apaosha]
+hip = 58876
 demon_name = "APAOSHA"
-hipparcos_id = 41134
 demon_type = 3
 demon_form = "LOCUS"
 known = true
@@ -343,8 +343,8 @@ first_sentience = 3741
 demon_disposition = "CRUSHER"
 
 [Apep]
+hip = 93185
 demon_name = "APEP"
-hipparcos_id = 114378
 demon_type = 4
 demon_form = "LATTICE"
 known = false
@@ -352,8 +352,8 @@ first_sentience = 4005
 demon_disposition = "ANALYZER"
 
 [Archon]
+hip = 24332
 demon_name = "ARCHON"
-hipparcos_id = 75308
 demon_type = 7
 demon_form = "LATTICE"
 known = true
@@ -361,8 +361,8 @@ first_sentience = 3195
 demon_disposition = "DESTROYER"
 
 [Arioch]
+hip = 86614
 demon_name = "ARIOCH"
-hipparcos_id = 5280
 demon_type = 3
 demon_form = "RECONSTITUTION"
 known = true
@@ -370,8 +370,8 @@ first_sentience = 3127
 demon_disposition = "STRINGIFIER"
 
 [Arunasura]
+hip = 48319
 demon_name = "ARUNASURA"
-hipparcos_id = 56280
 demon_type = 6
 demon_form = "RECONSTITUTION"
 known = true
@@ -379,8 +379,8 @@ first_sentience = 4613
 demon_disposition = "ANALYZER"
 
 [Asag]
+hip = 88945
 demon_name = "ASAG"
-hipparcos_id = 78400
 demon_type = 5
 demon_form = "TORUS"
 known = true
@@ -388,8 +388,8 @@ first_sentience = 3067
 demon_disposition = "CRUSHER"
 
 [Asakku]
+hip = 2021
 demon_name = "ASAKKU"
-hipparcos_id = 18413
 demon_type = 4
 demon_form = "LATTICE"
 known = true
@@ -397,8 +397,8 @@ first_sentience = 4517
 demon_disposition = "ANALYZER"
 
 [Asbel]
+hip = 98819
 demon_name = "ASB'EL"
-hipparcos_id = 106213
 demon_type = 9
 demon_form = "LOCUS"
 known = true
@@ -406,8 +406,8 @@ first_sentience = 4865
 demon_disposition = "OBSERVER"
 
 [Asmodai]
+hip = 45038
 demon_name = "ASMODAI"
-hipparcos_id = 97295
 demon_type = 3
 demon_form = "ORGANIC"
 known = true
@@ -415,8 +415,8 @@ first_sentience = 3713
 demon_disposition = "BENEFICIARY"
 
 [Aswang]
+hip = 36238
 demon_name = "ASWANG"
-hipparcos_id = 43557
 demon_type = 5
 demon_form = "LATTICE"
 known = true
@@ -424,8 +424,8 @@ first_sentience = 3416
 demon_disposition = "ANALYZER"
 
 [Astaroth]
+hip = 54872
 demon_name = "ASTAROTH"
-hipparcos_id = 8209
 demon_type = 7
 demon_form = "LATTICE"
 known = true
@@ -433,8 +433,8 @@ first_sentience = 4370
 demon_disposition = "DESTROYER"
 
 [Asura]
+hip = 27075
 demon_name = "ASURA"
-hipparcos_id = 30503
 demon_type = 7
 demon_form = "SWARM"
 known = true
@@ -442,8 +442,8 @@ first_sentience = 3587
 demon_disposition = "CRUSHER"
 
 [Azazel]
+hip = 69535
 demon_name = "AZAZEL"
-hipparcos_id = 49809
 demon_type = 8
 demon_form = "SWARM"
 known = true
@@ -451,8 +451,8 @@ first_sentience = 4711
 demon_disposition = "ASSIMILATOR"
 
 [Baal]
+hip = 93825
 demon_name = "BAAL"
-hipparcos_id = 62896
 demon_type = 4
 demon_form = "RECONSTITUTION"
 known = true
@@ -460,8 +460,8 @@ first_sentience = 3756
 demon_disposition = "CRUSHER"
 
 [Babi ngepet]
+hip = 71192
 demon_name = "BABI NGEPET"
-hipparcos_id = 60048
 demon_type = 6
 demon_form = "SPHERE"
 known = true
@@ -469,8 +469,8 @@ first_sentience = 4850
 demon_disposition = "ASSIMILATOR"
 
 [Bakasura]
+hip = 23482
 demon_name = "BAKASURA"
-hipparcos_id = 53721
 demon_type = 9
 demon_form = "ORGANIC"
 known = true
@@ -478,8 +478,8 @@ first_sentience = 4013
 demon_disposition = "BENEFICIARY"
 
 [Baku]
+hip = 89474
 demon_name = "BAKU"
-hipparcos_id = 15201
 demon_type = 5
 demon_form = "LATTICE"
 known = true
@@ -487,8 +487,8 @@ first_sentience = 4780
 demon_disposition = "DESTROYER"
 
 [Balam]
+hip = 53737
 demon_name = "BALAM"
-hipparcos_id = 85010
 demon_type = 6
 demon_form = "LATTICE"
 known = true
@@ -496,8 +496,8 @@ first_sentience = 3855
 demon_disposition = "CRUSHER"
 
 [Balberith]
+hip = 74824
 demon_name = "BALBERITH"
-hipparcos_id = 5896
 demon_type = 9
 demon_form = "SWARM"
 known = true
@@ -505,8 +505,8 @@ first_sentience = 4209
 demon_disposition = "DESTROYER"
 
 [Bali Raj]
+hip = 25662
 demon_name = "BALI RAJ"
-hipparcos_id = 32362
 demon_type = 5
 demon_form = "SPHERE"
 known = false
@@ -514,8 +514,8 @@ first_sentience = 3521
 demon_disposition = "ANALYZER"
 
 [Banshee]
+hip = 66860
 demon_name = "BANSHEE"
-hipparcos_id = 61212
 demon_type = 4
 demon_form = "SPHERE"
 known = true
@@ -523,8 +523,8 @@ first_sentience = 3274
 demon_disposition = "DESTROYER"
 
 [Baphomet]
+hip = 63584
 demon_name = "BAPHOMET"
-hipparcos_id = 18267
 demon_type = 7
 demon_form = "ORGANIC"
 known = true
@@ -532,8 +532,8 @@ first_sentience = 4470
 demon_disposition = "ASSIMILATOR"
 
 [Barbatos]
+hip = 107310
 demon_name = "BARBATOS"
-hipparcos_id = 97675
 demon_type = 8
 demon_form = "ORGANIC"
 known = false
@@ -541,8 +541,8 @@ first_sentience = 4843
 demon_disposition = "STRINGIFIER"
 
 [Barong]
+hip = 45336
 demon_name = "BARONG"
-hipparcos_id = 72622
 demon_type = 3
 demon_form = "ORGANIC"
 known = true
@@ -550,8 +550,8 @@ first_sentience = 3997
 demon_disposition = "ASSIMILATOR"
 
 [Bathin]
+hip = 73941
 demon_name = "BATHIN"
-hipparcos_id = 12444
 demon_type = 7
 demon_form = "SWARM"
 known = true
@@ -559,8 +559,8 @@ first_sentience = 4229
 demon_disposition = "DESTROYER"
 
 [Beelzebub]
+hip = 5799
 demon_name = "BEELZEBUB"
-hipparcos_id = 71957
 demon_type = 6
 demon_form = "TORUS"
 known = true
@@ -568,8 +568,8 @@ first_sentience = 4724
 demon_disposition = "ASSIMILATOR"
 
 [Belial]
+hip = 75415
 demon_name = "BELIAL"
-hipparcos_id = 23941
 demon_type = 6
 demon_form = "TORUS"
 known = true
@@ -577,8 +577,8 @@ first_sentience = 4618
 demon_disposition = "ANALYZER"
 
 [Beleth]
+hip = 73309
 demon_name = "BELETH"
-hipparcos_id = 109245
 demon_type = 3
 demon_form = "RECONSTITUTION"
 known = true
@@ -586,8 +586,8 @@ first_sentience = 3151
 demon_disposition = "DESTROYER"
 
 [Belphegor]
+hip = 43177
 demon_name = "BELPHEGOR"
-hipparcos_id = 93174
 demon_type = 6
 demon_form = "SPHERE"
 known = true
@@ -595,8 +595,8 @@ first_sentience = 4402
 demon_disposition = "ASSIMILATOR"
 
 [Berith]
+hip = 67408
 demon_name = "BERITH"
-hipparcos_id = 3810
 demon_type = 3
 demon_form = "ORGANIC"
 known = true
@@ -604,8 +604,8 @@ first_sentience = 4999
 demon_disposition = "DEVOURER"
 
 [Bhūta]
+hip = 51502
 demon_name = "BHŪTA"
-hipparcos_id = 17336
 demon_type = 8
 demon_form = "RECONSTITUTION"
 known = true
@@ -613,8 +613,8 @@ first_sentience = 3613
 demon_disposition = "DEVOURER"
 
 [Bifrons]
+hip = 30067
 demon_name = "BIFRONS"
-hipparcos_id = 64407
 demon_type = 4
 demon_form = "LATTICE"
 known = true
@@ -622,8 +622,8 @@ first_sentience = 3939
 demon_disposition = "OBSERVER"
 
 [Boruta]
+hip = 64532
 demon_name = "BORUTA"
-hipparcos_id = 51386
 demon_type = 8
 demon_form = "LATTICE"
 known = true
@@ -631,8 +631,8 @@ first_sentience = 3775
 demon_disposition = "DESTROYER"
 
 [Botis]
+hip = 44127
 demon_name = "BOTIS"
-hipparcos_id = 82369
 demon_type = 6
 demon_form = "ORGANIC"
 known = true
@@ -640,8 +640,8 @@ first_sentience = 3447
 demon_disposition = "DEVOURER"
 
 [Buer]
+hip = 1599
 demon_name = "BUER"
-hipparcos_id = 116106
 demon_type = 4
 demon_form = "RECONSTITUTION"
 known = false
@@ -649,8 +649,8 @@ first_sentience = 4042
 demon_disposition = "BENEFICIARY"
 
 [Bukavac]
+hip = 78400
 demon_name = "BUKAVAC"
-hipparcos_id = 80399
 demon_type = 3
 demon_form = "LATTICE"
 known = true
@@ -658,8 +658,8 @@ first_sentience = 4660
 demon_disposition = "BENEFICIARY"
 
 [Bushyasta]
+hip = 22844
 demon_name = "BUSHYASTA"
-hipparcos_id = 32366
 demon_type = 8
 demon_form = "SWARM"
 known = false
@@ -667,8 +667,8 @@ first_sentience = 4142
 demon_disposition = "CRUSHER"
 
 [Caim]
+hip = 71251
 demon_name = "CAIM"
-hipparcos_id = 3203
 demon_type = 8
 demon_form = "RECONSTITUTION"
 known = true
@@ -676,8 +676,8 @@ first_sentience = 3996
 demon_disposition = "OBSERVER"
 
 [Cambion]
+hip = 85268
 demon_name = "CAMBION"
-hipparcos_id = 22844
 demon_type = 3
 demon_form = "SWARM"
 known = true
@@ -685,8 +685,8 @@ first_sentience = 3439
 demon_disposition = "DEVOURER"
 
 [Charun]
+hip = 40702
 demon_name = "CHARUN"
-hipparcos_id = 15973
 demon_type = 6
 demon_form = "LOCUS"
 known = true
@@ -694,8 +694,8 @@ first_sentience = 4409
 demon_disposition = "ANALYZER"
 
 [Chemosh]
+hip = 33202
 demon_name = "CHEMOSH"
-hipparcos_id = 39710
 demon_type = 8
 demon_form = "ORGANIC"
 known = true
@@ -703,8 +703,8 @@ first_sentience = 4955
 demon_disposition = "DESTROYER"
 
 [Choronzon]
+hip = 61379
 demon_name = "CHORONZON"
-hipparcos_id = 42525
 demon_type = 8
 demon_form = "SWARM"
 known = true
@@ -712,8 +712,8 @@ first_sentience = 3981
 demon_disposition = "BENEFICIARY"
 
 [Chort]
+hip = 80902
 demon_name = "CHORT"
-hipparcos_id = 26016
 demon_type = 8
 demon_form = "SPHERE"
 known = true
@@ -721,8 +721,8 @@ first_sentience = 3970
 demon_disposition = "CRUSHER"
 
 [Cimejes]
+hip = 72223
 demon_name = "CIMEJES"
-hipparcos_id = 60816
 demon_type = 4
 demon_form = "RECONSTITUTION"
 known = true
@@ -730,8 +730,8 @@ first_sentience = 4966
 demon_disposition = "CRUSHER"
 
 [Corson]
+hip = 47508
 demon_name = "CORSON"
-hipparcos_id = 110078
 demon_type = 3
 demon_form = "RECONSTITUTION"
 known = false
@@ -739,8 +739,8 @@ first_sentience = 4295
 demon_disposition = "ASSIMILATOR"
 
 [Crocell]
+hip = 8514
 demon_name = "CROCELL"
-hipparcos_id = 29800
 demon_type = 4
 demon_form = "SWARM"
 known = true
@@ -748,8 +748,8 @@ first_sentience = 4600
 demon_disposition = "BENEFICIARY"
 
 [Daeva]
+hip = 15131
 demon_name = "DAEVA"
-hipparcos_id = 91237
 demon_type = 8
 demon_form = "SPHERE"
 known = false
@@ -757,8 +757,8 @@ first_sentience = 3766
 demon_disposition = "OBSERVER"
 
 [Dagon]
+hip = 26016
 demon_name = "DAGON"
-hipparcos_id = 21861
 demon_type = 6
 demon_form = "LOCUS"
 known = true
@@ -766,8 +766,8 @@ first_sentience = 3387
 demon_disposition = "ASSIMILATOR"
 
 [Dantalion]
+hip = 78999
 demon_name = "DANTALION"
-hipparcos_id = 75206
 demon_type = 8
 demon_form = "RECONSTITUTION"
 known = true
@@ -775,8 +775,8 @@ first_sentience = 4537
 demon_disposition = "BENEFICIARY"
 
 [Danjal]
+hip = 30862
 demon_name = "DANJAL"
-hipparcos_id = 115713
 demon_type = 3
 demon_form = "SPHERE"
 known = false
@@ -784,8 +784,8 @@ first_sentience = 4655
 demon_disposition = "ASSIMILATOR"
 
 [Decarabia]
+hip = 28634
 demon_name = "DECARABIA"
-hipparcos_id = 90936
 demon_type = 8
 demon_form = "SPHERE"
 known = true
@@ -793,8 +793,8 @@ first_sentience = 4332
 demon_disposition = "STRINGIFIER"
 
 [Demogorgon]
+hip = 43904
 demon_name = "DEMOGORGON"
-hipparcos_id = 92043
 demon_type = 3
 demon_form = "LATTICE"
 known = true
@@ -802,8 +802,8 @@ first_sentience = 3718
 demon_disposition = "BENEFICIARY"
 
 [Dev]
+hip = 96441
 demon_name = "DEV"
-hipparcos_id = 88771
 demon_type = 6
 demon_form = "LATTICE"
 known = false
@@ -811,8 +811,8 @@ first_sentience = 3047
 demon_disposition = "BENEFICIARY"
 
 [Devil]
+hip = 4151
 demon_name = "DEVIL"
-hipparcos_id = 72603
 demon_type = 6
 demon_form = "SPHERE"
 known = true
@@ -820,8 +820,8 @@ first_sentience = 4322
 demon_disposition = "ASSIMILATOR"
 
 [Div-e Sepid]
+hip = 25110
 demon_name = "DIV-E SEPID"
-hipparcos_id = 95932
 demon_type = 4
 demon_form = "SPHERE"
 known = true
@@ -829,8 +829,8 @@ first_sentience = 4098
 demon_disposition = "CRUSHER"
 
 [Djall]
+hip = 104887
 demon_name = "DJALL"
-hipparcos_id = 32500
 demon_type = 9
 demon_form = "SPHERE"
 known = true
@@ -838,8 +838,8 @@ first_sentience = 4969
 demon_disposition = "ANALYZER"
 
 [Drekavac]
+hip = 54182
 demon_name = "DREKAVAC"
-hipparcos_id = 55280
 demon_type = 3
 demon_form = "LOCUS"
 known = true
@@ -847,8 +847,8 @@ first_sentience = 3127
 demon_disposition = "CRUSHER"
 
 [Dzoavits]
+hip = 39710
 demon_name = "DZOAVITS"
-hipparcos_id = 64459
 demon_type = 9
 demon_form = "SPHERE"
 known = true
@@ -856,8 +856,8 @@ first_sentience = 3191
 demon_disposition = "DESTROYER"
 
 [Eblis]
+hip = 60994
 demon_name = "EBLIS"
-hipparcos_id = 83196
 demon_type = 3
 demon_form = "LOCUS"
 known = true
@@ -865,8 +865,8 @@ first_sentience = 4891
 demon_disposition = "ASSIMILATOR"
 
 [Eligos]
+hip = 69671
 demon_name = "ELIGOS"
-hipparcos_id = 61174
 demon_type = 7
 demon_form = "SPHERE"
 known = true
@@ -874,8 +874,8 @@ first_sentience = 4823
 demon_disposition = "ASSIMILATOR"
 
 [Eisheth]
+hip = 77718
 demon_name = "EISHETH"
-hipparcos_id = 2484
 demon_type = 3
 demon_form = "LATTICE"
 known = true
@@ -883,8 +883,8 @@ first_sentience = 3809
 demon_disposition = "STRINGIFIER"
 
 [Erlik]
+hip = 95501
 demon_name = "ERLIK"
-hipparcos_id = 61941
 demon_type = 3
 demon_form = "SWARM"
 known = true
@@ -892,8 +892,8 @@ first_sentience = 4197
 demon_disposition = "OBSERVER"
 
 [Focalor]
+hip = 85007
 demon_name = "FOCALOR"
-hipparcos_id = 56675
 demon_type = 4
 demon_form = "SPHERE"
 known = true
@@ -901,8 +901,8 @@ first_sentience = 4578
 demon_disposition = "ANALYZER"
 
 [Foras]
+hip = 63121
 demon_name = "FORAS"
-hipparcos_id = 64792
 demon_type = 7
 demon_form = "SWARM"
 known = true
@@ -910,8 +910,8 @@ first_sentience = 4473
 demon_disposition = "STRINGIFIER"
 
 [Furcas]
+hip = 71530
 demon_name = "FURCAS"
-hipparcos_id = 8497
 demon_type = 7
 demon_form = "SPHERE"
 known = true
@@ -919,8 +919,8 @@ first_sentience = 4580
 demon_disposition = "STRINGIFIER"
 
 [Furfur]
+hip = 59180
 demon_name = "FURFUR"
-hipparcos_id = 56445
 demon_type = 8
 demon_form = "TORUS"
 known = true
@@ -928,8 +928,8 @@ first_sentience = 3959
 demon_disposition = "DEVOURER"
 
 [Gaap]
+hip = 96395
 demon_name = "GAAP"
-hipparcos_id = 5799
 demon_type = 6
 demon_form = "LOCUS"
 known = false
@@ -937,8 +937,8 @@ first_sentience = 4443
 demon_disposition = "STRINGIFIER"
 
 [Gaderel]
+hip = 70520
 demon_name = "GADER'EL"
-hipparcos_id = 102693
 demon_type = 3
 demon_form = "SWARM"
 known = true
@@ -946,8 +946,8 @@ first_sentience = 3565
 demon_disposition = "DESTROYER"
 
 [Gadulta]
+hip = 61872
 demon_name = "GADULTA"
-hipparcos_id = 44897
 demon_type = 9
 demon_form = "SPHERE"
 known = true
@@ -955,8 +955,8 @@ first_sentience = 3686
 demon_disposition = "CRUSHER"
 
 [Gaf]
+hip = 32851
 demon_name = "GAF"
-hipparcos_id = 32480
 demon_type = 7
 demon_form = "ORGANIC"
 known = false
@@ -964,8 +964,8 @@ first_sentience = 4158
 demon_disposition = "ASSIMILATOR"
 
 [Gaki]
+hip = 86736
 demon_name = "GAKI"
-hipparcos_id = 93747
 demon_type = 3
 demon_form = "LATTICE"
 known = true
@@ -973,8 +973,8 @@ first_sentience = 3265
 demon_disposition = "ANALYZER"
 
 [Gamigin]
+hip = 69653
 demon_name = "GAMIGIN"
-hipparcos_id = 28790
 demon_type = 6
 demon_form = "LATTICE"
 known = true
@@ -982,8 +982,8 @@ first_sentience = 4283
 demon_disposition = "ASSIMILATOR"
 
 [Ghaddar]
+hip = 51658
 demon_name = "GHADDAR"
-hipparcos_id = 50473
 demon_type = 7
 demon_form = "SWARM"
 known = true
@@ -991,8 +991,8 @@ first_sentience = 4886
 demon_disposition = "OBSERVER"
 
 [Ghoul]
+hip = 72336
 demon_name = "GHOUL"
-hipparcos_id = 35550
 demon_type = 7
 demon_form = "SPHERE"
 known = true
@@ -1000,8 +1000,8 @@ first_sentience = 4587
 demon_disposition = "DESTROYER"
 
 [Giu]
+hip = 84183
 demon_name = "GIU"
-hipparcos_id = 12390
 demon_type = 9
 demon_form = "ORGANIC"
 known = false
@@ -1009,8 +1009,8 @@ first_sentience = 3642
 demon_disposition = "DESTROYER"
 
 [Glasya-Labolas]
+hip = 23875
 demon_name = "GLASYA-LABOLAS"
-hipparcos_id = 103389
 demon_type = 9
 demon_form = "TORUS"
 known = true
@@ -1018,8 +1018,8 @@ first_sentience = 3041
 demon_disposition = "ANALYZER"
 
 [Gorgon]
+hip = 87382
 demon_name = "GORGON"
-hipparcos_id = 110960
 demon_type = 5
 demon_form = "SPHERE"
 known = true
@@ -1027,8 +1027,8 @@ first_sentience = 3205
 demon_disposition = "BENEFICIARY"
 
 [Grigori]
+hip = 69701
 demon_name = "GRIGORI"
-hipparcos_id = 47836
 demon_type = 3
 demon_form = "RECONSTITUTION"
 known = true
@@ -1036,8 +1036,8 @@ first_sentience = 4159
 demon_disposition = "ANALYZER"
 
 [Gualichu]
+hip = 87234
 demon_name = "GUALICHU"
-hipparcos_id = 109427
 demon_type = 3
 demon_form = "LOCUS"
 known = true
@@ -1045,8 +1045,8 @@ first_sentience = 4632
 demon_disposition = "OBSERVER"
 
 [Guayota]
+hip = 41181
 demon_name = "GUAYOTA"
-hipparcos_id = 70319
 demon_type = 5
 demon_form = "RECONSTITUTION"
 known = true
@@ -1054,8 +1054,8 @@ first_sentience = 4392
 demon_disposition = "ASSIMILATOR"
 
 [Gusion]
+hip = 70499
 demon_name = "GUSION"
-hipparcos_id = 117880
 demon_type = 7
 demon_form = "ORGANIC"
 known = true
@@ -1063,8 +1063,8 @@ first_sentience = 4775
 demon_disposition = "BENEFICIARY"
 
 [Haagenti]
+hip = 46853
 demon_name = "HAAGENTI"
-hipparcos_id = 89620
 demon_type = 3
 demon_form = "LOCUS"
 known = true
@@ -1072,8 +1072,8 @@ first_sentience = 4292
 demon_disposition = "CRUSHER"
 
 [Hag]
+hip = 20800
 demon_name = "HAG"
-hipparcos_id = 43177
 demon_type = 6
 demon_form = "LOCUS"
 known = true
@@ -1081,8 +1081,8 @@ first_sentience = 3313
 demon_disposition = "ANALYZER"
 
 [Halphas]
+hip = 56802
 demon_name = "HALPHAS"
-hipparcos_id = 44248
 demon_type = 3
 demon_form = "ORGANIC"
 known = true
@@ -1090,8 +1090,8 @@ first_sentience = 3431
 demon_disposition = "BENEFICIARY"
 
 [Haures]
+hip = 39506
 demon_name = "HAURES"
-hipparcos_id = 45571
 demon_type = 4
 demon_form = "ORGANIC"
 known = true
@@ -1099,8 +1099,8 @@ first_sentience = 4806
 demon_disposition = "DEVOURER"
 
 [Hinn]
+hip = 83608
 demon_name = "HINN"
-hipparcos_id = 67275
 demon_type = 7
 demon_form = "LATTICE"
 known = true
@@ -1108,8 +1108,8 @@ first_sentience = 3114
 demon_disposition = "ASSIMILATOR"
 
 [Hanbi]
+hip = 102431
 demon_name = "HANBI"
-hipparcos_id = 2715
 demon_type = 5
 demon_form = "SPHERE"
 known = true
@@ -1117,8 +1117,8 @@ first_sentience = 3941
 demon_disposition = "CRUSHER"
 
 [Hannya]
+hip = 89282
 demon_name = "HANNYA"
-hipparcos_id = 14146
 demon_type = 7
 demon_form = "LOCUS"
 known = true
@@ -1126,8 +1126,8 @@ first_sentience = 4510
 demon_disposition = "BENEFICIARY"
 
 [Ifrit]
+hip = 61174
 demon_name = "IFRIT"
-hipparcos_id = 62207
 demon_type = 8
 demon_form = "RECONSTITUTION"
 known = false
@@ -1135,8 +1135,8 @@ first_sentience = 4356
 demon_disposition = "CRUSHER"
 
 [Incubus]
+hip = 76568
 demon_name = "INCUBUS"
-hipparcos_id = 55705
 demon_type = 3
 demon_form = "ORGANIC"
 known = true
@@ -1144,8 +1144,8 @@ first_sentience = 3353
 demon_disposition = "DEVOURER"
 
 [Ipos]
+hip = 113368
 demon_name = "IPOS"
-hipparcos_id = 57217
 demon_type = 5
 demon_form = "ORGANIC"
 known = true
@@ -1153,8 +1153,8 @@ first_sentience = 3593
 demon_disposition = "OBSERVER"
 
 [Imp]
+hip = 42403
 demon_name = "IMP"
-hipparcos_id = 77257
 demon_type = 3
 demon_form = "LATTICE"
 known = false
@@ -1162,8 +1162,8 @@ first_sentience = 3323
 demon_disposition = "ASSIMILATOR"
 
 [Jinn]
+hip = 88771
 demon_name = "JINN"
-hipparcos_id = 77760
 demon_type = 6
 demon_form = "ORGANIC"
 known = true
@@ -1171,8 +1171,8 @@ first_sentience = 3812
 demon_disposition = "ANALYZER"
 
 [Jikininki]
+hip = 107556
 demon_name = "JIKININKI"
-hipparcos_id = 81693
 demon_type = 7
 demon_form = "SPHERE"
 known = true
@@ -1180,8 +1180,8 @@ first_sentience = 3409
 demon_disposition = "ANALYZER"
 
 [Kabandha]
+hip = 7513
 demon_name = "KABANDHA"
-hipparcos_id = 8486
 demon_type = 6
 demon_form = "SWARM"
 known = true
@@ -1189,8 +1189,8 @@ first_sentience = 3069
 demon_disposition = "DESTROYER"
 
 [Kallikantzaros]
+hip = 52498
 demon_name = "KALLIKANTZAROS"
-hipparcos_id = 2802
 demon_type = 3
 demon_form = "RECONSTITUTION"
 known = true
@@ -1198,8 +1198,8 @@ first_sentience = 3700
 demon_disposition = "BENEFICIARY"
 
 [Kara Iye]
+hip = 39780
 demon_name = "KARA İYE"
-hipparcos_id = 100412
 demon_type = 4
 demon_form = "TORUS"
 known = false
@@ -1207,8 +1207,8 @@ first_sentience = 3680
 demon_disposition = "DEVOURER"
 
 [Kokabiel]
+hip = 97438
 demon_name = "KOKABIEL"
-hipparcos_id = 85019
 demon_type = 4
 demon_form = "ORGANIC"
 known = true
@@ -1216,8 +1216,8 @@ first_sentience = 3944
 demon_disposition = "ANALYZER"
 
 [Kroni]
+hip = 77952
 demon_name = "KRONI"
-hipparcos_id = 3821
 demon_type = 3
 demon_form = "LATTICE"
 known = true
@@ -1225,8 +1225,8 @@ first_sentience = 3664
 demon_disposition = "DEVOURER"
 
 [Krampus]
+hip = 71876
 demon_name = "KRAMPUS"
-hipparcos_id = 28764
 demon_type = 5
 demon_form = "SWARM"
 known = true
@@ -1234,8 +1234,8 @@ first_sentience = 3705
 demon_disposition = "OBSERVER"
 
 [Krun]
+hip = 47403
 demon_name = "KRUN"
-hipparcos_id = 25486
 demon_type = 4
 demon_form = "RECONSTITUTION"
 known = true
@@ -1243,8 +1243,8 @@ first_sentience = 4098
 demon_disposition = "ANALYZER"
 
 [Killakee Cat]
+hip = 35350
 demon_name = "KILLAKEE CAT"
-hipparcos_id = 84379
 demon_type = 5
 demon_form = "LATTICE"
 known = true
@@ -1252,8 +1252,8 @@ first_sentience = 4025
 demon_disposition = "STRINGIFIER"
 
 [Kukudh]
+hip = 35136
 demon_name = "KUKUDH"
-hipparcos_id = 15442
 demon_type = 5
 demon_form = "ORGANIC"
 known = true
@@ -1261,8 +1261,8 @@ first_sentience = 4677
 demon_disposition = "OBSERVER"
 
 [Kulshedra]
+hip = 64792
 demon_name = "KULSHEDRA"
-hipparcos_id = 14632
 demon_type = 8
 demon_form = "RECONSTITUTION"
 known = true
@@ -1270,8 +1270,8 @@ first_sentience = 4751
 demon_disposition = "DEVOURER"
 
 [Kumbhakarna]
+hip = 71631
 demon_name = "KUMBHAKARNA"
-hipparcos_id = 40843
 demon_type = 8
 demon_form = "RECONSTITUTION"
 known = true
@@ -1279,8 +1279,8 @@ first_sentience = 3121
 demon_disposition = "CRUSHER"
 
 [Lamashtu]
+hip = 79578
 demon_name = "LAMASHTU"
-hipparcos_id = 111449
 demon_type = 6
 demon_form = "LOCUS"
 known = true
@@ -1288,8 +1288,8 @@ first_sentience = 4679
 demon_disposition = "CRUSHER"
 
 [Latabi]
+hip = 62527
 demon_name = "LATABI"
-hipparcos_id = 69414
 demon_type = 3
 demon_form = "RECONSTITUTION"
 known = true
@@ -1297,8 +1297,8 @@ first_sentience = 4069
 demon_disposition = "OBSERVER"
 
 [Legion]
+hip = 3821
 demon_name = "LEGION"
-hipparcos_id = 109268
 demon_type = 4
 demon_form = "TORUS"
 known = true
@@ -1306,8 +1306,8 @@ first_sentience = 3006
 demon_disposition = "STRINGIFIER"
 
 [Lechies]
+hip = 41184
 demon_name = "LECHIES"
-hipparcos_id = 29650
 demon_type = 6
 demon_form = "LATTICE"
 known = true
@@ -1315,8 +1315,8 @@ first_sentience = 3844
 demon_disposition = "DESTROYER"
 
 [Leonard]
+hip = 79152
 demon_name = "LEONARD"
-hipparcos_id = 8903
 demon_type = 6
 demon_form = "LATTICE"
 known = true
@@ -1324,8 +1324,8 @@ first_sentience = 4438
 demon_disposition = "ANALYZER"
 
 [Leyak]
+hip = 70500
 demon_name = "LEYAK"
-hipparcos_id = 44127
 demon_type = 8
 demon_form = "LATTICE"
 known = true
@@ -1333,8 +1333,8 @@ first_sentience = 4696
 demon_disposition = "STRINGIFIER"
 
 [Lempo]
+hip = 88175
 demon_name = "LEMPO"
-hipparcos_id = 100184
 demon_type = 4
 demon_form = "RECONSTITUTION"
 known = true
@@ -1342,8 +1342,8 @@ first_sentience = 3858
 demon_disposition = "ASSIMILATOR"
 
 [Leraje]
+hip = 80300
 demon_name = "LERAJE"
-hipparcos_id = 107649
 demon_type = 4
 demon_form = "LATTICE"
 known = false
@@ -1351,8 +1351,8 @@ first_sentience = 4867
 demon_disposition = "ASSIMILATOR"
 
 [Leviathan]
+hip = 14258
 demon_name = "LEVIATHAN"
-hipparcos_id = 86036
 demon_type = 8
 demon_form = "LATTICE"
 known = true
@@ -1360,8 +1360,8 @@ first_sentience = 4400
 demon_disposition = "BENEFICIARY"
 
 [Lili]
+hip = 51986
 demon_name = "LILI"
-hipparcos_id = 41871
 demon_type = 3
 demon_form = "LATTICE"
 known = true
@@ -1369,8 +1369,8 @@ first_sentience = 4274
 demon_disposition = "BENEFICIARY"
 
 [Lilith]
+hip = 12623
 demon_name = "LILITH"
-hipparcos_id = 79322
 demon_type = 4
 demon_form = "ORGANIC"
 known = false
@@ -1378,8 +1378,8 @@ first_sentience = 4847
 demon_disposition = "DESTROYER"
 
 [Ljubi]
+hip = 41975
 demon_name = "LJUBI"
-hipparcos_id = 35136
 demon_type = 9
 demon_form = "TORUS"
 known = true
@@ -1387,8 +1387,8 @@ first_sentience = 4217
 demon_disposition = "DESTROYER"
 
 [Lucifer]
+hip = 32874
 demon_name = "LUCIFER"
-hipparcos_id = 17147
 demon_type = 3
 demon_form = "LATTICE"
 known = true
@@ -1396,8 +1396,8 @@ first_sentience = 3553
 demon_disposition = "DESTROYER"
 
 [Lucifuge Rofocale]
+hip = 73623
 demon_name = "LUCIFUGE ROFOCALE"
-hipparcos_id = 7513
 demon_type = 4
 demon_form = "LOCUS"
 known = true
@@ -1405,8 +1405,8 @@ first_sentience = 3442
 demon_disposition = "DESTROYER"
 
 [Mag]
+hip = 50316
 demon_name = "MAG"
-hipparcos_id = 59380
 demon_type = 7
 demon_form = "LOCUS"
 known = true
@@ -1414,8 +1414,8 @@ first_sentience = 3749
 demon_disposition = "ANALYZER"
 
 [Mahishasur]
+hip = 23852
 demon_name = "MAHISHASUR"
-hipparcos_id = 3961
 demon_type = 6
 demon_form = "TORUS"
 known = true
@@ -1423,8 +1423,8 @@ first_sentience = 4551
 demon_disposition = "STRINGIFIER"
 
 [Manananggal]
+hip = 29208
 demon_name = "MANANANGGAL"
-hipparcos_id = 36366
 demon_type = 7
 demon_form = "RECONSTITUTION"
 known = true
@@ -1432,8 +1432,8 @@ first_sentience = 3260
 demon_disposition = "CRUSHER"
 
 [Malphas]
+hip = 76602
 demon_name = "MALPHAS"
-hipparcos_id = 49769
 demon_type = 5
 demon_form = "SPHERE"
 known = true
@@ -1441,8 +1441,8 @@ first_sentience = 4581
 demon_disposition = "BENEFICIARY"
 
 [Mammon]
+hip = 74674
 demon_name = "MAMMON"
-hipparcos_id = 79672
 demon_type = 7
 demon_form = "RECONSTITUTION"
 known = true
@@ -1450,8 +1450,8 @@ first_sentience = 4279
 demon_disposition = "STRINGIFIER"
 
 [Mara]
+hip = 12828
 demon_name = "MARA"
-hipparcos_id = 34834
 demon_type = 3
 demon_form = "SPHERE"
 known = true
@@ -1459,8 +1459,8 @@ first_sentience = 4233
 demon_disposition = "OBSERVER"
 
 [Marbas]
+hip = 28360
 demon_name = "MARBAS"
-hipparcos_id = 15371
 demon_type = 6
 demon_form = "LATTICE"
 known = true
@@ -1468,8 +1468,8 @@ first_sentience = 3878
 demon_disposition = "CRUSHER"
 
 [Maricha]
+hip = 46566
 demon_name = "MARICHA"
-hipparcos_id = 61621
 demon_type = 9
 demon_form = "SWARM"
 known = true
@@ -1477,8 +1477,8 @@ first_sentience = 3005
 demon_disposition = "OBSERVER"
 
 [Marax]
+hip = 80179
 demon_name = "MARAX"
-hipparcos_id = 48926
 demon_type = 6
 demon_form = "LATTICE"
 known = false
@@ -1486,8 +1486,8 @@ first_sentience = 3924
 demon_disposition = "BENEFICIARY"
 
 [Marchosias]
+hip = 39757
 demon_name = "MARCHOSIAS"
-hipparcos_id = 90223
 demon_type = 8
 demon_form = "TORUS"
 known = true
@@ -1495,8 +1495,8 @@ first_sentience = 4245
 demon_disposition = "BENEFICIARY"
 
 [Mastema]
+hip = 59380
 demon_name = "MASTEMA"
-hipparcos_id = 12530
 demon_type = 8
 demon_form = "LOCUS"
 known = true
@@ -1504,8 +1504,8 @@ first_sentience = 3452
 demon_disposition = "ASSIMILATOR"
 
 [Mazoku]
+hip = 48926
 demon_name = "MAZOKU"
-hipparcos_id = 49669
 demon_type = 6
 demon_form = "LOCUS"
 known = true
@@ -1513,8 +1513,8 @@ first_sentience = 3747
 demon_disposition = "OBSERVER"
 
 [Mephistopheles]
+hip = 76456
 demon_name = "MEPHISTOPHELES"
-hipparcos_id = 98470
 demon_type = 5
 demon_form = "RECONSTITUTION"
 known = true
@@ -1522,8 +1522,8 @@ first_sentience = 3710
 demon_disposition = "ANALYZER"
 
 [Merihem]
+hip = 94083
 demon_name = "MERIHEM"
-hipparcos_id = 81657
 demon_type = 6
 demon_form = "SPHERE"
 known = true
@@ -1531,8 +1531,8 @@ first_sentience = 4916
 demon_disposition = "DESTROYER"
 
 [Moloch]
+hip = 23941
 demon_name = "MOLOCH"
-hipparcos_id = 88745
 demon_type = 8
 demon_form = "LATTICE"
 known = true
@@ -1540,8 +1540,8 @@ first_sentience = 4412
 demon_disposition = "BENEFICIARY"
 
 [Murmur]
+hip = 109176
 demon_name = "MURMUR"
-hipparcos_id = 51933
 demon_type = 3
 demon_form = "SPHERE"
 known = true
@@ -1549,8 +1549,8 @@ first_sentience = 3306
 demon_disposition = "DEVOURER"
 
 [Naamah]
+hip = 92043
 demon_name = "NAAMAH"
-hipparcos_id = 78459
 demon_type = 7
 demon_form = "RECONSTITUTION"
 known = true
@@ -1558,8 +1558,8 @@ first_sentience = 4625
 demon_disposition = "STRINGIFIER"
 
 [Naberius]
+hip = 74730
 demon_name = "NABERIUS"
-hipparcos_id = 89937
 demon_type = 8
 demon_form = "TORUS"
 known = false
@@ -1567,8 +1567,8 @@ first_sentience = 4673
 demon_disposition = "DESTROYER"
 
 [Nalai]
+hip = 23783
 demon_name = "NALAI"
-hipparcos_id = 5985
 demon_type = 5
 demon_form = "ORGANIC"
 known = true
@@ -1576,8 +1576,8 @@ first_sentience = 3152
 demon_disposition = "CRUSHER"
 
 [Namtar]
+hip = 57083
 demon_name = "NAMTAR"
-hipparcos_id = 71284
 demon_type = 5
 demon_form = "LATTICE"
 known = true
@@ -1585,8 +1585,8 @@ first_sentience = 4125
 demon_disposition = "ANALYZER"
 
 [Nar as-samum]
+hip = 36152
 demon_name = "NAR AS-SAMUM"
-hipparcos_id = 1349
 demon_type = 8
 demon_form = "ORGANIC"
 known = true
@@ -1594,8 +1594,8 @@ first_sentience = 3567
 demon_disposition = "BENEFICIARY"
 
 [Narakasura]
+hip = 44075
 demon_name = "NARAKASURA"
-hipparcos_id = 23482
 demon_type = 3
 demon_form = "ORGANIC"
 known = true
@@ -1603,8 +1603,8 @@ first_sentience = 4026
 demon_disposition = "ANALYZER"
 
 [Ninurta]
+hip = 29860
 demon_name = "NINURTA"
-hipparcos_id = 16245
 demon_type = 7
 demon_form = "ORGANIC"
 known = true
@@ -1612,8 +1612,8 @@ first_sentience = 4565
 demon_disposition = "OBSERVER"
 
 [Niuli]
+hip = 5896
 demon_name = "NIULI"
-hipparcos_id = 46853
 demon_type = 8
 demon_form = "SPHERE"
 known = true
@@ -1621,8 +1621,8 @@ first_sentience = 3890
 demon_disposition = "DEVOURER"
 
 [Oni]
+hip = 114924
 demon_name = "ONI"
-hipparcos_id = 82860
 demon_type = 3
 demon_form = "LATTICE"
 known = true
@@ -1630,8 +1630,8 @@ first_sentience = 3369
 demon_disposition = "CRUSHER"
 
 [Onoskelis]
+hip = 38325
 demon_name = "ONOSKELIS"
-hipparcos_id = 29860
 demon_type = 8
 demon_form = "LOCUS"
 known = true
@@ -1639,8 +1639,8 @@ first_sentience = 4080
 demon_disposition = "CRUSHER"
 
 [Orcus]
+hip = 56186
 demon_name = "ORCUS"
-hipparcos_id = 3170
 demon_type = 3
 demon_form = "TORUS"
 known = true
@@ -1648,8 +1648,8 @@ first_sentience = 4478
 demon_disposition = "OBSERVER"
 
 [Orias]
+hip = 45858
 demon_name = "ORIAS"
-hipparcos_id = 9085
 demon_type = 9
 demon_form = "SWARM"
 known = true
@@ -1657,8 +1657,8 @@ first_sentience = 3480
 demon_disposition = "DESTROYER"
 
 [Orobas]
+hip = 32439
 demon_name = "OROBAS"
-hipparcos_id = 57021
 demon_type = 3
 demon_form = "TORUS"
 known = true
@@ -1666,8 +1666,8 @@ first_sentience = 4382
 demon_disposition = "ASSIMILATOR"
 
 [Ose]
+hip = 79837
 demon_name = "OSE"
-hipparcos_id = 50316
 demon_type = 6
 demon_form = "SPHERE"
 known = true
@@ -1675,8 +1675,8 @@ first_sentience = 3827
 demon_disposition = "OBSERVER"
 
 [Ordog]
+hip = 59750
 demon_name = "ÖRDÖG"
-hipparcos_id = 78562
 demon_type = 5
 demon_form = "TORUS"
 known = true
@@ -1684,8 +1684,8 @@ first_sentience = 3794
 demon_disposition = "CRUSHER"
 
 [O Tokata]
+hip = 50191
 demon_name = "O TOKATA"
-hipparcos_id = 85365
 demon_type = 3
 demon_form = "RECONSTITUTION"
 known = true
@@ -1693,8 +1693,8 @@ first_sentience = 3536
 demon_disposition = "CRUSHER"
 
 [Paimon]
+hip = 48524
 demon_name = "PAIMON"
-hipparcos_id = 104043
 demon_type = 7
 demon_form = "SPHERE"
 known = true
@@ -1702,8 +1702,8 @@ first_sentience = 3728
 demon_disposition = "CRUSHER"
 
 [Pazuzu]
+hip = 88194
 demon_name = "PAZUZU"
-hipparcos_id = 87108
 demon_type = 9
 demon_form = "SPHERE"
 known = true
@@ -1711,8 +1711,8 @@ first_sentience = 3716
 demon_disposition = "BENEFICIARY"
 
 [Pelesit]
+hip = 93747
 demon_name = "PELESIT"
-hipparcos_id = 95501
 demon_type = 4
 demon_form = "LOCUS"
 known = true
@@ -1720,8 +1720,8 @@ first_sentience = 4378
 demon_disposition = "CRUSHER"
 
 [Phenex]
+hip = 40283
 demon_name = "PHENEX"
-hipparcos_id = 40706
 demon_type = 5
 demon_form = "SWARM"
 known = true
@@ -1729,8 +1729,8 @@ first_sentience = 4377
 demon_disposition = "BENEFICIARY"
 
 [Penemue]
+hip = 10644
 demon_name = "PENEMUE"
-hipparcos_id = 86263
 demon_type = 5
 demon_form = "LOCUS"
 known = false
@@ -1738,8 +1738,8 @@ first_sentience = 3669
 demon_disposition = "ASSIMILATOR"
 
 [Pocong]
+hip = 55779
 demon_name = "POCONG"
-hipparcos_id = 98819
 demon_type = 7
 demon_form = "LATTICE"
 known = true
@@ -1747,8 +1747,8 @@ first_sentience = 3579
 demon_disposition = "ASSIMILATOR"
 
 [Pontianak]
+hip = 45493
 demon_name = "PONTIANAK"
-hipparcos_id = 57488
 demon_type = 9
 demon_form = "TORUS"
 known = true
@@ -1756,8 +1756,8 @@ first_sentience = 3939
 demon_disposition = "BENEFICIARY"
 
 [Preta]
+hip = 61621
 demon_name = "PRETA"
-hipparcos_id = 112117
 demon_type = 6
 demon_form = "SPHERE"
 known = true
@@ -1765,8 +1765,8 @@ first_sentience = 4048
 demon_disposition = "OBSERVER"
 
 [Purson]
+hip = 84893
 demon_name = "PURSON"
-hipparcos_id = 105199
 demon_type = 5
 demon_form = "TORUS"
 known = false
@@ -1774,8 +1774,8 @@ first_sentience = 4939
 demon_disposition = "ASSIMILATOR"
 
 [Pruflas]
+hip = 38048
 demon_name = "PRUFLAS"
-hipparcos_id = 2711
 demon_type = 8
 demon_form = "LOCUS"
 known = true
@@ -1783,8 +1783,8 @@ first_sentience = 3670
 demon_disposition = "DESTROYER"
 
 [Puloman]
+hip = 44014
 demon_name = "PULOMAN"
-hipparcos_id = 36850
 demon_type = 3
 demon_form = "SWARM"
 known = true
@@ -1792,8 +1792,8 @@ first_sentience = 3774
 demon_disposition = "STRINGIFIER"
 
 [Qin]
+hip = 28790
 demon_name = "QIN"
-hipparcos_id = 108036
 demon_type = 6
 demon_form = "SPHERE"
 known = true
@@ -1801,8 +1801,8 @@ first_sentience = 3897
 demon_disposition = "STRINGIFIER"
 
 [Rahab]
+hip = 48390
 demon_name = "RAHAB"
-hipparcos_id = 85158
 demon_type = 5
 demon_form = "SWARM"
 known = true
@@ -1810,8 +1810,8 @@ first_sentience = 4961
 demon_disposition = "ASSIMILATOR"
 
 [Rahovart]
+hip = 50786
 demon_name = "RAHOVART"
-hipparcos_id = 78072
 demon_type = 5
 demon_form = "TORUS"
 known = true
@@ -1819,8 +1819,8 @@ first_sentience = 4517
 demon_disposition = "BENEFICIARY"
 
 [Rakshasa]
+hip = 80686
 demon_name = "RAKSHASA"
-hipparcos_id = 47175
 demon_type = 6
 demon_form = "SPHERE"
 known = true
@@ -1828,8 +1828,8 @@ first_sentience = 3953
 demon_disposition = "STRINGIFIER"
 
 [Rangda]
+hip = 83601
 demon_name = "RANGDA"
-hipparcos_id = 67927
 demon_type = 6
 demon_form = "LATTICE"
 known = true
@@ -1837,8 +1837,8 @@ first_sentience = 4333
 demon_disposition = "DEVOURER"
 
 [Raum]
+hip = 75379
 demon_name = "RAUM"
-hipparcos_id = 89808
 demon_type = 9
 demon_form = "SPHERE"
 known = true
@@ -1846,8 +1846,8 @@ first_sentience = 3816
 demon_disposition = "ANALYZER"
 
 [Ravana]
+hip = 52469
 demon_name = "RAVANA"
-hipparcos_id = 57757
 demon_type = 9
 demon_form = "LOCUS"
 known = true
@@ -1855,8 +1855,8 @@ first_sentience = 4191
 demon_disposition = "STRINGIFIER"
 
 [Rimmon]
+hip = 77801
 demon_name = "RIMMON"
-hipparcos_id = 113860
 demon_type = 3
 demon_form = "LATTICE"
 known = true
@@ -1864,8 +1864,8 @@ first_sentience = 3337
 demon_disposition = "DEVOURER"
 
 [Ronove]
+hip = 18413
 demon_name = "RONOVE"
-hipparcos_id = 12706
 demon_type = 9
 demon_form = "RECONSTITUTION"
 known = true
@@ -1873,8 +1873,8 @@ first_sentience = 4062
 demon_disposition = "CRUSHER"
 
 [Ribesal]
+hip = 18267
 demon_name = "RIBESAL"
-hipparcos_id = 60994
 demon_type = 3
 demon_form = "TORUS"
 known = true
@@ -1882,8 +1882,8 @@ first_sentience = 3830
 demon_disposition = "STRINGIFIER"
 
 [Rusalka]
+hip = 19859
 demon_name = "RUSALKA"
-hipparcos_id = 32439
 demon_type = 7
 demon_form = "TORUS"
 known = true
@@ -1891,8 +1891,8 @@ first_sentience = 4446
 demon_disposition = "OBSERVER"
 
 [Ruha]
+hip = 76603
 demon_name = "RUHA"
-hipparcos_id = 30711
 demon_type = 3
 demon_form = "SWARM"
 known = true
@@ -1900,8 +1900,8 @@ first_sentience = 3478
 demon_disposition = "CRUSHER"
 
 [Revenant]
+hip = 54233
 demon_name = "REVENANT"
-hipparcos_id = 93825
 demon_type = 7
 demon_form = "LATTICE"
 known = true
@@ -1909,8 +1909,8 @@ first_sentience = 3091
 demon_disposition = "DESTROYER"
 
 [Sabnock]
+hip = 76829
 demon_name = "SABNOCK"
-hipparcos_id = 54582
 demon_type = 3
 demon_form = "TORUS"
 known = true
@@ -1918,8 +1918,8 @@ first_sentience = 4119
 demon_disposition = "DESTROYER"
 
 [Saleos]
+hip = 8903
 demon_name = "SALEOS"
-hipparcos_id = 113896
 demon_type = 3
 demon_form = "SWARM"
 known = true
@@ -1927,8 +1927,8 @@ first_sentience = 3899
 demon_disposition = "STRINGIFIER"
 
 [Samael]
+hip = 33277
 demon_name = "SAMAEL"
-hipparcos_id = 49593
 demon_type = 8
 demon_form = "TORUS"
 known = true
@@ -1936,8 +1936,8 @@ first_sentience = 4762
 demon_disposition = "DESTROYER"
 
 [Salpsan]
+hip = 59072
 demon_name = "SALPSAN"
-hipparcos_id = 32775
 demon_type = 7
 demon_form = "RECONSTITUTION"
 known = true
@@ -1945,8 +1945,8 @@ first_sentience = 4456
 demon_disposition = "BENEFICIARY"
 
 [Satanachia]
+hip = 44984
 demon_name = "SATANACHIA"
-hipparcos_id = 3505
 demon_type = 3
 demon_form = "ORGANIC"
 known = true
@@ -1954,8 +1954,8 @@ first_sentience = 3378
 demon_disposition = "CRUSHER"
 
 [Seir]
+hip = 86620
 demon_name = "SEIR"
-hipparcos_id = 8514
 demon_type = 6
 demon_form = "SWARM"
 known = true
@@ -1963,8 +1963,8 @@ first_sentience = 4396
 demon_disposition = "DESTROYER"
 
 [Semyaza]
+hip = 51700
 demon_name = "SEMYAZA"
-hipparcos_id = 45333
 demon_type = 5
 demon_form = "RECONSTITUTION"
 known = true
@@ -1972,8 +1972,8 @@ first_sentience = 4261
 demon_disposition = "STRINGIFIER"
 
 [Shax]
+hip = 46509
 demon_name = "SHAX"
-hipparcos_id = 88622
 demon_type = 8
 demon_form = "LOCUS"
 known = true
@@ -1981,8 +1981,8 @@ first_sentience = 4622
 demon_disposition = "OBSERVER"
 
 [Shaitan]
+hip = 47436
 demon_name = "SHAITAN"
-hipparcos_id = 33277
 demon_type = 3
 demon_form = "SPHERE"
 known = true
@@ -1990,8 +1990,8 @@ first_sentience = 3717
 demon_disposition = "ANALYZER"
 
 [Shedim]
+hip = 33212
 demon_name = "SHEDIM"
-hipparcos_id = 57363
 demon_type = 9
 demon_form = "SPHERE"
 known = true
@@ -1999,8 +1999,8 @@ first_sentience = 4440
 demon_disposition = "CRUSHER"
 
 [Shdum]
+hip = 79822
 demon_name = "SHDUM"
-hipparcos_id = 93506
 demon_type = 8
 demon_form = "RECONSTITUTION"
 known = true
@@ -2008,8 +2008,8 @@ first_sentience = 4293
 demon_disposition = "CRUSHER"
 
 [Sitri]
+hip = 14632
 demon_name = "SITRI"
-hipparcos_id = 32076
 demon_type = 5
 demon_form = "LATTICE"
 known = true
@@ -2017,8 +2017,8 @@ first_sentience = 4646
 demon_disposition = "DEVOURER"
 
 [Stihi]
+hip = 92984
 demon_name = "STIHI"
-hipparcos_id = 87558
 demon_type = 4
 demon_form = "LATTICE"
 known = true
@@ -2026,8 +2026,8 @@ first_sentience = 3279
 demon_disposition = "DESTROYER"
 
 [Stolas]
+hip = 14576
 demon_name = "STOLAS"
-hipparcos_id = 98416
 demon_type = 5
 demon_form = "ORGANIC"
 known = true
@@ -2035,8 +2035,8 @@ first_sentience = 4738
 demon_disposition = "BENEFICIARY"
 
 [Suanggi]
+hip = 96258
 demon_name = "SUANGGI"
-hipparcos_id = 55254
 demon_type = 3
 demon_form = "LATTICE"
 known = true
@@ -2044,8 +2044,8 @@ first_sentience = 3358
 demon_disposition = "DESTROYER"
 
 [Succubus]
+hip = 88622
 demon_name = "SUCCUBUS"
-hipparcos_id = 6276
 demon_type = 9
 demon_form = "SWARM"
 known = true
@@ -2053,8 +2053,8 @@ first_sentience = 3229
 demon_disposition = "STRINGIFIER"
 
 [Surgat]
+hip = 56321
 demon_name = "SURGAT"
-hipparcos_id = 49081
 demon_type = 5
 demon_form = "RECONSTITUTION"
 known = true
@@ -2062,8 +2062,8 @@ first_sentience = 4039
 demon_disposition = "OBSERVER"
 
 [Sut]
+hip = 84012
 demon_name = "SUT"
-hipparcos_id = 67953
 demon_type = 4
 demon_form = "LOCUS"
 known = true
@@ -2071,8 +2071,8 @@ first_sentience = 3155
 demon_disposition = "DEVOURER"
 
 [Shinigami]
+hip = 40015
 demon_name = "SHINIGAMI"
-hipparcos_id = 50191
 demon_type = 4
 demon_form = "LOCUS"
 known = true
@@ -2080,8 +2080,8 @@ first_sentience = 3031
 demon_disposition = "STRINGIFIER"
 
 [Shuten Doji]
+hip = 25486
 demon_name = "SHUTEN DOJI"
-hipparcos_id = 55642
 demon_type = 4
 demon_form = "SWARM"
 known = true
@@ -2089,8 +2089,8 @@ first_sentience = 4639
 demon_disposition = "BENEFICIARY"
 
 [Tannin]
+hip = 61960
 demon_name = "TANNIN"
-hipparcos_id = 95149
 demon_type = 6
 demon_form = "RECONSTITUTION"
 known = true
@@ -2098,8 +2098,8 @@ first_sentience = 4531
 demon_disposition = "BENEFICIARY"
 
 [El Tio]
+hip = 98416
 demon_name = "EL TÍO"
-hipparcos_id = 50493
 demon_type = 8
 demon_form = "SPHERE"
 known = true
@@ -2107,8 +2107,8 @@ first_sentience = 3418
 demon_disposition = "DEVOURER"
 
 [Tengu]
+hip = 65378
 demon_name = "TENGU"
-hipparcos_id = 12777
 demon_type = 9
 demon_form = "SWARM"
 known = true
@@ -2116,8 +2116,8 @@ first_sentience = 4825
 demon_disposition = "CRUSHER"
 
 [Titivillus]
+hip = 3170
 demon_name = "TITIVILLUS"
-hipparcos_id = 27075
 demon_type = 6
 demon_form = "SWARM"
 known = true
@@ -2125,8 +2125,8 @@ first_sentience = 3159
 demon_disposition = "ASSIMILATOR"
 
 [Toyol]
+hip = 51933
 demon_name = "TOYOL"
-hipparcos_id = 78547
 demon_type = 5
 demon_form = "LOCUS"
 known = true
@@ -2134,8 +2134,8 @@ first_sentience = 4912
 demon_disposition = "DESTROYER"
 
 [Tuchulcha]
+hip = 82587
 demon_name = "TUCHULCHA"
-hipparcos_id = 104680
 demon_type = 8
 demon_form = "SWARM"
 known = true
@@ -2143,8 +2143,8 @@ first_sentience = 3465
 demon_disposition = "ANALYZER"
 
 [Ukobach]
+hip = 46454
 demon_name = "UKOBACH"
-hipparcos_id = 48833
 demon_type = 7
 demon_form = "LOCUS"
 known = true
@@ -2152,8 +2152,8 @@ first_sentience = 4515
 demon_disposition = "ANALYZER"
 
 [Ur]
+hip = 32480
 demon_name = "UR"
-hipparcos_id = 69701
 demon_type = 8
 demon_form = "SPHERE"
 known = true
@@ -2161,8 +2161,8 @@ first_sentience = 4507
 demon_disposition = "ASSIMILATOR"
 
 [Valac]
+hip = 45333
 demon_name = "VALAC"
-hipparcos_id = 108736
 demon_type = 9
 demon_form = "RECONSTITUTION"
 known = true
@@ -2170,8 +2170,8 @@ first_sentience = 3119
 demon_disposition = "OBSERVER"
 
 [Valefar]
+hip = 97675
 demon_name = "VALEFAR"
-hipparcos_id = 1499
 demon_type = 6
 demon_form = "ORGANIC"
 known = true
@@ -2179,8 +2179,8 @@ first_sentience = 4527
 demon_disposition = "ANALYZER"
 
 [Vanth]
+hip = 85244
 demon_name = "VANTH"
-hipparcos_id = 94114
 demon_type = 9
 demon_form = "LOCUS"
 known = true
@@ -2188,8 +2188,8 @@ first_sentience = 4487
 demon_disposition = "OBSERVER"
 
 [Vapula]
+hip = 75718
 demon_name = "VAPULA"
-hipparcos_id = 3979
 demon_type = 5
 demon_form = "RECONSTITUTION"
 known = true
@@ -2197,8 +2197,8 @@ first_sentience = 3688
 demon_disposition = "STRINGIFIER"
 
 [Vassago]
+hip = 73440
 demon_name = "VASSAGO"
-hipparcos_id = 45238
 demon_type = 9
 demon_form = "LOCUS"
 known = false
@@ -2206,8 +2206,8 @@ first_sentience = 4469
 demon_disposition = "DESTROYER"
 
 [Vepar]
+hip = 116771
 demon_name = "VEPAR"
-hipparcos_id = 84862
 demon_type = 8
 demon_form = "RECONSTITUTION"
 known = true
@@ -2215,8 +2215,8 @@ first_sentience = 3166
 demon_disposition = "STRINGIFIER"
 
 [Vine]
+hip = 38018
 demon_name = "VINE"
-hipparcos_id = 61960
 demon_type = 8
 demon_form = "LATTICE"
 known = true
@@ -2224,8 +2224,8 @@ first_sentience = 4356
 demon_disposition = "CRUSHER"
 
 [Vual]
+hip = 104858
 demon_name = "VUAL"
-hipparcos_id = 522
 demon_type = 3
 demon_form = "RECONSTITUTION"
 known = true
@@ -2233,8 +2233,8 @@ first_sentience = 3673
 demon_disposition = "STRINGIFIER"
 
 [Wechuge]
+hip = 71469
 demon_name = "WECHUGE"
-hipparcos_id = 78169
 demon_type = 3
 demon_form = "LATTICE"
 known = true
@@ -2242,8 +2242,8 @@ first_sentience = 3943
 demon_disposition = "BENEFICIARY"
 
 [Wangliang]
+hip = 61597
 demon_name = "WANGLIANG"
-hipparcos_id = 96556
 demon_type = 8
 demon_form = "LOCUS"
 known = true
@@ -2251,8 +2251,8 @@ first_sentience = 3438
 demon_disposition = "DEVOURER"
 
 [Xaphan]
+hip = 42438
 demon_name = "XAPHAN"
-hipparcos_id = 24786
 demon_type = 9
 demon_form = "RECONSTITUTION"
 known = true
@@ -2260,8 +2260,8 @@ first_sentience = 3611
 demon_disposition = "DESTROYER"
 
 [Xezbeth]
+hip = 69518
 demon_name = "XEZBETH"
-hipparcos_id = 78527
 demon_type = 6
 demon_form = "RECONSTITUTION"
 known = true
@@ -2269,8 +2269,8 @@ first_sentience = 3113
 demon_disposition = "STRINGIFIER"
 
 [Yeqon]
+hip = 58369
 demon_name = "YEQON"
-hipparcos_id = 59610
 demon_type = 9
 demon_form = "SWARM"
 known = true
@@ -2278,8 +2278,8 @@ first_sentience = 4213
 demon_disposition = "ASSIMILATOR"
 
 [Zabaniyya]
+hip = 67927
 demon_name = "ZABANIYYA"
-hipparcos_id = 63008
 demon_type = 4
 demon_form = "RECONSTITUTION"
 known = true
@@ -2287,8 +2287,8 @@ first_sentience = 4589
 demon_disposition = "STRINGIFIER"
 
 [Zagan]
+hip = 62816
 demon_name = "ZAGAN"
-hipparcos_id = 53685
 demon_type = 7
 demon_form = "LOCUS"
 known = true
@@ -2296,8 +2296,8 @@ first_sentience = 4647
 demon_disposition = "STRINGIFIER"
 
 [Zahreil]
+hip = 71899
 demon_name = "ZAHREIL"
-hipparcos_id = 94645
 demon_type = 9
 demon_form = "SWARM"
 known = true
@@ -2305,8 +2305,8 @@ first_sentience = 3416
 demon_disposition = "DESTROYER"
 
 [Zartai-Zartanai]
+hip = 43625
 demon_name = "ZARTAI-ZARTANAI"
-hipparcos_id = 81681
 demon_type = 4
 demon_form = "LATTICE"
 known = false
@@ -2314,20 +2314,16 @@ first_sentience = 4618
 demon_disposition = "BENEFICIARY"
 
 [Zepar]
+hip = 32607
 demon_name = "ZEPAR"
-hipparcos_id = 54182
 demon_type = 5
 demon_form = "TORUS"
 known = true
 first_sentience = 3392
 demon_disposition = "OBSERVER"
 
-
-
-# entries without HIP id
-
-
 [Agaliarept]
+hip = 31681
 demon_name = "AGALIAREPT"
 demon_type = 7
 demon_form = "ORGANIC"
@@ -2336,6 +2332,7 @@ first_sentience = 3461
 demon_disposition = "DEVOURER"
 
 [Armaros]
+hip = 67153
 demon_name = "ARMAROS"
 demon_type = 7
 demon_form = "SWARM"
@@ -2344,6 +2341,7 @@ first_sentience = 3694
 demon_disposition = "ASSIMILATOR"
 
 [Azi Dahaka]
+hip = 41211
 demon_name = "AZI DAHAKA"
 demon_type = 7
 demon_form = "RECONSTITUTION"
@@ -2352,6 +2350,7 @@ first_sentience = 4158
 demon_disposition = "OBSERVER"
 
 [Bune]
+hip = 40875
 demon_name = "BUNE"
 demon_type = 5
 demon_form = "TORUS"
@@ -2360,6 +2359,7 @@ first_sentience = 3515
 demon_disposition = "ANALYZER"
 
 [Dajjal]
+hip = 28908
 demon_name = "DAJJAL"
 demon_type = 8
 demon_form = "SWARM"
@@ -2368,6 +2368,7 @@ first_sentience = 4694
 demon_disposition = "DEVOURER"
 
 [Forneus]
+hip = 64459
 demon_name = "FORNEUS"
 demon_type = 5
 demon_form = "LATTICE"
@@ -2376,6 +2377,7 @@ first_sentience = 4377
 demon_disposition = "STRINGIFIER"
 
 [Gremory]
+hip = 72622
 demon_name = "GREMORY"
 demon_type = 6
 demon_form = "ORGANIC"
@@ -2384,6 +2386,7 @@ first_sentience = 4862
 demon_disposition = "DESTROYER"
 
 [Kasadya]
+hip = 53954
 demon_name = "KASADYA"
 demon_type = 3
 demon_form = "RECONSTITUTION"
@@ -2392,6 +2395,7 @@ first_sentience = 4265
 demon_disposition = "OBSERVER"
 
 [Lamia]
+hip = 18859
 demon_name = "LAMIA"
 demon_type = 4
 demon_form = "TORUS"
@@ -2400,6 +2404,7 @@ first_sentience = 4809
 demon_disposition = "STRINGIFIER"
 
 [Marid]
+hip = 72567
 demon_name = "MARID"
 demon_type = 7
 demon_form = "LATTICE"

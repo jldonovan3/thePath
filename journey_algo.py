@@ -115,6 +115,11 @@ def require_int(row: pd.Series, column: str) -> int:
     return value
 
 
+def valid_hip_mask(df: pd.DataFrame) -> pd.Series:
+    """Return rows whose HIP identifier is present and integer-valued."""
+    return df["hip"].notna() & (df["hip"] > 0) & (df["hip"] % 1 == 0)
+
+
 def parse_spectral_rank(spect_str: str) -> int | None:
     """
     Convert a spectral type string such as 'G2V' or 'F5III' to a numeric rank.
@@ -140,13 +145,14 @@ def load_catalog(csv_path: Path) -> pd.DataFrame:
     Load the athyg CSV and prepare it for spatial queries.
 
     Filters out stars that lack valid 3D coordinates or a parseable spectral
-    type. Adds a 'spectral_rank' column.
+    type, then removes non-origin stars without valid HIP identifiers. Adds a
+    'spectral_rank' column.
     """
     print(f"Loading catalog from {csv_path} ...")
     df = pd.read_csv(csv_path, low_memory=False)
     print(f"  Raw rows: {len(df)}")
 
-    required_columns = ["id", "spect", "proper", "x0", "y0", "z0"]
+    required_columns = ["id", "hip", "spect", "proper", "x0", "y0", "z0"]
     missing_columns = [column for column in required_columns if column not in df.columns]
     if missing_columns:
         raise ValueError(
@@ -156,9 +162,11 @@ def load_catalog(csv_path: Path) -> pd.DataFrame:
 
     for coordinate_column in ["x0", "y0", "z0"]:
         df[coordinate_column] = pd.to_numeric(df[coordinate_column], errors="coerce")
+    df["hip"] = pd.to_numeric(df["hip"], errors="coerce")
 
     df["spectral_rank"] = df["spect"].apply(parse_spectral_rank)
     df = df.dropna(subset=["spectral_rank", "x0", "y0", "z0"]).copy()
+    df = df[valid_hip_mask(df) | (df["proper"] == "Sol")].copy()
     df["spectral_rank"] = df["spectral_rank"].astype(int)
     df["proper"] = df["proper"].fillna("")
 
@@ -172,13 +180,14 @@ def load_catalog(csv_path: Path) -> pd.DataFrame:
 
 def build_spatial_index(df: pd.DataFrame) -> SpatialIndex:
     """Build a KD-tree and aligned NumPy arrays for fast nearest-neighbor search."""
-    coords = df[["x0", "y0", "z0"]].to_numpy(dtype=np.float64)
-    cat_indices = df.index.to_numpy()
-    spectral_ranks = df["spectral_rank"].to_numpy(dtype=np.int16)
+    candidate_df = df[valid_hip_mask(df)]
+    coords = candidate_df[["x0", "y0", "z0"]].to_numpy(dtype=np.float64)
+    cat_indices = candidate_df.index.to_numpy()
+    spectral_ranks = candidate_df["spectral_rank"].to_numpy(dtype=np.int16)
     index_lookup = {int(cat_idx): pos for pos, cat_idx in enumerate(cat_indices)}
     tree = KDTree(coords)
 
-    print(f"  KD-tree built over {len(coords)} stars.")
+    print(f"  KD-tree built over {len(coords)} HIP-identified stars.")
     return SpatialIndex(
         tree=tree,
         coords=coords,
@@ -347,6 +356,7 @@ def build_star_payload(
     row = catalog.loc[cat_idx]
     payload: dict[str, Any] = {
         "athyg_id": require_int(row, "id"),
+        "hip": require_int(row, "hip"),
         "spectral_type": row["spect"],
         "spectral_rank": int(row["spectral_rank"]),
         "position_parsecs": {
@@ -358,10 +368,6 @@ def build_star_payload(
 
     if row["proper"]:
         payload["proper_name"] = row["proper"]
-
-    hip = optional_int(row, "hip")
-    if hip is not None:
-        payload["hip"] = hip
 
     absolute_magnitude = optional_float(row, "absmag")
     if absolute_magnitude is not None:
@@ -426,7 +432,7 @@ def run_branching_walk(
         raise ValueError("Sol not found in catalog.")
 
     sol_idx = int(catalog.index[sol_mask][0])
-    sol_pos = get_position(spatial_index, sol_idx)
+    sol_pos = catalog.loc[sol_idx, ["x0", "y0", "z0"]].to_numpy(dtype=np.float64)
     sol_rank = int(catalog.at[sol_idx, "spectral_rank"])
 
     print(
@@ -687,6 +693,25 @@ def verify_and_summarize(result: dict[str, Any]) -> bool:
     print(f"  Unique stars visited: {len(unique_stars)}  (nodes: {len(star_ids)})")
     if len(unique_stars) != len(star_ids):
         errors.append("Duplicate star detected in serialized tree.")
+
+    stars_missing_hip = sum(
+        1
+        for node in tree.values()
+        if not isinstance(node["star"].get("hip"), int)
+    )
+    leaf_stars_missing_hip = sum(
+        1
+        for leaf in leaves
+        if not isinstance(leaf["star"].get("hip"), int)
+    )
+    print(f"  Tree stars missing integer HIP identifiers: {stars_missing_hip}")
+    print(f"  Leaf stars missing integer HIP identifiers: {leaf_stars_missing_hip}")
+    if stars_missing_hip:
+        errors.append(f"{stars_missing_hip} tree stars are missing integer HIP IDs.")
+    if leaf_stars_missing_hip:
+        errors.append(
+            f"{leaf_stars_missing_hip} leaf stars are missing integer HIP IDs."
+        )
 
     violations = sum(
         1
