@@ -153,7 +153,9 @@ def load_catalog(csv_path: Path) -> pd.DataFrame:
     print(f"  Raw rows: {len(df)}")
 
     required_columns = ["id", "hip", "spect", "proper", "x0", "y0", "z0"]
-    missing_columns = [column for column in required_columns if column not in df.columns]
+    missing_columns = [
+        column for column in required_columns if column not in df.columns
+    ]
     if missing_columns:
         raise ValueError(
             "Catalog is missing required athyg-33 column(s): "
@@ -532,8 +534,10 @@ def run_branching_walk(
         node_pos = get_position(spatial_index, node.cat_idx)
 
         leaves_needed = target_leaves - len(current_leaves)
-        max_children = min(5, leaves_needed + 1)
-        child_count = rng.randint(1, max_children)
+        max_children = min(3, leaves_needed + 1)  # max number of children is 3
+        child_count = rng.randint(
+            1, max_children
+        )  # number of children is random 1 2 or 3
 
         if child_count == 1:
             jitter = np.array([rng.gauss(0, 0.3) for _ in range(3)], dtype=np.float64)
@@ -695,14 +699,10 @@ def verify_and_summarize(result: dict[str, Any]) -> bool:
         errors.append("Duplicate star detected in serialized tree.")
 
     stars_missing_hip = sum(
-        1
-        for node in tree.values()
-        if not isinstance(node["star"].get("hip"), int)
+        1 for node in tree.values() if not isinstance(node["star"].get("hip"), int)
     )
     leaf_stars_missing_hip = sum(
-        1
-        for leaf in leaves
-        if not isinstance(leaf["star"].get("hip"), int)
+        1 for leaf in leaves if not isinstance(leaf["star"].get("hip"), int)
     )
     print(f"  Tree stars missing integer HIP identifiers: {stars_missing_hip}")
     print(f"  Leaf stars missing integer HIP identifiers: {leaf_stars_missing_hip}")

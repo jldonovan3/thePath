@@ -1,0 +1,4840 @@
+[demon_tree]
+
+[demon_tree.origin]
+athyg_id = 1
+proper_name = "Sol"
+
+[demon_tree.node]
+
+[demon_tree.node."0"]
+children_ids = [1, 2]
+hip = 71683
+is_leaf = false
+spectral_type = "G2V"
+distance_from_sol_pc = 1.3248
+
+[demon_tree.node."1"]
+parent_id = 0
+children_ids = [3, 4, 5, 6, 7]
+hip = 64394
+is_leaf = false
+spectral_type = "G0V"
+distance_from_sol_pc = 9.1975
+
+[demon_tree.node."2"]
+parent_id = 0
+children_ids = [8, 9, 10]
+hip = 32349
+is_leaf = false
+spectral_type = "A0m..."
+distance_from_sol_pc = 2.6371
+
+[demon_tree.node."3"]
+parent_id = 1
+children_ids = [11, 12, 13, 14]
+hip = 62207
+is_leaf = false
+spectral_type = "G0V"
+distance_from_sol_pc = 17.5566
+
+[demon_tree.node."4"]
+parent_id = 1
+children_ids = [15, 16]
+hip = 57632
+is_leaf = false
+spectral_type = "A3V"
+distance_from_sol_pc = 10.9999
+
+[demon_tree.node."5"]
+parent_id = 1
+children_ids = [17, 18, 19, 20]
+hip = 64241
+is_leaf = false
+spectral_type = "F5V"
+distance_from_sol_pc = 17.8253
+
+[demon_tree.node."6"]
+parent_id = 1
+children_ids = [21, 22]
+hip = 71284
+is_leaf = false
+spectral_type = "F2V"
+distance_from_sol_pc = 15.756
+
+[demon_tree.node."7"]
+parent_id = 1
+children_ids = [23, 24, 25]
+hip = 70497
+is_leaf = false
+spectral_type = "F6IV"
+distance_from_sol_pc = 14.4784
+
+[demon_tree.node."8"]
+parent_id = 2
+children_ids = [26, 27, 28]
+hip = 27072
+is_leaf = false
+spectral_type = "F7V"
+distance_from_sol_pc = 8.905
+
+[demon_tree.node."9"]
+parent_id = 2
+children_ids = [29, 30, 31]
+hip = 37279
+is_leaf = false
+spectral_type = "F5IV-V"
+distance_from_sol_pc = 3.5142
+
+[demon_tree.node."10"]
+parent_id = 2
+children_ids = [32]
+hip = 22449
+is_leaf = false
+spectral_type = "F4V"
+distance_from_sol_pc = 8.0244
+
+[demon_tree.node."11"]
+parent_id = 3
+children_ids = [33, 34, 35, 36]
+hip = 54745
+is_leaf = false
+spectral_type = "G0V"
+distance_from_sol_pc = 22.6972
+
+[demon_tree.node."12"]
+parent_id = 3
+children_ids = [37, 38, 39]
+hip = 58001
+is_leaf = false
+spectral_type = "A0V"
+distance_from_sol_pc = 25.5037
+
+[demon_tree.node."13"]
+parent_id = 3
+children_ids = [40]
+hip = 66704
+is_leaf = false
+spectral_type = "F 7 V"
+distance_from_sol_pc = 25.5237
+
+[demon_tree.node."14"]
+parent_id = 3
+children_ids = [41, 42, 43]
+hip = 61053
+is_leaf = false
+spectral_type = "F 8 V"
+distance_from_sol_pc = 22.3091
+
+[demon_tree.node."15"]
+parent_id = 4
+children_ids = [44, 45, 46]
+hip = 57757
+is_leaf = false
+spectral_type = "F9 V"
+distance_from_sol_pc = 11.0018
+
+[demon_tree.node."16"]
+parent_id = 4
+children_ids = [47, 48, 49, 50]
+hip = 49081
+is_leaf = false
+spectral_type = "G2V"
+distance_from_sol_pc = 14.9263
+
+[demon_tree.node."17"]
+parent_id = 5
+children_ids = [51, 52, 53]
+hip = 66249
+is_leaf = false
+spectral_type = "A3V"
+distance_from_sol_pc = 22.8589
+
+[demon_tree.node."18"]
+parent_id = 5
+children_ids = [54]
+hip = 68030
+is_leaf = false
+spectral_type = "F 6 V"
+distance_from_sol_pc = 24.51
+
+[demon_tree.node."19"]
+parent_id = 5
+children_ids = [55]
+hip = 69989
+is_leaf = false
+spectral_type = "F5IV"
+distance_from_sol_pc = 26.1053
+
+[demon_tree.node."20"]
+parent_id = 5
+children_ids = [56, 57, 58, 59]
+hip = 56242
+is_leaf = false
+spectral_type = "G 0 V"
+distance_from_sol_pc = 23.4447
+
+[demon_tree.node."21"]
+parent_id = 6
+children_ids = [60, 61, 62, 63]
+hip = 75312
+is_leaf = false
+spectral_type = "G2V"
+distance_from_sol_pc = 17.8635
+
+[demon_tree.node."22"]
+parent_id = 6
+children_ids = [64, 65, 66, 67, 68]
+hip = 73996
+is_leaf = false
+spectral_type = "F5VW"
+distance_from_sol_pc = 19.536
+
+[demon_tree.node."23"]
+parent_id = 7
+children_ids = [69, 70, 71, 72]
+hip = 78527
+is_leaf = false
+spectral_type = "F8IV"
+distance_from_sol_pc = 21.5209
+
+[demon_tree.node."24"]
+parent_id = 7
+children_ids = [73, 74, 75, 76, 77]
+hip = 77760
+is_leaf = false
+spectral_type = "F8V"
+distance_from_sol_pc = 15.8976
+
+[demon_tree.node."25"]
+parent_id = 7
+children_ids = [78, 79]
+hip = 82860
+is_leaf = false
+spectral_type = "F6V"
+distance_from_sol_pc = 15.3162
+
+[demon_tree.node."26"]
+parent_id = 8
+children_ids = [80, 81, 82, 83, 84]
+hip = 23693
+is_leaf = false
+spectral_type = "F6/7 V"
+distance_from_sol_pc = 11.6927
+
+[demon_tree.node."27"]
+parent_id = 8
+children_ids = [85]
+hip = 28103
+is_leaf = false
+spectral_type = "F1V"
+distance_from_sol_pc = 14.9572
+
+[demon_tree.node."28"]
+parent_id = 8
+children_ids = [86]
+hip = 16852
+is_leaf = false
+spectral_type = "F8 V"
+distance_from_sol_pc = 13.9204
+
+[demon_tree.node."29"]
+parent_id = 9
+children_ids = [87, 88]
+hip = 27913
+is_leaf = false
+spectral_type = "G0V"
+distance_from_sol_pc = 8.6633
+
+[demon_tree.node."30"]
+parent_id = 9
+children_ids = [89, 90, 91, 92, 93]
+hip = 61317
+is_leaf = false
+spectral_type = "G0V"
+distance_from_sol_pc = 8.4727
+
+[demon_tree.node."31"]
+parent_id = 9
+children_ids = [94, 95, 96]
+hip = 89937
+is_leaf = false
+spectral_type = "F7Vvar"
+distance_from_sol_pc = 8.0574
+
+[demon_tree.node."32"]
+parent_id = 10
+children_ids = [97, 98]
+hip = 25278
+is_leaf = false
+spectral_type = "F8V"
+distance_from_sol_pc = 14.5792
+
+[demon_tree.node."33"]
+parent_id = 11
+children_ids = [99]
+hip = 50384
+is_leaf = false
+spectral_type = "F 8 VB W"
+distance_from_sol_pc = 22.2713
+
+[demon_tree.node."34"]
+parent_id = 11
+children_ids = [100, 101]
+hip = 49593
+is_leaf = false
+spectral_type = "A7V"
+distance_from_sol_pc = 27.5317
+
+[demon_tree.node."35"]
+parent_id = 11
+children_ids = [102, 103, 104]
+hip = 48833
+is_leaf = false
+spectral_type = "F5V"
+distance_from_sol_pc = 28.9177
+
+[demon_tree.node."36"]
+parent_id = 11
+children_ids = [105, 106, 107, 108, 109]
+hip = 44897
+is_leaf = false
+spectral_type = "F 9 V"
+distance_from_sol_pc = 18.9498
+
+[demon_tree.node."37"]
+parent_id = 12
+children_ids = [110, 111]
+hip = 53910
+is_leaf = false
+spectral_type = "A0V"
+distance_from_sol_pc = 25.9047
+
+[demon_tree.node."38"]
+parent_id = 12
+children_ids = [112, 113]
+hip = 58684
+is_leaf = false
+spectral_type = "F 0 VAM"
+distance_from_sol_pc = 33.3371
+
+[demon_tree.node."39"]
+parent_id = 12
+children_ids = [114]
+hip = 56290
+is_leaf = false
+spectral_type = "F6V"
+distance_from_sol_pc = 28.268
+
+[demon_tree.node."40"]
+parent_id = 13
+children_ids = [115, 116, 117]
+hip = 69713
+is_leaf = false
+spectral_type = "A7V"
+distance_from_sol_pc = 29.5111
+
+[demon_tree.node."41"]
+parent_id = 14
+children_ids = [118, 119, 120]
+hip = 59774
+is_leaf = false
+spectral_type = "A3Vvar"
+distance_from_sol_pc = 24.7967
+
+[demon_tree.node."42"]
+parent_id = 14
+children_ids = [121, 122]
+hip = 62956
+is_leaf = false
+spectral_type = "A0P"
+distance_from_sol_pc = 25.31
+
+[demon_tree.node."43"]
+parent_id = 14
+children_ids = [123, 124]
+hip = 62512
+is_leaf = false
+spectral_type = "F5V"
+distance_from_sol_pc = 26.1845
+
+[demon_tree.node."44"]
+parent_id = 15
+children_ids = [125]
+hip = 61941
+is_leaf = false
+spectral_type = "F0V+..."
+distance_from_sol_pc = 12.0202
+
+[demon_tree.node."45"]
+parent_id = 15
+children_ids = [126, 127, 128, 129]
+hip = 59199
+is_leaf = false
+spectral_type = "F0IV/V"
+distance_from_sol_pc = 14.9769
+
+[demon_tree.node."46"]
+parent_id = 15
+children_ids = [130]
+hip = 47592
+is_leaf = false
+spectral_type = "G0 V"
+distance_from_sol_pc = 14.9515
+
+[demon_tree.node."47"]
+parent_id = 16
+children_ids = [131, 132, 133, 134]
+hip = 40843
+is_leaf = false
+spectral_type = "F6V"
+distance_from_sol_pc = 18.2233
+
+[demon_tree.node."48"]
+parent_id = 16
+children_ids = [135]
+hip = 50564
+is_leaf = false
+spectral_type = "F6IV"
+distance_from_sol_pc = 21.2199
+
+[demon_tree.node."49"]
+parent_id = 16
+children_ids = [136, 137, 138]
+hip = 48113
+is_leaf = false
+spectral_type = "G1V"
+distance_from_sol_pc = 18.8226
+
+[demon_tree.node."50"]
+parent_id = 16
+children_ids = [139, 140, 141, 142, 143]
+hip = 44248
+is_leaf = false
+spectral_type = "F5V"
+distance_from_sol_pc = 16.0694
+
+[demon_tree.node."51"]
+parent_id = 17
+children_ids = [144, 145, 146, 147, 148]
+hip = 73165
+is_leaf = false
+spectral_type = "F2 V"
+distance_from_sol_pc = 27.5138
+
+[demon_tree.node."52"]
+parent_id = 17
+children_ids = [149, 150]
+hip = 62875
+is_leaf = false
+spectral_type = "F6 V"
+distance_from_sol_pc = 33.4357
+
+[demon_tree.node."53"]
+parent_id = 17
+children_ids = [151, 152, 153, 154, 155]
+hip = 63738
+is_leaf = false
+spectral_type = "F7 V"
+distance_from_sol_pc = 28.2087
+
+[demon_tree.node."54"]
+parent_id = 18
+children_ids = [156, 157, 158, 159]
+hip = 69536
+is_leaf = false
+spectral_type = "F 7 IV"
+distance_from_sol_pc = 33.6574
+
+[demon_tree.node."55"]
+parent_id = 19
+children_ids = [160, 161, 162]
+hip = 70386
+is_leaf = false
+spectral_type = "F5"
+distance_from_sol_pc = 37.9389
+
+[demon_tree.node."56"]
+parent_id = 20
+children_ids = [163, 164]
+hip = 55642
+is_leaf = false
+spectral_type = "F2IV"
+distance_from_sol_pc = 23.6101
+
+[demon_tree.node."57"]
+parent_id = 20
+children_ids = [165, 166]
+hip = 55254
+is_leaf = false
+spectral_type = "F 9 V"
+distance_from_sol_pc = 30.7409
+
+[demon_tree.node."58"]
+parent_id = 20
+children_ids = [167, 168, 169, 170, 171]
+hip = 50473
+is_leaf = false
+spectral_type = "G 0 V"
+distance_from_sol_pc = 31.8335
+
+[demon_tree.node."59"]
+parent_id = 20
+children_ids = [172]
+hip = 49669
+is_leaf = false
+spectral_type = "B7V"
+distance_from_sol_pc = 24.3132
+
+[demon_tree.node."60"]
+parent_id = 21
+children_ids = [173]
+hip = 80008
+is_leaf = false
+spectral_type = "F 3 V"
+distance_from_sol_pc = 26.9978
+
+[demon_tree.node."61"]
+parent_id = 21
+children_ids = [174]
+hip = 76267
+is_leaf = false
+spectral_type = "A0V"
+distance_from_sol_pc = 23.6738
+
+[demon_tree.node."62"]
+parent_id = 21
+children_ids = [175, 176, 177, 178]
+hip = 84379
+is_leaf = false
+spectral_type = "A3IV"
+distance_from_sol_pc = 23.54
+
+[demon_tree.node."63"]
+parent_id = 21
+children_ids = [179, 180, 181, 182, 183]
+hip = 78459
+is_leaf = false
+spectral_type = "G0V"
+distance_from_sol_pc = 17.5108
+
+[demon_tree.node."64"]
+parent_id = 22
+children_ids = [184, 185, 186, 187, 188]
+hip = 79607
+is_leaf = false
+spectral_type = "F 8 V"
+distance_from_sol_pc = 22.6976
+
+[demon_tree.node."65"]
+parent_id = 22
+children_ids = [189, 190, 191, 192, 193]
+hip = 71075
+is_leaf = false
+spectral_type = "A7IIIvar"
+distance_from_sol_pc = 26.3765
+
+[demon_tree.node."66"]
+parent_id = 22
+children_ids = [194, 195, 196, 197, 198]
+hip = 74975
+is_leaf = false
+spectral_type = "F7/8 V"
+distance_from_sol_pc = 25.1285
+
+[demon_tree.node."67"]
+parent_id = 22
+children_ids = [199]
+hip = 71957
+is_leaf = false
+spectral_type = "F2III"
+distance_from_sol_pc = 19.1639
+
+[demon_tree.node."68"]
+parent_id = 22
+children_ids = [200, 201]
+hip = 84862
+is_leaf = false
+spectral_type = "G0V"
+distance_from_sol_pc = 14.5863
+
+[demon_tree.node."69"]
+parent_id = 23
+children_ids = [202, 203]
+hip = 74605
+is_leaf = false
+spectral_type = "F8V"
+distance_from_sol_pc = 25.2853
+
+[demon_tree.node."70"]
+parent_id = 23
+children_ids = [204, 205, 206]
+hip = 82020
+is_leaf = false
+spectral_type = "F2V"
+distance_from_sol_pc = 26.7903
+
+[demon_tree.node."71"]
+parent_id = 23
+children_ids = [207, 208, 209]
+hip = 81800
+is_leaf = false
+spectral_type = "F8V"
+distance_from_sol_pc = 29.2964
+
+[demon_tree.node."72"]
+parent_id = 23
+children_ids = [210, 211, 212, 213, 214]
+hip = 89348
+is_leaf = false
+spectral_type = "F5V"
+distance_from_sol_pc = 23.1569
+
+[demon_tree.node."73"]
+parent_id = 24
+children_ids = [215]
+hip = 73100
+is_leaf = false
+spectral_type = "F 8 V"
+distance_from_sol_pc = 25.1587
+
+[demon_tree.node."74"]
+parent_id = 24
+children_ids = [216, 217, 218]
+hip = 86032
+is_leaf = false
+spectral_type = "A5III"
+distance_from_sol_pc = 14.8965
+
+[demon_tree.node."75"]
+parent_id = 24
+children_ids = [219, 220, 221, 222, 223]
+hip = 77257
+is_leaf = false
+spectral_type = "G0V"
+distance_from_sol_pc = 11.9159
+
+[demon_tree.node."76"]
+parent_id = 24
+children_ids = [224, 225, 226, 227, 228]
+hip = 88745
+is_leaf = false
+spectral_type = "F7V"
+distance_from_sol_pc = 15.7743
+
+[demon_tree.node."77"]
+parent_id = 24
+children_ids = [229, 230, 231]
+hip = 93017
+is_leaf = false
+spectral_type = "G0V"
+distance_from_sol_pc = 14.8721
+
+[demon_tree.node."78"]
+parent_id = 25
+children_ids = [232, 233]
+hip = 105199
+is_leaf = false
+spectral_type = "A7IV-V"
+distance_from_sol_pc = 15.0376
+
+[demon_tree.node."79"]
+parent_id = 25
+children_ids = [234]
+hip = 86036
+is_leaf = false
+spectral_type = "G0V"
+distance_from_sol_pc = 14.4335
+
+[demon_tree.node."80"]
+parent_id = 26
+children_ids = [235, 236, 237, 238, 239]
+hip = 105858
+is_leaf = false
+spectral_type = "F6V"
+distance_from_sol_pc = 9.2584
+
+[demon_tree.node."81"]
+parent_id = 26
+children_ids = [240]
+hip = 50954
+is_leaf = false
+spectral_type = "F2/3 IV/V"
+distance_from_sol_pc = 16.2776
+
+[demon_tree.node."82"]
+parent_id = 26
+children_ids = [241, 242, 243]
+hip = 27321
+is_leaf = false
+spectral_type = "A5 V"
+distance_from_sol_pc = 19.6345
+
+[demon_tree.node."83"]
+parent_id = 26
+children_ids = [244, 245, 246, 247]
+hip = 19893
+is_leaf = false
+spectral_type = "F0 V"
+distance_from_sol_pc = 20.4293
+
+[demon_tree.node."84"]
+parent_id = 26
+children_ids = [248, 249, 250, 251]
+hip = 9236
+is_leaf = false
+spectral_type = "F0V"
+distance_from_sol_pc = 19.3969
+
+[demon_tree.node."85"]
+parent_id = 27
+children_ids = [252, 253, 254, 255, 256]
+hip = 27288
+is_leaf = false
+spectral_type = "A2Vann"
+distance_from_sol_pc = 22.3244
+
+[demon_tree.node."86"]
+parent_id = 28
+children_ids = [257, 258, 259]
+hip = 12706
+is_leaf = false
+spectral_type = "A3V"
+distance_from_sol_pc = 24.4081
+
+[demon_tree.node."87"]
+parent_id = 29
+children_ids = [260, 261, 262, 263]
+hip = 28936
+is_leaf = false
+spectral_type = "F0"
+distance_from_sol_pc = 14.6071
+
+[demon_tree.node."88"]
+parent_id = 29
+children_ids = [264, 265]
+hip = 24813
+is_leaf = false
+spectral_type = "G0V"
+distance_from_sol_pc = 12.5625
+
+[demon_tree.node."89"]
+parent_id = 30
+children_ids = [266]
+hip = 51459
+is_leaf = false
+spectral_type = "F8V"
+distance_from_sol_pc = 12.9452
+
+[demon_tree.node."90"]
+parent_id = 30
+children_ids = [267, 268, 269, 270, 271]
+hip = 53721
+is_leaf = false
+spectral_type = "G0V"
+distance_from_sol_pc = 13.8875
+
+[demon_tree.node."91"]
+parent_id = 30
+children_ids = [272, 273, 274, 275]
+hip = 67275
+is_leaf = false
+spectral_type = "F6IV"
+distance_from_sol_pc = 15.6135
+
+[demon_tree.node."92"]
+parent_id = 30
+children_ids = [276, 277, 278, 279, 280]
+hip = 73695
+is_leaf = false
+spectral_type = "F 9 VN"
+distance_from_sol_pc = 12.5078
+
+[demon_tree.node."93"]
+parent_id = 30
+children_ids = [281]
+hip = 81693
+is_leaf = false
+spectral_type = "F9IV"
+distance_from_sol_pc = 10.7158
+
+[demon_tree.node."94"]
+parent_id = 31
+children_ids = [282, 283, 284, 285]
+hip = 12777
+is_leaf = false
+spectral_type = "F7V"
+distance_from_sol_pc = 11.1501
+
+[demon_tree.node."95"]
+parent_id = 31
+children_ids = [286, 287, 288, 289]
+hip = 91262
+is_leaf = false
+spectral_type = "A0V"
+distance_from_sol_pc = 7.6787
+
+[demon_tree.node."96"]
+parent_id = 31
+children_ids = [290, 291]
+hip = 97649
+is_leaf = false
+spectral_type = "A1N"
+distance_from_sol_pc = 5.1295
+
+[demon_tree.node."97"]
+parent_id = 32
+children_ids = [292, 293]
+hip = 29800
+is_leaf = false
+spectral_type = "F5IV-V"
+distance_from_sol_pc = 19.5879
+
+[demon_tree.node."98"]
+parent_id = 32
+children_ids = [294, 295, 296, 297, 298]
+hip = 19335
+is_leaf = false
+spectral_type = "F 7 V"
+distance_from_sol_pc = 21.1919
+
+[demon_tree.node."99"]
+parent_id = 33
+children_ids = [299, 300, 301]
+hip = 40167
+is_leaf = false
+spectral_type = "F8V"
+distance_from_sol_pc = 25.0815
+
+[demon_tree.node."100"]
+parent_id = 34
+children_ids = [302]
+hip = 46076
+is_leaf = false
+spectral_type = "G0"
+distance_from_sol_pc = 34.4075
+
+[demon_tree.node."101"]
+parent_id = 34
+children_ids = [303, 304]
+hip = 47300
+is_leaf = false
+spectral_type = "F 0 V"
+distance_from_sol_pc = 38.4929
+
+[demon_tree.node."102"]
+parent_id = 35
+children_ids = [305, 306]
+hip = 43410
+is_leaf = false
+spectral_type = "F 8 V"
+distance_from_sol_pc = 27.3822
+
+[demon_tree.node."103"]
+parent_id = 35
+children_ids = [307, 308, 309, 310, 311]
+hip = 45688
+is_leaf = false
+spectral_type = "A1V"
+distance_from_sol_pc = 40.4717
+
+[demon_tree.node."104"]
+parent_id = 35
+children_ids = [312, 313, 314]
+hip = 45836
+is_leaf = false
+spectral_type = "F 4 V"
+distance_from_sol_pc = 29.1956
+
+[demon_tree.node."105"]
+parent_id = 36
+children_ids = [315, 316, 317]
+hip = 35550
+is_leaf = false
+spectral_type = "F0IV..."
+distance_from_sol_pc = 18.598
+
+[demon_tree.node."106"]
+parent_id = 36
+children_ids = [318, 319, 320]
+hip = 36366
+is_leaf = false
+spectral_type = "F0V"
+distance_from_sol_pc = 18.0473
+
+[demon_tree.node."107"]
+parent_id = 36
+children_ids = [321, 322, 323, 324]
+hip = 44458
+is_leaf = false
+spectral_type = "G0"
+distance_from_sol_pc = 30.149
+
+[demon_tree.node."108"]
+parent_id = 36
+children_ids = [325, 326, 327]
+hip = 36439
+is_leaf = false
+spectral_type = "F6V"
+distance_from_sol_pc = 20.4021
+
+[demon_tree.node."109"]
+parent_id = 36
+children_ids = [328, 329, 330, 331]
+hip = 36850
+is_leaf = false
+spectral_type = "A1V"
+distance_from_sol_pc = 15.5958
+
+[demon_tree.node."110"]
+parent_id = 37
+children_ids = [332, 333, 334]
+hip = 51248
+is_leaf = false
+spectral_type = "G1V"
+distance_from_sol_pc = 22.9915
+
+[demon_tree.node."111"]
+parent_id = 37
+children_ids = [335, 336, 337, 338, 339]
+hip = 51814
+is_leaf = false
+spectral_type = "F1V"
+distance_from_sol_pc = 26.7778
+
+[demon_tree.node."112"]
+parent_id = 38
+children_ids = [340, 341, 342]
+hip = 57029
+is_leaf = false
+spectral_type = "F 4 V"
+distance_from_sol_pc = 41.9645
+
+[demon_tree.node."113"]
+parent_id = 38
+children_ids = [343, 344, 345]
+hip = 60988
+is_leaf = false
+spectral_type = "F 8 V"
+distance_from_sol_pc = 43.8072
+
+[demon_tree.node."114"]
+parent_id = 39
+children_ids = [346]
+hip = 56035
+is_leaf = false
+spectral_type = "F 5 VA VW"
+distance_from_sol_pc = 33.6065
+
+[demon_tree.node."115"]
+parent_id = 40
+children_ids = [347, 348]
+hip = 70253
+is_leaf = false
+spectral_type = "G0"
+distance_from_sol_pc = 41.6854
+
+[demon_tree.node."116"]
+parent_id = 40
+children_ids = [349, 350, 351, 352]
+hip = 69732
+is_leaf = false
+spectral_type = "A0P"
+distance_from_sol_pc = 30.6857
+
+[demon_tree.node."117"]
+parent_id = 40
+children_ids = [353]
+hip = 78180
+is_leaf = false
+spectral_type = "F0IV"
+distance_from_sol_pc = 33.7605
+
+[demon_tree.node."118"]
+parent_id = 41
+children_ids = [354, 355, 356, 357, 358]
+hip = 50606
+is_leaf = false
+spectral_type = "F 9 V"
+distance_from_sol_pc = 32.1826
+
+[demon_tree.node."119"]
+parent_id = 41
+children_ids = [359, 360]
+hip = 67103
+is_leaf = false
+spectral_type = "F 7 V"
+distance_from_sol_pc = 34.1872
+
+[demon_tree.node."120"]
+parent_id = 41
+children_ids = [361, 362, 363]
+hip = 63076
+is_leaf = false
+spectral_type = "F 0 V"
+distance_from_sol_pc = 29.4406
+
+[demon_tree.node."121"]
+parent_id = 42
+children_ids = [364, 365, 366]
+hip = 63503
+is_leaf = false
+spectral_type = "F2V"
+distance_from_sol_pc = 25.3403
+
+[demon_tree.node."122"]
+parent_id = 42
+children_ids = [367]
+hip = 65477
+is_leaf = false
+spectral_type = "A5V"
+distance_from_sol_pc = 25.0564
+
+[demon_tree.node."123"]
+parent_id = 43
+children_ids = [368, 369]
+hip = 63346
+is_leaf = false
+spectral_type = "G0"
+distance_from_sol_pc = 33.7302
+
+[demon_tree.node."124"]
+parent_id = 43
+children_ids = [370, 371, 372]
+hip = 70952
+is_leaf = false
+spectral_type = "F 5 IV"
+distance_from_sol_pc = 31.6881
+
+[demon_tree.node."125"]
+parent_id = 44
+children_ids = [373, 374, 375, 376, 377]
+hip = 69965
+is_leaf = false
+spectral_type = "F7(W)F3 V"
+distance_from_sol_pc = 17.9888
+
+[demon_tree.node."126"]
+parent_id = 45
+children_ids = [378]
+hip = 65109
+is_leaf = false
+spectral_type = "A2 V"
+distance_from_sol_pc = 17.839
+
+[demon_tree.node."127"]
+parent_id = 45
+children_ids = [379, 380, 381, 382]
+hip = 58803
+is_leaf = false
+spectral_type = "F5 V"
+distance_from_sol_pc = 24.7314
+
+[demon_tree.node."128"]
+parent_id = 45
+children_ids = [383, 384, 385]
+hip = 50075
+is_leaf = false
+spectral_type = "G0 V"
+distance_from_sol_pc = 22.432
+
+[demon_tree.node."129"]
+parent_id = 45
+children_ids = [386, 387, 388]
+hip = 64583
+is_leaf = false
+spectral_type = "F7IV"
+distance_from_sol_pc = 18.24
+
+[demon_tree.node."130"]
+parent_id = 46
+children_ids = [389, 390, 391]
+hip = 43947
+is_leaf = false
+spectral_type = "F5 V"
+distance_from_sol_pc = 18.932
+
+[demon_tree.node."131"]
+parent_id = 47
+children_ids = [392, 393, 394, 395]
+hip = 32362
+is_leaf = false
+spectral_type = "F3IV"
+distance_from_sol_pc = 18.4538
+
+[demon_tree.node."132"]
+parent_id = 47
+children_ids = [396, 397, 398, 399]
+hip = 42172
+is_leaf = false
+spectral_type = "F 8 V"
+distance_from_sol_pc = 26.0273
+
+[demon_tree.node."133"]
+parent_id = 47
+children_ids = [400]
+hip = 35265
+is_leaf = false
+spectral_type = "G0"
+distance_from_sol_pc = 27.249
+
+[demon_tree.node."134"]
+parent_id = 47
+children_ids = [401, 402]
+hip = 29650
+is_leaf = false
+spectral_type = "F6V"
+distance_from_sol_pc = 21.7763
+
+[demon_tree.leaf]
+
+[demon_tree.leaf."135"]
+parent_id = 48
+children_ids = []
+hip = 54182
+is_leaf = true
+spectral_type = "F2III-IV"
+distance_from_sol_pc = 28.9011
+demon_name = "DREKAVAC"
+demon_type = 3
+demon_form = "LOCUS"
+known = true
+first_sentience = 3127
+demon_disposition = "CRUSHER"
+
+[demon_tree.leaf."136"]
+parent_id = 49
+children_ids = []
+hip = 46733
+is_leaf = true
+spectral_type = "F0IV"
+distance_from_sol_pc = 23.7584
+demon_name = "ANTI"
+demon_type = 4
+demon_form = "LATTICE"
+known = true
+first_sentience = 3101
+demon_disposition = "STRINGIFIER"
+
+[demon_tree.leaf."137"]
+parent_id = 49
+children_ids = []
+hip = 45333
+is_leaf = true
+spectral_type = "F 9 V"
+distance_from_sol_pc = 20.237
+demon_name = "VALAC"
+demon_type = 9
+demon_form = "RECONSTITUTION"
+known = true
+first_sentience = 3119
+demon_disposition = "OBSERVER"
+
+[demon_tree.leaf."138"]
+parent_id = 49
+children_ids = []
+hip = 45038
+is_leaf = true
+spectral_type = "F6IV"
+distance_from_sol_pc = 20.5169
+demon_name = "ASMODAI"
+demon_type = 3
+demon_form = "ORGANIC"
+known = true
+first_sentience = 3713
+demon_disposition = "BENEFICIARY"
+
+[demon_tree.leaf."139"]
+parent_id = 50
+children_ids = []
+hip = 33277
+is_leaf = true
+spectral_type = "G 0 V"
+distance_from_sol_pc = 17.4047
+demon_name = "SAMAEL"
+demon_type = 8
+demon_form = "TORUS"
+known = true
+first_sentience = 4762
+demon_disposition = "DESTROYER"
+
+[demon_tree.leaf."140"]
+parent_id = 50
+children_ids = []
+hip = 35136
+is_leaf = true
+spectral_type = "G0V"
+distance_from_sol_pc = 16.8518
+demon_name = "KUKUDH"
+demon_type = 5
+demon_form = "ORGANIC"
+known = true
+first_sentience = 4677
+demon_disposition = "OBSERVER"
+
+[demon_tree.leaf."141"]
+parent_id = 50
+children_ids = []
+hip = 32480
+is_leaf = true
+spectral_type = "G0V"
+distance_from_sol_pc = 16.6106
+demon_name = "UR"
+demon_type = 8
+demon_form = "SPHERE"
+known = true
+first_sentience = 4507
+demon_disposition = "ASSIMILATOR"
+
+[demon_tree.leaf."142"]
+parent_id = 50
+children_ids = []
+hip = 44127
+is_leaf = true
+spectral_type = "A7IV"
+distance_from_sol_pc = 14.7057
+demon_name = "BOTIS"
+demon_type = 6
+demon_form = "ORGANIC"
+known = true
+first_sentience = 3447
+demon_disposition = "DEVOURER"
+
+[demon_tree.leaf."143"]
+parent_id = 50
+children_ids = []
+hip = 24608
+is_leaf = true
+spectral_type = "G0III"
+distance_from_sol_pc = 13.1234
+demon_name = "ABRAXAS"
+demon_type = 3
+demon_form = "ORGANIC"
+known = true
+first_sentience = 3829
+demon_disposition = "BENEFICIARY"
+
+[demon_tree.leaf."144"]
+parent_id = 51
+children_ids = []
+hip = 80179
+is_leaf = true
+spectral_type = "A9 Ib/II"
+distance_from_sol_pc = 28.1383
+demon_name = "MARAX"
+demon_type = 6
+demon_form = "LATTICE"
+known = false
+first_sentience = 3924
+demon_disposition = "BENEFICIARY"
+
+[demon_tree.leaf."145"]
+parent_id = 51
+children_ids = []
+hip = 73309
+is_leaf = true
+spectral_type = "F7 V"
+distance_from_sol_pc = 34.3072
+demon_name = "BELETH"
+demon_type = 3
+demon_form = "RECONSTITUTION"
+known = true
+first_sentience = 3151
+demon_disposition = "DESTROYER"
+
+[demon_tree.leaf."146"]
+parent_id = 51
+children_ids = []
+hip = 75379
+is_leaf = true
+spectral_type = "F3 V"
+distance_from_sol_pc = 28.8832
+demon_name = "RAUM"
+demon_type = 9
+demon_form = "SPHERE"
+known = true
+first_sentience = 3816
+demon_disposition = "ANALYZER"
+
+[demon_tree.leaf."147"]
+parent_id = 51
+children_ids = []
+hip = 78400
+is_leaf = true
+spectral_type = "F7 V"
+distance_from_sol_pc = 28.3555
+demon_name = "BUKAVAC"
+demon_type = 3
+demon_form = "LATTICE"
+known = true
+first_sentience = 4660
+demon_disposition = "BENEFICIARY"
+
+[demon_tree.leaf."148"]
+parent_id = 51
+children_ids = []
+hip = 78999
+is_leaf = true
+spectral_type = "F5 V"
+distance_from_sol_pc = 32.8793
+demon_name = "DANTALION"
+demon_type = 8
+demon_form = "RECONSTITUTION"
+known = true
+first_sentience = 4537
+demon_disposition = "BENEFICIARY"
+
+[demon_tree.leaf."149"]
+parent_id = 52
+children_ids = []
+hip = 61212
+is_leaf = true
+spectral_type = "F3 IV/V"
+distance_from_sol_pc = 38.0981
+demon_name = "ANDRAS"
+demon_type = 3
+demon_form = "TORUS"
+known = false
+first_sentience = 4804
+demon_disposition = "BENEFICIARY"
+
+[demon_tree.leaf."150"]
+parent_id = 52
+children_ids = []
+hip = 61960
+is_leaf = true
+spectral_type = "A0V"
+distance_from_sol_pc = 38.9225
+demon_name = "TANNIN"
+demon_type = 6
+demon_form = "RECONSTITUTION"
+known = true
+first_sentience = 4531
+demon_disposition = "BENEFICIARY"
+
+[demon_tree.leaf."151"]
+parent_id = 53
+children_ids = []
+hip = 64459
+is_leaf = true
+spectral_type = "G0 V"
+distance_from_sol_pc = 37.9683
+demon_name = "FORNEUS"
+demon_type = 5
+demon_form = "LATTICE"
+known = true
+first_sentience = 4377
+demon_disposition = "STRINGIFIER"
+
+[demon_tree.leaf."152"]
+parent_id = 53
+children_ids = []
+hip = 64407
+is_leaf = true
+spectral_type = "F6 V"
+distance_from_sol_pc = 33.4445
+demon_name = "ANATHAN"
+demon_type = 4
+demon_form = "LATTICE"
+known = true
+first_sentience = 4073
+demon_disposition = "STRINGIFIER"
+
+[demon_tree.leaf."153"]
+parent_id = 53
+children_ids = []
+hip = 61621
+is_leaf = true
+spectral_type = "F0 V"
+distance_from_sol_pc = 34.1504
+demon_name = "PRETA"
+demon_type = 6
+demon_form = "SPHERE"
+known = true
+first_sentience = 4048
+demon_disposition = "OBSERVER"
+
+[demon_tree.leaf."154"]
+parent_id = 53
+children_ids = []
+hip = 61872
+is_leaf = true
+spectral_type = "G0"
+distance_from_sol_pc = 29.9438
+demon_name = "GADULTA"
+demon_type = 9
+demon_form = "SPHERE"
+known = true
+first_sentience = 3686
+demon_disposition = "CRUSHER"
+
+[demon_tree.leaf."155"]
+parent_id = 53
+children_ids = []
+hip = 61379
+is_leaf = true
+spectral_type = "G0/2 V"
+distance_from_sol_pc = 28.4601
+demon_name = "CHORONZON"
+demon_type = 8
+demon_form = "SWARM"
+known = true
+first_sentience = 3981
+demon_disposition = "BENEFICIARY"
+
+[demon_tree.leaf."156"]
+parent_id = 54
+children_ids = []
+hip = 70520
+is_leaf = true
+spectral_type = "F 9 V"
+distance_from_sol_pc = 43.7095
+demon_name = "GADER'EL"
+demon_type = 3
+demon_form = "SWARM"
+known = true
+first_sentience = 3565
+demon_disposition = "DESTROYER"
+
+[demon_tree.leaf."157"]
+parent_id = 54
+children_ids = []
+hip = 66860
+is_leaf = true
+spectral_type = "F 3 VP"
+distance_from_sol_pc = 35.5765
+demon_name = "BANSHEE"
+demon_type = 4
+demon_form = "SPHERE"
+known = true
+first_sentience = 3274
+demon_disposition = "DESTROYER"
+
+[demon_tree.leaf."158"]
+parent_id = 54
+children_ids = []
+hip = 70782
+is_leaf = true
+spectral_type = "G0 V"
+distance_from_sol_pc = 39.7042
+demon_name = "ANZ\u00db"
+demon_type = 3
+demon_form = "TORUS"
+known = true
+first_sentience = 4202
+demon_disposition = "DESTROYER"
+
+[demon_tree.leaf."159"]
+parent_id = 54
+children_ids = []
+hip = 72336
+is_leaf = true
+spectral_type = "F 8 V"
+distance_from_sol_pc = 45.3284
+demon_name = "GHOUL"
+demon_type = 7
+demon_form = "SPHERE"
+known = true
+first_sentience = 4587
+demon_disposition = "DESTROYER"
+
+[demon_tree.leaf."160"]
+parent_id = 55
+children_ids = []
+hip = 71899
+is_leaf = true
+spectral_type = "F8"
+distance_from_sol_pc = 45.5721
+demon_name = "ZAHREIL"
+demon_type = 9
+demon_form = "SWARM"
+known = true
+first_sentience = 3416
+demon_disposition = "DESTROYER"
+
+[demon_tree.leaf."161"]
+parent_id = 55
+children_ids = []
+hip = 69653
+is_leaf = true
+spectral_type = "F8"
+distance_from_sol_pc = 40.568
+demon_name = "GAMIGIN"
+demon_type = 6
+demon_form = "LATTICE"
+known = true
+first_sentience = 4283
+demon_disposition = "ASSIMILATOR"
+
+[demon_tree.leaf."162"]
+parent_id = 55
+children_ids = []
+hip = 72223
+is_leaf = true
+spectral_type = "F7/8 V"
+distance_from_sol_pc = 40.8125
+demon_name = "CIMEJES"
+demon_type = 4
+demon_form = "RECONSTITUTION"
+known = true
+first_sentience = 4966
+demon_disposition = "CRUSHER"
+
+[demon_tree.leaf."163"]
+parent_id = 56
+children_ids = []
+hip = 56802
+is_leaf = true
+spectral_type = "F7 V"
+distance_from_sol_pc = 26.8492
+demon_name = "HALPHAS"
+demon_type = 3
+demon_form = "ORGANIC"
+known = true
+first_sentience = 3431
+demon_disposition = "BENEFICIARY"
+
+[demon_tree.leaf."164"]
+parent_id = 56
+children_ids = []
+hip = 51933
+is_leaf = true
+spectral_type = "G0 V"
+distance_from_sol_pc = 24.754
+demon_name = "TOYOL"
+demon_type = 5
+demon_form = "LOCUS"
+known = true
+first_sentience = 4912
+demon_disposition = "DESTROYER"
+
+[demon_tree.leaf."165"]
+parent_id = 57
+children_ids = []
+hip = 57083
+is_leaf = true
+spectral_type = "G0"
+distance_from_sol_pc = 38.1654
+demon_name = "NAMTAR"
+demon_type = 5
+demon_form = "LATTICE"
+known = true
+first_sentience = 4125
+demon_disposition = "ANALYZER"
+
+[demon_tree.leaf."166"]
+parent_id = 57
+children_ids = []
+hip = 53954
+is_leaf = true
+spectral_type = "A1V"
+distance_from_sol_pc = 37.6434
+demon_name = "KASADYA"
+demon_type = 3
+demon_form = "RECONSTITUTION"
+known = true
+first_sentience = 4265
+demon_disposition = "OBSERVER"
+
+[demon_tree.leaf."167"]
+parent_id = 58
+children_ids = []
+hip = 47508
+is_leaf = true
+spectral_type = "A2+F6II"
+distance_from_sol_pc = 41.3264
+demon_name = "CORSON"
+demon_type = 3
+demon_form = "RECONSTITUTION"
+known = false
+first_sentience = 4295
+demon_disposition = "ASSIMILATOR"
+
+[demon_tree.leaf."168"]
+parent_id = 58
+children_ids = []
+hip = 53737
+is_leaf = true
+spectral_type = "F5III"
+distance_from_sol_pc = 43.5207
+demon_name = "BALAM"
+demon_type = 6
+demon_form = "LATTICE"
+known = true
+first_sentience = 3855
+demon_disposition = "CRUSHER"
+
+[demon_tree.leaf."169"]
+parent_id = 58
+children_ids = []
+hip = 48524
+is_leaf = true
+spectral_type = "G0"
+distance_from_sol_pc = 44.7662
+demon_name = "PAIMON"
+demon_type = 7
+demon_form = "SPHERE"
+known = true
+first_sentience = 3728
+demon_disposition = "CRUSHER"
+
+[demon_tree.leaf."170"]
+parent_id = 58
+children_ids = []
+hip = 48390
+is_leaf = true
+spectral_type = "A5V"
+distance_from_sol_pc = 36.8535
+demon_name = "RAHAB"
+demon_type = 5
+demon_form = "SWARM"
+known = true
+first_sentience = 4961
+demon_disposition = "ASSIMILATOR"
+
+[demon_tree.leaf."171"]
+parent_id = 58
+children_ids = []
+hip = 46454
+is_leaf = true
+spectral_type = "F 9 V"
+distance_from_sol_pc = 33.1675
+demon_name = "UKOBACH"
+demon_type = 7
+demon_form = "LOCUS"
+known = true
+first_sentience = 4515
+demon_disposition = "ANALYZER"
+
+[demon_tree.leaf."172"]
+parent_id = 59
+children_ids = []
+hip = 42173
+is_leaf = true
+spectral_type = "G 0 M"
+distance_from_sol_pc = 25.6536
+demon_name = "AKUMA"
+demon_type = 6
+demon_form = "SPHERE"
+known = true
+first_sentience = 4040
+demon_disposition = "STRINGIFIER"
+
+[demon_tree.leaf."173"]
+parent_id = 60
+children_ids = []
+hip = 82587
+is_leaf = true
+spectral_type = "F 0 V"
+distance_from_sol_pc = 29.7606
+demon_name = "TUCHULCHA"
+demon_type = 8
+demon_form = "SWARM"
+known = true
+first_sentience = 3465
+demon_disposition = "ANALYZER"
+
+[demon_tree.leaf."174"]
+parent_id = 61
+children_ids = []
+hip = 77718
+is_leaf = true
+spectral_type = "G 2 V"
+distance_from_sol_pc = 31.6346
+demon_name = "EISHETH"
+demon_type = 3
+demon_form = "LATTICE"
+known = true
+first_sentience = 3809
+demon_disposition = "STRINGIFIER"
+
+[demon_tree.leaf."175"]
+parent_id = 62
+children_ids = []
+hip = 88194
+is_leaf = true
+spectral_type = "G 2 V"
+distance_from_sol_pc = 28.247
+demon_name = "PAZUZU"
+demon_type = 9
+demon_form = "SPHERE"
+known = true
+first_sentience = 3716
+demon_disposition = "BENEFICIARY"
+
+[demon_tree.leaf."176"]
+parent_id = 62
+children_ids = []
+hip = 85007
+is_leaf = true
+spectral_type = "F 8 V"
+distance_from_sol_pc = 29.7899
+demon_name = "FOCALOR"
+demon_type = 4
+demon_form = "SPHERE"
+known = true
+first_sentience = 4578
+demon_disposition = "ANALYZER"
+
+[demon_tree.leaf."177"]
+parent_id = 62
+children_ids = []
+hip = 88771
+is_leaf = true
+spectral_type = "A4IVs"
+distance_from_sol_pc = 26.2286
+demon_name = "JINN"
+demon_type = 6
+demon_form = "ORGANIC"
+known = true
+first_sentience = 3812
+demon_disposition = "ANALYZER"
+
+[demon_tree.leaf."178"]
+parent_id = 62
+children_ids = []
+hip = 88945
+is_leaf = true
+spectral_type = "G0"
+distance_from_sol_pc = 24.4114
+demon_name = "ASAG"
+demon_type = 5
+demon_form = "TORUS"
+known = true
+first_sentience = 3067
+demon_disposition = "CRUSHER"
+
+[demon_tree.leaf."179"]
+parent_id = 63
+children_ids = []
+hip = 67927
+is_leaf = true
+spectral_type = "G0IV"
+distance_from_sol_pc = 11.396
+demon_name = "ZABANIYYA"
+demon_type = 4
+demon_form = "RECONSTITUTION"
+known = true
+first_sentience = 4589
+demon_disposition = "STRINGIFIER"
+
+[demon_tree.leaf."180"]
+parent_id = 63
+children_ids = []
+hip = 77801
+is_leaf = true
+spectral_type = "G2V"
+distance_from_sol_pc = 17.7808
+demon_name = "RIMMON"
+demon_type = 3
+demon_form = "LATTICE"
+known = true
+first_sentience = 3337
+demon_disposition = "DEVOURER"
+
+[demon_tree.leaf."181"]
+parent_id = 63
+children_ids = []
+hip = 78072
+is_leaf = true
+spectral_type = "F6V"
+distance_from_sol_pc = 11.1651
+demon_name = "ABEZETHIBOU"
+demon_type = 7
+demon_form = "LATTICE"
+known = true
+first_sentience = 4135
+demon_disposition = "STRINGIFIER"
+
+[demon_tree.leaf."182"]
+parent_id = 63
+children_ids = []
+hip = 72567
+is_leaf = true
+spectral_type = "G 2 V"
+distance_from_sol_pc = 18.1983
+demon_name = "MARID"
+demon_type = 7
+demon_form = "LATTICE"
+known = true
+first_sentience = 3349
+demon_disposition = "CRUSHER"
+
+[demon_tree.leaf."183"]
+parent_id = 63
+children_ids = []
+hip = 96441
+is_leaf = true
+spectral_type = "F4V"
+distance_from_sol_pc = 18.4263
+demon_name = "DEV"
+demon_type = 6
+demon_form = "LATTICE"
+known = false
+first_sentience = 3047
+demon_disposition = "BENEFICIARY"
+
+[demon_tree.leaf."184"]
+parent_id = 64
+children_ids = []
+hip = 85268
+is_leaf = true
+spectral_type = "G0"
+distance_from_sol_pc = 27.0141
+demon_name = "CAMBION"
+demon_type = 3
+demon_form = "SWARM"
+known = true
+first_sentience = 3439
+demon_disposition = "DEVOURER"
+
+[demon_tree.leaf."185"]
+parent_id = 64
+children_ids = []
+hip = 79837
+is_leaf = true
+spectral_type = "G 0 V"
+distance_from_sol_pc = 28.9837
+demon_name = "OSE"
+demon_type = 6
+demon_form = "SPHERE"
+known = true
+first_sentience = 3827
+demon_disposition = "OBSERVER"
+
+[demon_tree.leaf."186"]
+parent_id = 64
+children_ids = []
+hip = 74730
+is_leaf = true
+spectral_type = "F8"
+distance_from_sol_pc = 30.6281
+demon_name = "NABERIUS"
+demon_type = 8
+demon_form = "TORUS"
+known = false
+first_sentience = 4673
+demon_disposition = "DESTROYER"
+
+[demon_tree.leaf."187"]
+parent_id = 64
+children_ids = []
+hip = 83608
+is_leaf = true
+spectral_type = "F 6 V"
+distance_from_sol_pc = 27.1811
+demon_name = "HINN"
+demon_type = 7
+demon_form = "LATTICE"
+known = true
+first_sentience = 3114
+demon_disposition = "ASSIMILATOR"
+
+[demon_tree.leaf."188"]
+parent_id = 64
+children_ids = []
+hip = 73941
+is_leaf = true
+spectral_type = "F 8 V"
+distance_from_sol_pc = 29.9324
+demon_name = "BATHIN"
+demon_type = 7
+demon_form = "SWARM"
+known = true
+first_sentience = 4229
+demon_disposition = "DESTROYER"
+
+[demon_tree.leaf."189"]
+parent_id = 65
+children_ids = []
+hip = 67301
+is_leaf = true
+spectral_type = "B3V"
+distance_from_sol_pc = 31.8674
+demon_name = "AMALANHIG"
+demon_type = 5
+demon_form = "RECONSTITUTION"
+known = true
+first_sentience = 4770
+demon_disposition = "DEVOURER"
+
+[demon_tree.leaf."190"]
+parent_id = 65
+children_ids = []
+hip = 63121
+is_leaf = true
+spectral_type = "F 0 V"
+distance_from_sol_pc = 32.6668
+demon_name = "FORAS"
+demon_type = 7
+demon_form = "SWARM"
+known = true
+first_sentience = 4473
+demon_disposition = "STRINGIFIER"
+
+[demon_tree.leaf."191"]
+parent_id = 65
+children_ids = []
+hip = 70500
+is_leaf = true
+spectral_type = "G0"
+distance_from_sol_pc = 33.7239
+demon_name = "LEYAK"
+demon_type = 8
+demon_form = "LATTICE"
+known = true
+first_sentience = 4696
+demon_disposition = "STRINGIFIER"
+
+[demon_tree.leaf."192"]
+parent_id = 65
+children_ids = []
+hip = 75415
+is_leaf = true
+spectral_type = "G1V"
+distance_from_sol_pc = 36.7346
+demon_name = "BELIAL"
+demon_type = 6
+demon_form = "TORUS"
+known = true
+first_sentience = 4618
+demon_disposition = "ANALYZER"
+
+[demon_tree.leaf."193"]
+parent_id = 65
+children_ids = []
+hip = 71251
+is_leaf = true
+spectral_type = "F 6 V"
+distance_from_sol_pc = 29.3536
+demon_name = "CAIM"
+demon_type = 8
+demon_form = "RECONSTITUTION"
+known = true
+first_sentience = 3996
+demon_disposition = "OBSERVER"
+
+[demon_tree.leaf."194"]
+parent_id = 66
+children_ids = []
+hip = 76603
+is_leaf = true
+spectral_type = "F5/8"
+distance_from_sol_pc = 35.3392
+demon_name = "RUHA"
+demon_type = 3
+demon_form = "SWARM"
+known = true
+first_sentience = 3478
+demon_disposition = "CRUSHER"
+
+[demon_tree.leaf."195"]
+parent_id = 66
+children_ids = []
+hip = 76602
+is_leaf = true
+spectral_type = "F5/8"
+distance_from_sol_pc = 30.6495
+demon_name = "MALPHAS"
+demon_type = 5
+demon_form = "SPHERE"
+known = true
+first_sentience = 4581
+demon_disposition = "BENEFICIARY"
+
+[demon_tree.leaf."196"]
+parent_id = 66
+children_ids = []
+hip = 71469
+is_leaf = true
+spectral_type = "F6/7 V"
+distance_from_sol_pc = 26.8962
+demon_name = "WECHUGE"
+demon_type = 3
+demon_form = "LATTICE"
+known = true
+first_sentience = 3943
+demon_disposition = "BENEFICIARY"
+
+[demon_tree.leaf."197"]
+parent_id = 66
+children_ids = []
+hip = 72603
+is_leaf = true
+spectral_type = "F3V"
+distance_from_sol_pc = 23.9382
+demon_name = "AESHMA"
+demon_type = 6
+demon_form = "RECONSTITUTION"
+known = true
+first_sentience = 3741
+demon_disposition = "CRUSHER"
+
+[demon_tree.leaf."198"]
+parent_id = 66
+children_ids = []
+hip = 79165
+is_leaf = true
+spectral_type = "G0"
+distance_from_sol_pc = 33.7802
+demon_name = "ABADDON"
+demon_type = 9
+demon_form = "LOCUS"
+known = true
+first_sentience = 3307
+demon_disposition = "ASSIMILATOR"
+
+[demon_tree.leaf."199"]
+parent_id = 67
+children_ids = []
+hip = 72622
+is_leaf = true
+spectral_type = "A3 III/V"
+distance_from_sol_pc = 23.2396
+demon_name = "GREMORY"
+demon_type = 6
+demon_form = "ORGANIC"
+known = true
+first_sentience = 4862
+demon_disposition = "DESTROYER"
+
+[demon_tree.leaf."200"]
+parent_id = 68
+children_ids = []
+hip = 92043
+is_leaf = true
+spectral_type = "F5IV"
+distance_from_sol_pc = 19.352
+demon_name = "NAAMAH"
+demon_type = 7
+demon_form = "RECONSTITUTION"
+known = true
+first_sentience = 4625
+demon_disposition = "STRINGIFIER"
+
+[demon_tree.leaf."201"]
+parent_id = 68
+children_ids = []
+hip = 95501
+is_leaf = true
+spectral_type = "F2 IV"
+distance_from_sol_pc = 15.5255
+demon_name = "ERLIK"
+demon_type = 3
+demon_form = "SWARM"
+known = true
+first_sentience = 4197
+demon_disposition = "OBSERVER"
+
+[demon_tree.leaf."202"]
+parent_id = 69
+children_ids = []
+hip = 51502
+is_leaf = true
+spectral_type = "F2V"
+distance_from_sol_pc = 23.022
+demon_name = "BH\u016aTA"
+demon_type = 8
+demon_form = "RECONSTITUTION"
+known = true
+first_sentience = 3613
+demon_disposition = "DEVOURER"
+
+[demon_tree.leaf."203"]
+parent_id = 69
+children_ids = []
+hip = 73440
+is_leaf = true
+spectral_type = "G0"
+distance_from_sol_pc = 34.7115
+demon_name = "VASSAGO"
+demon_type = 9
+demon_form = "LOCUS"
+known = false
+first_sentience = 4469
+demon_disposition = "DESTROYER"
+
+[demon_tree.leaf."204"]
+parent_id = 70
+children_ids = []
+hip = 80467
+is_leaf = true
+spectral_type = "F8"
+distance_from_sol_pc = 35.3359
+demon_name = "ANQA"
+demon_type = 6
+demon_form = "LATTICE"
+known = true
+first_sentience = 3558
+demon_disposition = "ANALYZER"
+
+[demon_tree.leaf."205"]
+parent_id = 70
+children_ids = []
+hip = 76568
+is_leaf = true
+spectral_type = "F2V"
+distance_from_sol_pc = 35.7015
+demon_name = "INCUBUS"
+demon_type = 3
+demon_form = "ORGANIC"
+known = true
+first_sentience = 3353
+demon_disposition = "DEVOURER"
+
+[demon_tree.leaf."206"]
+parent_id = 70
+children_ids = []
+hip = 87382
+is_leaf = true
+spectral_type = "G 0 V"
+distance_from_sol_pc = 33.2579
+demon_name = "GORGON"
+demon_type = 5
+demon_form = "SPHERE"
+known = true
+first_sentience = 3205
+demon_disposition = "BENEFICIARY"
+
+[demon_tree.leaf."207"]
+parent_id = 71
+children_ids = []
+hip = 85244
+is_leaf = true
+spectral_type = "G0"
+distance_from_sol_pc = 39.328
+demon_name = "VANTH"
+demon_type = 9
+demon_form = "LOCUS"
+known = true
+first_sentience = 4487
+demon_disposition = "OBSERVER"
+
+[demon_tree.leaf."208"]
+parent_id = 71
+children_ids = []
+hip = 79152
+is_leaf = true
+spectral_type = "G 0 V"
+distance_from_sol_pc = 36.769
+demon_name = "LEONARD"
+demon_type = 6
+demon_form = "LATTICE"
+known = true
+first_sentience = 4438
+demon_disposition = "ANALYZER"
+
+[demon_tree.leaf."209"]
+parent_id = 71
+children_ids = []
+hip = 89282
+is_leaf = true
+spectral_type = "F8"
+distance_from_sol_pc = 34.674
+demon_name = "HANNYA"
+demon_type = 7
+demon_form = "LOCUS"
+known = true
+first_sentience = 4510
+demon_disposition = "BENEFICIARY"
+
+[demon_tree.leaf."210"]
+parent_id = 72
+children_ids = []
+hip = 97438
+is_leaf = true
+spectral_type = "G0"
+distance_from_sol_pc = 27.4356
+demon_name = "KOKABIEL"
+demon_type = 4
+demon_form = "ORGANIC"
+known = true
+first_sentience = 3944
+demon_disposition = "ANALYZER"
+
+[demon_tree.leaf."211"]
+parent_id = 72
+children_ids = []
+hip = 102431
+is_leaf = true
+spectral_type = "F8IV"
+distance_from_sol_pc = 28.3819
+demon_name = "HANBI"
+demon_type = 5
+demon_form = "SPHERE"
+known = true
+first_sentience = 3941
+demon_disposition = "CRUSHER"
+
+[demon_tree.leaf."212"]
+parent_id = 72
+children_ids = []
+hip = 96395
+is_leaf = true
+spectral_type = "G0"
+distance_from_sol_pc = 23.9469
+demon_name = "GAAP"
+demon_type = 6
+demon_form = "LOCUS"
+known = false
+first_sentience = 4443
+demon_disposition = "STRINGIFIER"
+
+[demon_tree.leaf."213"]
+parent_id = 72
+children_ids = []
+hip = 96258
+is_leaf = true
+spectral_type = "F7V"
+distance_from_sol_pc = 25.4306
+demon_name = "SUANGGI"
+demon_type = 3
+demon_form = "LATTICE"
+known = true
+first_sentience = 3358
+demon_disposition = "DESTROYER"
+
+[demon_tree.leaf."214"]
+parent_id = 72
+children_ids = []
+hip = 94083
+is_leaf = true
+spectral_type = "F2V"
+distance_from_sol_pc = 27.3701
+demon_name = "MERIHEM"
+demon_type = 6
+demon_form = "SPHERE"
+known = true
+first_sentience = 4916
+demon_disposition = "DESTROYER"
+
+[demon_tree.leaf."215"]
+parent_id = 73
+children_ids = []
+hip = 71192
+is_leaf = true
+spectral_type = "F5"
+distance_from_sol_pc = 30.4872
+demon_name = "BABI NGEPET"
+demon_type = 6
+demon_form = "SPHERE"
+known = true
+first_sentience = 4850
+demon_disposition = "ASSIMILATOR"
+
+[demon_tree.leaf."216"]
+parent_id = 74
+children_ids = []
+hip = 88175
+is_leaf = true
+spectral_type = "F2 IV"
+distance_from_sol_pc = 22.9979
+demon_name = "LEMPO"
+demon_type = 4
+demon_form = "RECONSTITUTION"
+known = true
+first_sentience = 3858
+demon_disposition = "ASSIMILATOR"
+
+[demon_tree.leaf."217"]
+parent_id = 74
+children_ids = []
+hip = 86736
+is_leaf = true
+spectral_type = "F6/F7V"
+distance_from_sol_pc = 17.1692
+demon_name = "GAKI"
+demon_type = 3
+demon_form = "LATTICE"
+known = true
+first_sentience = 3265
+demon_disposition = "ANALYZER"
+
+[demon_tree.leaf."218"]
+parent_id = 74
+children_ids = []
+hip = 97675
+is_leaf = true
+spectral_type = "F8V"
+distance_from_sol_pc = 19.4881
+demon_name = "VALEFAR"
+demon_type = 6
+demon_form = "ORGANIC"
+known = true
+first_sentience = 4527
+demon_disposition = "ANALYZER"
+
+[demon_tree.leaf."219"]
+parent_id = 75
+children_ids = []
+hip = 75718
+is_leaf = true
+spectral_type = "A1 V"
+distance_from_sol_pc = 19.5534
+demon_name = "VAPULA"
+demon_type = 5
+demon_form = "RECONSTITUTION"
+known = true
+first_sentience = 3688
+demon_disposition = "STRINGIFIER"
+
+[demon_tree.leaf."220"]
+parent_id = 75
+children_ids = []
+hip = 69701
+is_leaf = true
+spectral_type = "F7V"
+distance_from_sol_pc = 22.0258
+demon_name = "GRIGORI"
+demon_type = 3
+demon_form = "RECONSTITUTION"
+known = true
+first_sentience = 4159
+demon_disposition = "ANALYZER"
+
+[demon_tree.leaf."221"]
+parent_id = 75
+children_ids = []
+hip = 80300
+is_leaf = true
+spectral_type = "A3"
+distance_from_sol_pc = 12.9108
+demon_name = "LERAJE"
+demon_type = 4
+demon_form = "LATTICE"
+known = false
+first_sentience = 4867
+demon_disposition = "ASSIMILATOR"
+
+[demon_tree.leaf."222"]
+parent_id = 75
+children_ids = []
+hip = 84893
+is_leaf = true
+spectral_type = "F2/F3V"
+distance_from_sol_pc = 17.5187
+demon_name = "PURSON"
+demon_type = 5
+demon_form = "TORUS"
+known = false
+first_sentience = 4939
+demon_disposition = "ASSIMILATOR"
+
+[demon_tree.leaf."223"]
+parent_id = 75
+children_ids = []
+hip = 83601
+is_leaf = true
+spectral_type = "F8 V"
+distance_from_sol_pc = 20.59
+demon_name = "RANGDA"
+demon_type = 6
+demon_form = "LATTICE"
+known = true
+first_sentience = 4333
+demon_disposition = "DEVOURER"
+
+[demon_tree.leaf."224"]
+parent_id = 76
+children_ids = []
+hip = 97295
+is_leaf = true
+spectral_type = "F5"
+distance_from_sol_pc = 20.9856
+demon_name = "ALLOCES"
+demon_type = 4
+demon_form = "ORGANIC"
+known = true
+first_sentience = 4693
+demon_disposition = "BENEFICIARY"
+
+[demon_tree.leaf."225"]
+parent_id = 76
+children_ids = []
+hip = 93747
+is_leaf = true
+spectral_type = "A0V"
+distance_from_sol_pc = 26.1555
+demon_name = "PELESIT"
+demon_type = 4
+demon_form = "LOCUS"
+known = true
+first_sentience = 4378
+demon_disposition = "CRUSHER"
+
+[demon_tree.leaf."226"]
+parent_id = 76
+children_ids = []
+hip = 109176
+is_leaf = true
+spectral_type = "F4V"
+distance_from_sol_pc = 11.904
+demon_name = "MURMUR"
+demon_type = 3
+demon_form = "SPHERE"
+known = true
+first_sentience = 3306
+demon_disposition = "DEVOURER"
+
+[demon_tree.leaf."227"]
+parent_id = 76
+children_ids = []
+hip = 104887
+is_leaf = true
+spectral_type = "F0IV"
+distance_from_sol_pc = 20.3417
+demon_name = "DJALL"
+demon_type = 9
+demon_form = "SPHERE"
+known = true
+first_sentience = 4969
+demon_disposition = "ANALYZER"
+
+[demon_tree.leaf."228"]
+parent_id = 76
+children_ids = []
+hip = 104858
+is_leaf = true
+spectral_type = "F7V"
+distance_from_sol_pc = 18.4877
+demon_name = "VUAL"
+demon_type = 3
+demon_form = "RECONSTITUTION"
+known = true
+first_sentience = 3673
+demon_disposition = "STRINGIFIER"
+
+[demon_tree.leaf."229"]
+parent_id = 77
+children_ids = []
+hip = 98819
+is_leaf = true
+spectral_type = "G1V"
+distance_from_sol_pc = 17.7717
+demon_name = "ASB'EL"
+demon_type = 9
+demon_form = "LOCUS"
+known = true
+first_sentience = 4865
+demon_disposition = "OBSERVER"
+
+[demon_tree.leaf."230"]
+parent_id = 77
+children_ids = []
+hip = 107350
+is_leaf = true
+spectral_type = "G0V"
+distance_from_sol_pc = 18.133
+demon_name = "AGARES"
+demon_type = 3
+demon_form = "LATTICE"
+known = true
+first_sentience = 3121
+demon_disposition = "STRINGIFIER"
+
+[demon_tree.leaf."231"]
+parent_id = 77
+children_ids = []
+hip = 107310
+is_leaf = true
+spectral_type = "F6V"
+distance_from_sol_pc = 22.1454
+demon_name = "BARBATOS"
+demon_type = 8
+demon_form = "ORGANIC"
+known = false
+first_sentience = 4843
+demon_disposition = "STRINGIFIER"
+
+[demon_tree.leaf."232"]
+parent_id = 78
+children_ids = []
+hip = 114924
+is_leaf = true
+spectral_type = "F 8 V"
+distance_from_sol_pc = 20.6102
+demon_name = "ONI"
+demon_type = 3
+demon_form = "LATTICE"
+known = true
+first_sentience = 3369
+demon_disposition = "CRUSHER"
+
+[demon_tree.leaf."233"]
+parent_id = 78
+children_ids = []
+hip = 3821
+is_leaf = true
+spectral_type = "G0V SB"
+distance_from_sol_pc = 5.923
+demon_name = "LEGION"
+demon_type = 4
+demon_form = "TORUS"
+known = true
+first_sentience = 3006
+demon_disposition = "STRINGIFIER"
+
+[demon_tree.leaf."234"]
+parent_id = 79
+children_ids = []
+hip = 86201
+is_leaf = true
+spectral_type = "F5V"
+distance_from_sol_pc = 23.7564
+demon_name = "ACHLYS"
+demon_type = 4
+demon_form = "ORGANIC"
+known = true
+first_sentience = 4241
+demon_disposition = "BENEFICIARY"
+
+[demon_tree.leaf."235"]
+parent_id = 80
+children_ids = []
+hip = 107556
+is_leaf = true
+spectral_type = "A5mF2 (IV)"
+distance_from_sol_pc = 11.6359
+demon_name = "JIKININKI"
+demon_type = 7
+demon_form = "SPHERE"
+known = true
+first_sentience = 3409
+demon_disposition = "ANALYZER"
+
+[demon_tree.leaf."236"]
+parent_id = 80
+children_ids = []
+hip = 102485
+is_leaf = true
+spectral_type = "F5V"
+distance_from_sol_pc = 14.6334
+demon_name = "ANDROMALIUS"
+demon_type = 5
+demon_form = "LATTICE"
+known = true
+first_sentience = 4025
+demon_disposition = "OBSERVER"
+
+[demon_tree.leaf."237"]
+parent_id = 80
+children_ids = []
+hip = 77952
+is_leaf = true
+spectral_type = "F2III"
+distance_from_sol_pc = 12.4246
+demon_name = "KRONI"
+demon_type = 3
+demon_form = "LATTICE"
+known = true
+first_sentience = 3664
+demon_disposition = "DEVOURER"
+
+[demon_tree.leaf."238"]
+parent_id = 80
+children_ids = []
+hip = 113368
+is_leaf = true
+spectral_type = "A3 V"
+distance_from_sol_pc = 7.7036
+demon_name = "IPOS"
+demon_type = 5
+demon_form = "ORGANIC"
+known = true
+first_sentience = 3593
+demon_disposition = "OBSERVER"
+
+[demon_tree.leaf."239"]
+parent_id = 80
+children_ids = []
+hip = 1599
+is_leaf = true
+spectral_type = "F9V"
+distance_from_sol_pc = 8.6071
+demon_name = "BUER"
+demon_type = 4
+demon_form = "RECONSTITUTION"
+known = false
+first_sentience = 4042
+demon_disposition = "BENEFICIARY"
+
+[demon_tree.leaf."240"]
+parent_id = 81
+children_ids = []
+hip = 59072
+is_leaf = true
+spectral_type = "F0 IV"
+distance_from_sol_pc = 19.6882
+demon_name = "SALPSAN"
+demon_type = 7
+demon_form = "RECONSTITUTION"
+known = true
+first_sentience = 4456
+demon_disposition = "BENEFICIARY"
+
+[demon_tree.leaf."241"]
+parent_id = 82
+children_ids = []
+hip = 32607
+is_leaf = true
+spectral_type = "A5/7 III/V"
+distance_from_sol_pc = 29.6033
+demon_name = "ZEPAR"
+demon_type = 5
+demon_form = "TORUS"
+known = true
+first_sentience = 3392
+demon_disposition = "OBSERVER"
+
+[demon_tree.leaf."242"]
+parent_id = 82
+children_ids = []
+hip = 32765
+is_leaf = true
+spectral_type = "F5 V"
+distance_from_sol_pc = 25.2102
+demon_name = "AMDUSIAS"
+demon_type = 7
+demon_form = "LATTICE"
+known = true
+first_sentience = 4000
+demon_disposition = "OBSERVER"
+
+[demon_tree.leaf."243"]
+parent_id = 82
+children_ids = []
+hip = 23482
+is_leaf = true
+spectral_type = "F3/5 V"
+distance_from_sol_pc = 26.2508
+demon_name = "BAKASURA"
+demon_type = 9
+demon_form = "ORGANIC"
+known = true
+first_sentience = 4013
+demon_disposition = "BENEFICIARY"
+
+[demon_tree.leaf."244"]
+parent_id = 83
+children_ids = []
+hip = 22844
+is_leaf = true
+spectral_type = "F5 V"
+distance_from_sol_pc = 30.4022
+demon_name = "BUSHYASTA"
+demon_type = 8
+demon_form = "SWARM"
+known = false
+first_sentience = 4142
+demon_disposition = "CRUSHER"
+
+[demon_tree.leaf."245"]
+parent_id = 83
+children_ids = []
+hip = 28790
+is_leaf = true
+spectral_type = "F5 V"
+distance_from_sol_pc = 27.9494
+demon_name = "QIN"
+demon_type = 6
+demon_form = "SPHERE"
+known = true
+first_sentience = 3897
+demon_disposition = "STRINGIFIER"
+
+[demon_tree.leaf."246"]
+parent_id = 83
+children_ids = []
+hip = 21861
+is_leaf = true
+spectral_type = "F3 V"
+distance_from_sol_pc = 28.8943
+demon_name = "AMAYMON"
+demon_type = 9
+demon_form = "SWARM"
+known = true
+first_sentience = 3355
+demon_disposition = "DEVOURER"
+
+[demon_tree.leaf."247"]
+parent_id = 83
+children_ids = []
+hip = 15131
+is_leaf = true
+spectral_type = "G0/2 V"
+distance_from_sol_pc = 24.5234
+demon_name = "DAEVA"
+demon_type = 8
+demon_form = "SPHERE"
+known = false
+first_sentience = 3766
+demon_disposition = "OBSERVER"
+
+[demon_tree.leaf."248"]
+parent_id = 84
+children_ids = []
+hip = 3170
+is_leaf = true
+spectral_type = "F6/8 V"
+distance_from_sol_pc = 25.2581
+demon_name = "TITIVILLUS"
+demon_type = 6
+demon_form = "SWARM"
+known = true
+first_sentience = 3159
+demon_disposition = "ASSIMILATOR"
+
+[demon_tree.leaf."249"]
+parent_id = 84
+children_ids = []
+hip = 5896
+is_leaf = true
+spectral_type = "F5 V"
+distance_from_sol_pc = 20.9556
+demon_name = "NIULI"
+demon_type = 8
+demon_form = "SPHERE"
+known = true
+first_sentience = 3890
+demon_disposition = "DEVOURER"
+
+[demon_tree.leaf."250"]
+parent_id = 84
+children_ids = []
+hip = 9085
+is_leaf = true
+spectral_type = "F6/7 V"
+distance_from_sol_pc = 26.7017
+demon_name = "ANDHAKA"
+demon_type = 9
+demon_form = "SWARM"
+known = true
+first_sentience = 3939
+demon_disposition = "DEVOURER"
+
+[demon_tree.leaf."251"]
+parent_id = 84
+children_ids = []
+hip = 8514
+is_leaf = true
+spectral_type = "F6 V"
+distance_from_sol_pc = 25.1767
+demon_name = "CROCELL"
+demon_type = 4
+demon_form = "SWARM"
+known = true
+first_sentience = 4600
+demon_disposition = "BENEFICIARY"
+
+[demon_tree.leaf."252"]
+parent_id = 85
+children_ids = []
+hip = 27075
+is_leaf = true
+spectral_type = "F8/G0 V"
+distance_from_sol_pc = 26.1607
+demon_name = "ASURA"
+demon_type = 7
+demon_form = "SWARM"
+known = true
+first_sentience = 3587
+demon_disposition = "CRUSHER"
+
+[demon_tree.leaf."253"]
+parent_id = 85
+children_ids = []
+hip = 32076
+is_leaf = true
+spectral_type = "F7 V"
+distance_from_sol_pc = 30.1904
+demon_name = "AGIEL"
+demon_type = 8
+demon_form = "SPHERE"
+known = true
+first_sentience = 4285
+demon_disposition = "STRINGIFIER"
+
+[demon_tree.leaf."254"]
+parent_id = 85
+children_ids = []
+hip = 28267
+is_leaf = true
+spectral_type = "F7 V"
+distance_from_sol_pc = 24.0752
+demon_name = "ABYZOU"
+demon_type = 4
+demon_form = "ORGANIC"
+known = true
+first_sentience = 3296
+demon_disposition = "STRINGIFIER"
+
+[demon_tree.leaf."255"]
+parent_id = 85
+children_ids = []
+hip = 25486
+is_leaf = true
+spectral_type = "F7/8 V"
+distance_from_sol_pc = 26.8429
+demon_name = "SHUTEN DOJI"
+demon_type = 4
+demon_form = "SWARM"
+known = true
+first_sentience = 4639
+demon_disposition = "BENEFICIARY"
+
+[demon_tree.leaf."256"]
+parent_id = 85
+children_ids = []
+hip = 23875
+is_leaf = true
+spectral_type = "A3IIIvar"
+distance_from_sol_pc = 27.5896
+demon_name = "GLASYA-LABOLAS"
+demon_type = 9
+demon_form = "TORUS"
+known = true
+first_sentience = 3041
+demon_disposition = "ANALYZER"
+
+[demon_tree.leaf."257"]
+parent_id = 86
+children_ids = []
+hip = 12828
+is_leaf = true
+spectral_type = "F0IV"
+distance_from_sol_pc = 26.6011
+demon_name = "MARA"
+demon_type = 3
+demon_form = "SPHERE"
+known = true
+first_sentience = 4233
+demon_disposition = "OBSERVER"
+
+[demon_tree.leaf."258"]
+parent_id = 86
+children_ids = []
+hip = 5799
+is_leaf = true
+spectral_type = "F3 V"
+distance_from_sol_pc = 24.0531
+demon_name = "BEELZEBUB"
+demon_type = 6
+demon_form = "TORUS"
+known = true
+first_sentience = 4724
+demon_disposition = "ASSIMILATOR"
+
+[demon_tree.leaf."259"]
+parent_id = 86
+children_ids = []
+hip = 14258
+is_leaf = true
+spectral_type = "F8"
+distance_from_sol_pc = 31.2704
+demon_name = "LEVIATHAN"
+demon_type = 8
+demon_form = "LATTICE"
+known = true
+first_sentience = 4400
+demon_disposition = "BENEFICIARY"
+
+[demon_tree.leaf."260"]
+parent_id = 87
+children_ids = []
+hip = 29860
+is_leaf = true
+spectral_type = "G 0.5VAB"
+distance_from_sol_pc = 19.3736
+demon_name = "NINURTA"
+demon_type = 7
+demon_form = "ORGANIC"
+known = true
+first_sentience = 4565
+demon_disposition = "OBSERVER"
+
+[demon_tree.leaf."261"]
+parent_id = 87
+children_ids = []
+hip = 26016
+is_leaf = true
+spectral_type = "A 0 V"
+distance_from_sol_pc = 23.855
+demon_name = "DAGON"
+demon_type = 6
+demon_form = "LOCUS"
+known = true
+first_sentience = 3387
+demon_disposition = "ASSIMILATOR"
+
+[demon_tree.leaf."262"]
+parent_id = 87
+children_ids = []
+hip = 18859
+is_leaf = true
+spectral_type = "F7/8 V"
+distance_from_sol_pc = 18.707
+demon_name = "LAMIA"
+demon_type = 4
+demon_form = "TORUS"
+known = false
+first_sentience = 4809
+demon_disposition = "STRINGIFIER"
+
+[demon_tree.leaf."263"]
+parent_id = 87
+children_ids = []
+hip = 23852
+is_leaf = true
+spectral_type = "G 1 IV"
+distance_from_sol_pc = 27.5891
+demon_name = "MAHISHASUR"
+demon_type = 6
+demon_form = "TORUS"
+known = true
+first_sentience = 4551
+demon_disposition = "STRINGIFIER"
+
+[demon_tree.leaf."264"]
+parent_id = 88
+children_ids = []
+hip = 42438
+is_leaf = true
+spectral_type = "G0V"
+distance_from_sol_pc = 14.4388
+demon_name = "XAPHAN"
+demon_type = 9
+demon_form = "RECONSTITUTION"
+known = true
+first_sentience = 3611
+demon_disposition = "DESTROYER"
+
+[demon_tree.leaf."265"]
+parent_id = 88
+children_ids = []
+hip = 14632
+is_leaf = true
+spectral_type = "G0V"
+distance_from_sol_pc = 10.5774
+demon_name = "SITRI"
+demon_type = 5
+demon_form = "LATTICE"
+known = true
+first_sentience = 4646
+demon_disposition = "DEVOURER"
+
+[demon_tree.leaf."266"]
+parent_id = 89
+children_ids = []
+hip = 46853
+is_leaf = true
+spectral_type = "F6IV"
+distance_from_sol_pc = 13.5449
+demon_name = "HAAGENTI"
+demon_type = 3
+demon_form = "LOCUS"
+known = true
+first_sentience = 4292
+demon_disposition = "CRUSHER"
+
+[demon_tree.leaf."267"]
+parent_id = 90
+children_ids = []
+hip = 54872
+is_leaf = true
+spectral_type = "A4V"
+distance_from_sol_pc = 17.9147
+demon_name = "ASTAROTH"
+demon_type = 7
+demon_form = "LATTICE"
+known = true
+first_sentience = 4370
+demon_disposition = "DESTROYER"
+
+[demon_tree.leaf."268"]
+parent_id = 90
+children_ids = []
+hip = 64792
+is_leaf = true
+spectral_type = "F8V"
+distance_from_sol_pc = 17.5878
+demon_name = "KULSHEDRA"
+demon_type = 8
+demon_form = "RECONSTITUTION"
+known = true
+first_sentience = 4751
+demon_disposition = "DEVOURER"
+
+[demon_tree.leaf."269"]
+parent_id = 90
+children_ids = []
+hip = 32439
+is_leaf = true
+spectral_type = "F 8 V"
+distance_from_sol_pc = 18.2024
+demon_name = "OROBAS"
+demon_type = 3
+demon_form = "TORUS"
+known = true
+first_sentience = 4382
+demon_disposition = "ASSIMILATOR"
+
+[demon_tree.leaf."270"]
+parent_id = 90
+children_ids = []
+hip = 64532
+is_leaf = true
+spectral_type = "G1V"
+distance_from_sol_pc = 25.1612
+demon_name = "BORUTA"
+demon_type = 8
+demon_form = "LATTICE"
+known = true
+first_sentience = 3775
+demon_disposition = "DESTROYER"
+
+[demon_tree.leaf."271"]
+parent_id = 90
+children_ids = []
+hip = 39780
+is_leaf = true
+spectral_type = "G2IV"
+distance_from_sol_pc = 23.8143
+demon_name = "KARA \u0130YE"
+demon_type = 4
+demon_form = "TORUS"
+known = false
+first_sentience = 3680
+demon_disposition = "DEVOURER"
+
+[demon_tree.leaf."272"]
+parent_id = 91
+children_ids = []
+hip = 59750
+is_leaf = true
+spectral_type = "F6 V"
+distance_from_sol_pc = 22.3514
+demon_name = "\u00d6RD\u00d6G"
+demon_type = 5
+demon_form = "TORUS"
+known = true
+first_sentience = 3794
+demon_disposition = "CRUSHER"
+
+[demon_tree.leaf."273"]
+parent_id = 91
+children_ids = []
+hip = 61174
+is_leaf = true
+spectral_type = "F2 V"
+distance_from_sol_pc = 18.2437
+demon_name = "IFRIT"
+demon_type = 8
+demon_form = "RECONSTITUTION"
+known = false
+first_sentience = 4356
+demon_disposition = "CRUSHER"
+
+[demon_tree.leaf."274"]
+parent_id = 91
+children_ids = []
+hip = 60994
+is_leaf = true
+spectral_type = "G1/2 V"
+distance_from_sol_pc = 24.2957
+demon_name = "EBLIS"
+demon_type = 3
+demon_form = "LOCUS"
+known = true
+first_sentience = 4891
+demon_disposition = "ASSIMILATOR"
+
+[demon_tree.leaf."275"]
+parent_id = 91
+children_ids = []
+hip = 84012
+is_leaf = true
+spectral_type = "A2.5Va"
+distance_from_sol_pc = 27.0929
+demon_name = "SUT"
+demon_type = 4
+demon_form = "LOCUS"
+known = true
+first_sentience = 3155
+demon_disposition = "DEVOURER"
+
+[demon_tree.leaf."276"]
+parent_id = 92
+children_ids = []
+hip = 86620
+is_leaf = true
+spectral_type = "G0V"
+distance_from_sol_pc = 22.7017
+demon_name = "SEIR"
+demon_type = 6
+demon_form = "SWARM"
+known = true
+first_sentience = 4396
+demon_disposition = "DESTROYER"
+
+[demon_tree.leaf."277"]
+parent_id = 92
+children_ids = []
+hip = 65378
+is_leaf = true
+spectral_type = "A2V"
+distance_from_sol_pc = 24.8674
+demon_name = "TENGU"
+demon_type = 9
+demon_form = "SWARM"
+known = true
+first_sentience = 4825
+demon_disposition = "CRUSHER"
+
+[demon_tree.leaf."278"]
+parent_id = 92
+children_ids = []
+hip = 89474
+is_leaf = true
+spectral_type = "G 2 V"
+distance_from_sol_pc = 23.2911
+demon_name = "BAKU"
+demon_type = 5
+demon_form = "LATTICE"
+known = true
+first_sentience = 4780
+demon_disposition = "DESTROYER"
+
+[demon_tree.leaf."279"]
+parent_id = 92
+children_ids = []
+hip = 88622
+is_leaf = true
+spectral_type = "G2 V"
+distance_from_sol_pc = 24.1115
+demon_name = "SUCCUBUS"
+demon_type = 9
+demon_form = "SWARM"
+known = true
+first_sentience = 3229
+demon_disposition = "STRINGIFIER"
+
+[demon_tree.leaf."280"]
+parent_id = 92
+children_ids = []
+hip = 86614
+is_leaf = true
+spectral_type = "F5IV-V"
+distance_from_sol_pc = 22.7531
+demon_name = "ARIOCH"
+demon_type = 3
+demon_form = "RECONSTITUTION"
+known = true
+first_sentience = 3127
+demon_disposition = "STRINGIFIER"
+
+[demon_tree.leaf."281"]
+parent_id = 93
+children_ids = []
+hip = 93185
+is_leaf = true
+spectral_type = "G 2 V"
+distance_from_sol_pc = 23.9726
+demon_name = "APEP"
+demon_type = 4
+demon_form = "LATTICE"
+known = false
+first_sentience = 4005
+demon_disposition = "ANALYZER"
+
+[demon_tree.leaf."282"]
+parent_id = 94
+children_ids = []
+hip = 10644
+is_leaf = true
+spectral_type = "G0V"
+distance_from_sol_pc = 10.911
+demon_name = "PENEMUE"
+demon_type = 5
+demon_form = "LOCUS"
+known = false
+first_sentience = 3669
+demon_disposition = "ASSIMILATOR"
+
+[demon_tree.leaf."283"]
+parent_id = 94
+children_ids = []
+hip = 8903
+is_leaf = true
+spectral_type = "A5V..."
+distance_from_sol_pc = 17.9856
+demon_name = "SALEOS"
+demon_type = 3
+demon_form = "SWARM"
+known = true
+first_sentience = 3899
+demon_disposition = "STRINGIFIER"
+
+[demon_tree.leaf."284"]
+parent_id = 94
+children_ids = []
+hip = 4151
+is_leaf = true
+spectral_type = "F8V"
+distance_from_sol_pc = 18.903
+demon_name = "DEVIL"
+demon_type = 6
+demon_form = "SPHERE"
+known = true
+first_sentience = 4322
+demon_disposition = "ASSIMILATOR"
+
+[demon_tree.leaf."285"]
+parent_id = 94
+children_ids = []
+hip = 7513
+is_leaf = true
+spectral_type = "F8V"
+distance_from_sol_pc = 13.4782
+demon_name = "KABANDHA"
+demon_type = 6
+demon_form = "SWARM"
+known = true
+first_sentience = 3069
+demon_disposition = "DESTROYER"
+
+[demon_tree.leaf."286"]
+parent_id = 95
+children_ids = []
+hip = 92984
+is_leaf = true
+spectral_type = "G1 V"
+distance_from_sol_pc = 26.5851
+demon_name = "STIHI"
+demon_type = 4
+demon_form = "LATTICE"
+known = true
+first_sentience = 3279
+demon_disposition = "DESTROYER"
+
+[demon_tree.leaf."287"]
+parent_id = 95
+children_ids = []
+hip = 79578
+is_leaf = true
+spectral_type = "G1 V"
+distance_from_sol_pc = 22.3377
+demon_name = "LAMASHTU"
+demon_type = 6
+demon_form = "LOCUS"
+known = true
+first_sentience = 4679
+demon_disposition = "CRUSHER"
+
+[demon_tree.leaf."288"]
+parent_id = 95
+children_ids = []
+hip = 93825
+is_leaf = true
+spectral_type = "F8/G0 V"
+distance_from_sol_pc = 17.304
+demon_name = "BAAL"
+demon_type = 4
+demon_form = "RECONSTITUTION"
+known = true
+first_sentience = 3756
+demon_disposition = "CRUSHER"
+
+[demon_tree.leaf."289"]
+parent_id = 95
+children_ids = []
+hip = 98416
+is_leaf = true
+spectral_type = "G2 V"
+distance_from_sol_pc = 21.3071
+demon_name = "EL T\u00cdO"
+demon_type = 8
+demon_form = "SPHERE"
+known = true
+first_sentience = 3418
+demon_disposition = "DEVOURER"
+
+[demon_tree.leaf."290"]
+parent_id = 96
+children_ids = []
+hip = 2021
+is_leaf = true
+spectral_type = "G2IV"
+distance_from_sol_pc = 7.4783
+demon_name = "ASAKKU"
+demon_type = 4
+demon_form = "LATTICE"
+known = true
+first_sentience = 4517
+demon_disposition = "ANALYZER"
+
+[demon_tree.leaf."291"]
+parent_id = 96
+children_ids = []
+hip = 116771
+is_leaf = true
+spectral_type = "F7V"
+distance_from_sol_pc = 13.6543
+demon_name = "VEPAR"
+demon_type = 8
+demon_form = "RECONSTITUTION"
+known = true
+first_sentience = 3166
+demon_disposition = "STRINGIFIER"
+
+[demon_tree.leaf."292"]
+parent_id = 97
+children_ids = []
+hip = 29208
+is_leaf = true
+spectral_type = "G0"
+distance_from_sol_pc = 30.1962
+demon_name = "MANANANGGAL"
+demon_type = 7
+demon_form = "RECONSTITUTION"
+known = true
+first_sentience = 3260
+demon_disposition = "CRUSHER"
+
+[demon_tree.leaf."293"]
+parent_id = 97
+children_ids = []
+hip = 30067
+is_leaf = true
+spectral_type = "F8V"
+distance_from_sol_pc = 27.2376
+demon_name = "BIFRONS"
+demon_type = 4
+demon_form = "LATTICE"
+known = true
+first_sentience = 3939
+demon_disposition = "OBSERVER"
+
+[demon_tree.leaf."294"]
+parent_id = 98
+children_ids = []
+hip = 19205
+is_leaf = true
+spectral_type = "F 1 V"
+distance_from_sol_pc = 27.8304
+demon_name = "AMY"
+demon_type = 9
+demon_form = "SWARM"
+known = true
+first_sentience = 4671
+demon_disposition = "DEVOURER"
+
+[demon_tree.leaf."295"]
+parent_id = 98
+children_ids = []
+hip = 20800
+is_leaf = true
+spectral_type = "G0"
+distance_from_sol_pc = 30.1874
+demon_name = "HAG"
+demon_type = 6
+demon_form = "LOCUS"
+known = true
+first_sentience = 3313
+demon_disposition = "ANALYZER"
+
+[demon_tree.leaf."296"]
+parent_id = 98
+children_ids = []
+hip = 18413
+is_leaf = true
+spectral_type = "G0"
+distance_from_sol_pc = 21.7358
+demon_name = "RONOVE"
+demon_type = 9
+demon_form = "RECONSTITUTION"
+known = true
+first_sentience = 4062
+demon_disposition = "CRUSHER"
+
+[demon_tree.leaf."297"]
+parent_id = 98
+children_ids = []
+hip = 12623
+is_leaf = true
+spectral_type = "F8V"
+distance_from_sol_pc = 23.9256
+demon_name = "LILITH"
+demon_type = 4
+demon_form = "ORGANIC"
+known = false
+first_sentience = 4847
+demon_disposition = "DESTROYER"
+
+[demon_tree.leaf."298"]
+parent_id = 98
+children_ids = []
+hip = 14576
+is_leaf = true
+spectral_type = "B8V"
+distance_from_sol_pc = 27.571
+demon_name = "STOLAS"
+demon_type = 5
+demon_form = "ORGANIC"
+known = true
+first_sentience = 4738
+demon_disposition = "BENEFICIARY"
+
+[demon_tree.leaf."299"]
+parent_id = 99
+children_ids = []
+hip = 41211
+is_leaf = true
+spectral_type = "F5 V"
+distance_from_sol_pc = 27.0508
+demon_name = "AZI DAHAKA"
+demon_type = 7
+demon_form = "RECONSTITUTION"
+known = true
+first_sentience = 4158
+demon_disposition = "OBSERVER"
+
+[demon_tree.leaf."300"]
+parent_id = 99
+children_ids = []
+hip = 42403
+is_leaf = true
+spectral_type = "F 8 V"
+distance_from_sol_pc = 35.2414
+demon_name = "IMP"
+demon_type = 3
+demon_form = "LATTICE"
+known = false
+first_sentience = 3323
+demon_disposition = "ASSIMILATOR"
+
+[demon_tree.leaf."301"]
+parent_id = 99
+children_ids = []
+hip = 33202
+is_leaf = true
+spectral_type = "F0V"
+distance_from_sol_pc = 29.4825
+demon_name = "CHEMOSH"
+demon_type = 8
+demon_form = "ORGANIC"
+known = true
+first_sentience = 4955
+demon_disposition = "DESTROYER"
+
+[demon_tree.leaf."302"]
+parent_id = 100
+children_ids = []
+hip = 44984
+is_leaf = true
+spectral_type = "F 2 P"
+distance_from_sol_pc = 40.7083
+demon_name = "SATANACHIA"
+demon_type = 3
+demon_form = "ORGANIC"
+known = true
+first_sentience = 3378
+demon_disposition = "CRUSHER"
+
+[demon_tree.leaf."303"]
+parent_id = 101
+children_ids = []
+hip = 45858
+is_leaf = true
+spectral_type = "F3V+F3V"
+distance_from_sol_pc = 42.6621
+demon_name = "ORIAS"
+demon_type = 9
+demon_form = "SWARM"
+known = true
+first_sentience = 3480
+demon_disposition = "DESTROYER"
+
+[demon_tree.leaf."304"]
+parent_id = 101
+children_ids = []
+hip = 46566
+is_leaf = true
+spectral_type = "F 3 VS"
+distance_from_sol_pc = 44.8909
+demon_name = "MARICHA"
+demon_type = 9
+demon_form = "SWARM"
+known = true
+first_sentience = 3005
+demon_disposition = "OBSERVER"
+
+[demon_tree.leaf."305"]
+parent_id = 102
+children_ids = []
+hip = 36152
+is_leaf = true
+spectral_type = "F 6 V"
+distance_from_sol_pc = 30.5995
+demon_name = "NAR AS-SAMUM"
+demon_type = 8
+demon_form = "ORGANIC"
+known = true
+first_sentience = 3567
+demon_disposition = "BENEFICIARY"
+
+[demon_tree.leaf."306"]
+parent_id = 102
+children_ids = []
+hip = 36238
+is_leaf = true
+spectral_type = "F5IV-V"
+distance_from_sol_pc = 32.4604
+demon_name = "ASWANG"
+demon_type = 5
+demon_form = "LATTICE"
+known = true
+first_sentience = 3416
+demon_disposition = "ANALYZER"
+
+[demon_tree.leaf."307"]
+parent_id = 103
+children_ids = []
+hip = 43904
+is_leaf = true
+spectral_type = "G0"
+distance_from_sol_pc = 44.6933
+demon_name = "DEMOGORGON"
+demon_type = 3
+demon_form = "LATTICE"
+known = true
+first_sentience = 3718
+demon_disposition = "BENEFICIARY"
+
+[demon_tree.leaf."308"]
+parent_id = 103
+children_ids = []
+hip = 47403
+is_leaf = true
+spectral_type = "F5"
+distance_from_sol_pc = 45.5593
+demon_name = "KRUN"
+demon_type = 4
+demon_form = "RECONSTITUTION"
+known = true
+first_sentience = 4098
+demon_disposition = "ANALYZER"
+
+[demon_tree.leaf."309"]
+parent_id = 103
+children_ids = []
+hip = 47436
+is_leaf = true
+spectral_type = "F5"
+distance_from_sol_pc = 46.2935
+demon_name = "SHAITAN"
+demon_type = 3
+demon_form = "SPHERE"
+known = true
+first_sentience = 3717
+demon_disposition = "ANALYZER"
+
+[demon_tree.leaf."310"]
+parent_id = 103
+children_ids = []
+hip = 44728
+is_leaf = true
+spectral_type = "F0"
+distance_from_sol_pc = 41.454
+demon_name = "ANCITIF"
+demon_type = 9
+demon_form = "RECONSTITUTION"
+known = true
+first_sentience = 4133
+demon_disposition = "DESTROYER"
+
+[demon_tree.leaf."311"]
+parent_id = 103
+children_ids = []
+hip = 44014
+is_leaf = true
+spectral_type = "F5"
+distance_from_sol_pc = 44.3662
+demon_name = "PULOMAN"
+demon_type = 3
+demon_form = "SWARM"
+known = true
+first_sentience = 3774
+demon_disposition = "STRINGIFIER"
+
+[demon_tree.leaf."312"]
+parent_id = 104
+children_ids = []
+hip = 40875
+is_leaf = true
+spectral_type = "F 4 V"
+distance_from_sol_pc = 32.1199
+demon_name = "BUNE"
+demon_type = 5
+demon_form = "TORUS"
+known = true
+first_sentience = 3515
+demon_disposition = "ANALYZER"
+
+[demon_tree.leaf."313"]
+parent_id = 104
+children_ids = []
+hip = 48319
+is_leaf = true
+spectral_type = "F0IV"
+distance_from_sol_pc = 35.2382
+demon_name = "ARUNASURA"
+demon_type = 6
+demon_form = "RECONSTITUTION"
+known = true
+first_sentience = 4613
+demon_disposition = "ANALYZER"
+
+[demon_tree.leaf."314"]
+parent_id = 104
+children_ids = []
+hip = 40015
+is_leaf = true
+spectral_type = "F8"
+distance_from_sol_pc = 29.8833
+demon_name = "SHINIGAMI"
+demon_type = 4
+demon_form = "LOCUS"
+known = true
+first_sentience = 3031
+demon_disposition = "STRINGIFIER"
+
+[demon_tree.leaf."315"]
+parent_id = 105
+children_ids = []
+hip = 28908
+is_leaf = true
+spectral_type = "G0V"
+distance_from_sol_pc = 25.6515
+demon_name = "DAJJAL"
+demon_type = 8
+demon_form = "SWARM"
+known = true
+first_sentience = 4694
+demon_disposition = "DEVOURER"
+
+[demon_tree.leaf."316"]
+parent_id = 105
+children_ids = []
+hip = 32851
+is_leaf = true
+spectral_type = "F2 V"
+distance_from_sol_pc = 29.821
+demon_name = "GAF"
+demon_type = 7
+demon_form = "ORGANIC"
+known = false
+first_sentience = 4158
+demon_disposition = "ASSIMILATOR"
+
+[demon_tree.leaf."317"]
+parent_id = 105
+children_ids = []
+hip = 30862
+is_leaf = true
+spectral_type = "G0"
+distance_from_sol_pc = 24.4862
+demon_name = "DANJAL"
+demon_type = 3
+demon_form = "SPHERE"
+known = false
+first_sentience = 4655
+demon_disposition = "ASSIMILATOR"
+
+[demon_tree.leaf."318"]
+parent_id = 106
+children_ids = []
+hip = 28360
+is_leaf = true
+spectral_type = "A2IV"
+distance_from_sol_pc = 24.8694
+demon_name = "MARBAS"
+demon_type = 6
+demon_form = "LATTICE"
+known = true
+first_sentience = 3878
+demon_disposition = "CRUSHER"
+
+[demon_tree.leaf."319"]
+parent_id = 106
+children_ids = []
+hip = 33212
+is_leaf = true
+spectral_type = "F8"
+distance_from_sol_pc = 31.0699
+demon_name = "SHEDIM"
+demon_type = 9
+demon_form = "SPHERE"
+known = true
+first_sentience = 4440
+demon_disposition = "CRUSHER"
+
+[demon_tree.leaf."320"]
+parent_id = 106
+children_ids = []
+hip = 24332
+is_leaf = true
+spectral_type = "F8"
+distance_from_sol_pc = 26.3885
+demon_name = "ARCHON"
+demon_type = 7
+demon_form = "LATTICE"
+known = true
+first_sentience = 3195
+demon_disposition = "DESTROYER"
+
+[demon_tree.leaf."321"]
+parent_id = 107
+children_ids = []
+hip = 41975
+is_leaf = true
+spectral_type = "F 5 VB VW"
+distance_from_sol_pc = 36.792
+demon_name = "LJUBI"
+demon_type = 9
+demon_form = "TORUS"
+known = true
+first_sentience = 4217
+demon_disposition = "DESTROYER"
+
+[demon_tree.leaf."322"]
+parent_id = 107
+children_ids = []
+hip = 50786
+is_leaf = true
+spectral_type = "F 8 V"
+distance_from_sol_pc = 38.5604
+demon_name = "RAHOVART"
+demon_type = 5
+demon_form = "TORUS"
+known = true
+first_sentience = 4517
+demon_disposition = "BENEFICIARY"
+
+[demon_tree.leaf."323"]
+parent_id = 107
+children_ids = []
+hip = 43625
+is_leaf = true
+spectral_type = "F5"
+distance_from_sol_pc = 35.7092
+demon_name = "ZARTAI-ZARTANAI"
+demon_type = 4
+demon_form = "LATTICE"
+known = false
+first_sentience = 4618
+demon_disposition = "BENEFICIARY"
+
+[demon_tree.leaf."324"]
+parent_id = 107
+children_ids = []
+hip = 41181
+is_leaf = true
+spectral_type = "G0"
+distance_from_sol_pc = 36.8891
+demon_name = "GUAYOTA"
+demon_type = 5
+demon_form = "RECONSTITUTION"
+known = true
+first_sentience = 4392
+demon_disposition = "ASSIMILATOR"
+
+[demon_tree.leaf."325"]
+parent_id = 108
+children_ids = []
+hip = 28634
+is_leaf = true
+spectral_type = "F5"
+distance_from_sol_pc = 27.597
+demon_name = "DECARABIA"
+demon_type = 8
+demon_form = "SPHERE"
+known = true
+first_sentience = 4332
+demon_disposition = "STRINGIFIER"
+
+[demon_tree.leaf."326"]
+parent_id = 108
+children_ids = []
+hip = 25110
+is_leaf = true
+spectral_type = "F6V"
+distance_from_sol_pc = 20.7858
+demon_name = "DIV-E SEPID"
+demon_type = 4
+demon_form = "SPHERE"
+known = true
+first_sentience = 4098
+demon_disposition = "CRUSHER"
+
+[demon_tree.leaf."327"]
+parent_id = 108
+children_ids = []
+hip = 23783
+is_leaf = true
+spectral_type = "F0V"
+distance_from_sol_pc = 26.9868
+demon_name = "NALAI"
+demon_type = 5
+demon_form = "ORGANIC"
+known = true
+first_sentience = 3152
+demon_disposition = "CRUSHER"
+
+[demon_tree.leaf."328"]
+parent_id = 109
+children_ids = []
+hip = 43557
+is_leaf = true
+spectral_type = "G 0 V"
+distance_from_sol_pc = 22.9655
+demon_name = "AGRAT BAT MAHLAT"
+demon_type = 7
+demon_form = "LOCUS"
+known = true
+first_sentience = 4439
+demon_disposition = "DESTROYER"
+
+[demon_tree.leaf."329"]
+parent_id = 109
+children_ids = []
+hip = 46509
+is_leaf = true
+spectral_type = "F6V"
+distance_from_sol_pc = 18.2087
+demon_name = "SHAX"
+demon_type = 8
+demon_form = "LOCUS"
+known = true
+first_sentience = 4622
+demon_disposition = "OBSERVER"
+
+[demon_tree.leaf."330"]
+parent_id = 109
+children_ids = []
+hip = 37853
+is_leaf = true
+spectral_type = "G0V"
+distance_from_sol_pc = 15.2778
+demon_name = "ALAL"
+demon_type = 5
+demon_form = "LATTICE"
+known = true
+first_sentience = 3764
+demon_disposition = "CRUSHER"
+
+[demon_tree.leaf."331"]
+parent_id = 109
+children_ids = []
+hip = 19859
+is_leaf = true
+spectral_type = "G0IV"
+distance_from_sol_pc = 22.0748
+demon_name = "RUSALKA"
+demon_type = 7
+demon_form = "TORUS"
+known = true
+first_sentience = 4446
+demon_disposition = "OBSERVER"
+
+[demon_tree.leaf."332"]
+parent_id = 110
+children_ids = []
+hip = 50316
+is_leaf = true
+spectral_type = "G0"
+distance_from_sol_pc = 33.3484
+demon_name = "MAG"
+demon_type = 7
+demon_form = "LOCUS"
+known = true
+first_sentience = 3749
+demon_disposition = "ANALYZER"
+
+[demon_tree.leaf."333"]
+parent_id = 110
+children_ids = []
+hip = 51658
+is_leaf = true
+spectral_type = "A7IV"
+distance_from_sol_pc = 34.3108
+demon_name = "GHADDAR"
+demon_type = 7
+demon_form = "SWARM"
+known = true
+first_sentience = 4886
+demon_disposition = "OBSERVER"
+
+[demon_tree.leaf."334"]
+parent_id = 110
+children_ids = []
+hip = 38325
+is_leaf = true
+spectral_type = "F 7 IV-V"
+distance_from_sol_pc = 30.0034
+demon_name = "ONOSKELIS"
+demon_type = 8
+demon_form = "LOCUS"
+known = true
+first_sentience = 4080
+demon_disposition = "CRUSHER"
+
+[demon_tree.leaf."335"]
+parent_id = 111
+children_ids = []
+hip = 45493
+is_leaf = true
+spectral_type = "A5V"
+distance_from_sol_pc = 35.8319
+demon_name = "PONTIANAK"
+demon_type = 9
+demon_form = "TORUS"
+known = true
+first_sentience = 3939
+demon_disposition = "BENEFICIARY"
+
+[demon_tree.leaf."336"]
+parent_id = 111
+children_ids = []
+hip = 52498
+is_leaf = true
+spectral_type = "F9V"
+distance_from_sol_pc = 36.6796
+demon_name = "KALLIKANTZAROS"
+demon_type = 3
+demon_form = "RECONSTITUTION"
+known = true
+first_sentience = 3700
+demon_disposition = "BENEFICIARY"
+
+[demon_tree.leaf."337"]
+parent_id = 111
+children_ids = []
+hip = 54061
+is_leaf = true
+spectral_type = "F7V comp"
+distance_from_sol_pc = 37.679
+demon_name = "AL ANA"
+demon_type = 5
+demon_form = "LATTICE"
+known = true
+first_sentience = 4682
+demon_disposition = "DEVOURER"
+
+[demon_tree.leaf."338"]
+parent_id = 111
+children_ids = []
+hip = 38018
+is_leaf = true
+spectral_type = "G0"
+distance_from_sol_pc = 29.1115
+demon_name = "VINE"
+demon_type = 8
+demon_form = "LATTICE"
+known = true
+first_sentience = 4356
+demon_disposition = "CRUSHER"
+
+[demon_tree.leaf."339"]
+parent_id = 111
+children_ids = []
+hip = 51700
+is_leaf = true
+spectral_type = "F8"
+distance_from_sol_pc = 37.9596
+demon_name = "SEMYAZA"
+demon_type = 5
+demon_form = "RECONSTITUTION"
+known = true
+first_sentience = 4261
+demon_disposition = "STRINGIFIER"
+
+[demon_tree.leaf."340"]
+parent_id = 112
+children_ids = []
+hip = 56321
+is_leaf = true
+spectral_type = "F 7 V"
+distance_from_sol_pc = 46.4634
+demon_name = "SURGAT"
+demon_type = 5
+demon_form = "RECONSTITUTION"
+known = true
+first_sentience = 4039
+demon_disposition = "OBSERVER"
+
+[demon_tree.leaf."341"]
+parent_id = 112
+children_ids = []
+hip = 58369
+is_leaf = true
+spectral_type = "A 9 V"
+distance_from_sol_pc = 47.225
+demon_name = "YEQON"
+demon_type = 9
+demon_form = "SWARM"
+known = true
+first_sentience = 4213
+demon_disposition = "ASSIMILATOR"
+
+[demon_tree.leaf."342"]
+parent_id = 112
+children_ids = []
+hip = 56186
+is_leaf = true
+spectral_type = "F5"
+distance_from_sol_pc = 43.1956
+demon_name = "ORCUS"
+demon_type = 3
+demon_form = "TORUS"
+known = true
+first_sentience = 4478
+demon_disposition = "OBSERVER"
+
+[demon_tree.leaf."343"]
+parent_id = 113
+children_ids = []
+hip = 59180
+is_leaf = true
+spectral_type = "F8"
+distance_from_sol_pc = 53.1202
+demon_name = "FURFUR"
+demon_type = 8
+demon_form = "TORUS"
+known = true
+first_sentience = 3959
+demon_disposition = "DEVOURER"
+
+[demon_tree.leaf."344"]
+parent_id = 113
+children_ids = []
+hip = 62816
+is_leaf = true
+spectral_type = "G0"
+distance_from_sol_pc = 53.4439
+demon_name = "ZAGAN"
+demon_type = 7
+demon_form = "LOCUS"
+known = true
+first_sentience = 4647
+demon_disposition = "STRINGIFIER"
+
+[demon_tree.leaf."345"]
+parent_id = 113
+children_ids = []
+hip = 69699
+is_leaf = true
+spectral_type = "F8"
+distance_from_sol_pc = 48.8976
+demon_name = "ANDREALPHUS"
+demon_type = 7
+demon_form = "TORUS"
+known = true
+first_sentience = 4590
+demon_disposition = "DESTROYER"
+
+[demon_tree.leaf."346"]
+parent_id = 114
+children_ids = []
+hip = 53634
+is_leaf = true
+spectral_type = "G0"
+distance_from_sol_pc = 44.5719
+demon_name = "AIM"
+demon_type = 4
+demon_form = "LATTICE"
+known = true
+first_sentience = 3330
+demon_disposition = "DEVOURER"
+
+[demon_tree.leaf."347"]
+parent_id = 115
+children_ids = []
+hip = 69535
+is_leaf = true
+spectral_type = "F5"
+distance_from_sol_pc = 52.8824
+demon_name = "AZAZEL"
+demon_type = 8
+demon_form = "SWARM"
+known = true
+first_sentience = 4711
+demon_disposition = "ASSIMILATOR"
+
+[demon_tree.leaf."348"]
+parent_id = 115
+children_ids = []
+hip = 71989
+is_leaf = true
+spectral_type = "F8"
+distance_from_sol_pc = 46.268
+demon_name = "ANTICHRIST"
+demon_type = 6
+demon_form = "SWARM"
+known = true
+first_sentience = 4178
+demon_disposition = "OBSERVER"
+
+[demon_tree.leaf."349"]
+parent_id = 116
+children_ids = []
+hip = 68593
+is_leaf = true
+spectral_type = "F8"
+distance_from_sol_pc = 39.5789
+demon_name = "ALA"
+demon_type = 8
+demon_form = "ORGANIC"
+known = true
+first_sentience = 4421
+demon_disposition = "BENEFICIARY"
+
+[demon_tree.leaf."350"]
+parent_id = 116
+children_ids = []
+hip = 63125
+is_leaf = true
+spectral_type = "A0spe..."
+distance_from_sol_pc = 30.5598
+demon_name = "ANAMMELECH"
+demon_type = 5
+demon_form = "SWARM"
+known = false
+first_sentience = 4226
+demon_disposition = "ASSIMILATOR"
+
+[demon_tree.leaf."351"]
+parent_id = 116
+children_ids = []
+hip = 74674
+is_leaf = true
+spectral_type = "G0Vvar"
+distance_from_sol_pc = 36.8225
+demon_name = "MAMMON"
+demon_type = 7
+demon_form = "RECONSTITUTION"
+known = true
+first_sentience = 4279
+demon_disposition = "STRINGIFIER"
+
+[demon_tree.leaf."352"]
+parent_id = 116
+children_ids = []
+hip = 74666
+is_leaf = true
+spectral_type = "G0V"
+distance_from_sol_pc = 36.9349
+demon_name = "ALLU"
+demon_type = 3
+demon_form = "SWARM"
+known = true
+first_sentience = 3727
+demon_disposition = "DEVOURER"
+
+[demon_tree.leaf."353"]
+parent_id = 117
+children_ids = []
+hip = 84183
+is_leaf = true
+spectral_type = "F 0 V"
+distance_from_sol_pc = 43.769
+demon_name = "GIU"
+demon_type = 9
+demon_form = "ORGANIC"
+known = false
+first_sentience = 3642
+demon_disposition = "DESTROYER"
+
+[demon_tree.leaf."354"]
+parent_id = 118
+children_ids = []
+hip = 41184
+is_leaf = true
+spectral_type = "G0"
+distance_from_sol_pc = 36.8736
+demon_name = "LECHIES"
+demon_type = 6
+demon_form = "LATTICE"
+known = true
+first_sentience = 3844
+demon_disposition = "DESTROYER"
+
+[demon_tree.leaf."355"]
+parent_id = 118
+children_ids = []
+hip = 52469
+is_leaf = true
+spectral_type = "F 1 IV"
+distance_from_sol_pc = 36.9696
+demon_name = "RAVANA"
+demon_type = 9
+demon_form = "LOCUS"
+known = true
+first_sentience = 4191
+demon_disposition = "STRINGIFIER"
+
+[demon_tree.leaf."356"]
+parent_id = 118
+children_ids = []
+hip = 54233
+is_leaf = true
+spectral_type = "F5"
+distance_from_sol_pc = 39.9203
+demon_name = "REVENANT"
+demon_type = 7
+demon_form = "LATTICE"
+known = true
+first_sentience = 3091
+demon_disposition = "DESTROYER"
+
+[demon_tree.leaf."357"]
+parent_id = 118
+children_ids = []
+hip = 43477
+is_leaf = true
+spectral_type = "G0"
+distance_from_sol_pc = 38.6876
+demon_name = "ALASTOR"
+demon_type = 7
+demon_form = "TORUS"
+known = true
+first_sentience = 3484
+demon_disposition = "OBSERVER"
+
+[demon_tree.leaf."358"]
+parent_id = 118
+children_ids = []
+hip = 40918
+is_leaf = true
+spectral_type = "G0"
+distance_from_sol_pc = 36.7793
+demon_name = "ADRAMMELECH"
+demon_type = 4
+demon_form = "TORUS"
+known = true
+first_sentience = 4909
+demon_disposition = "DESTROYER"
+
+[demon_tree.leaf."359"]
+parent_id = 119
+children_ids = []
+hip = 62527
+is_leaf = true
+spectral_type = "G 1 V"
+distance_from_sol_pc = 39.3537
+demon_name = "LATABI"
+demon_type = 3
+demon_form = "RECONSTITUTION"
+known = true
+first_sentience = 4069
+demon_disposition = "OBSERVER"
+
+[demon_tree.leaf."360"]
+parent_id = 119
+children_ids = []
+hip = 69518
+is_leaf = true
+spectral_type = "G0"
+distance_from_sol_pc = 39.1783
+demon_name = "XEZBETH"
+demon_type = 6
+demon_form = "RECONSTITUTION"
+known = true
+first_sentience = 3113
+demon_disposition = "STRINGIFIER"
+
+[demon_tree.leaf."361"]
+parent_id = 120
+children_ids = []
+hip = 61597
+is_leaf = true
+spectral_type = "G0"
+distance_from_sol_pc = 34.9571
+demon_name = "WANGLIANG"
+demon_type = 8
+demon_form = "LOCUS"
+known = true
+first_sentience = 3438
+demon_disposition = "DEVOURER"
+
+[demon_tree.leaf."362"]
+parent_id = 120
+children_ids = []
+hip = 63584
+is_leaf = true
+spectral_type = "F 5 V"
+distance_from_sol_pc = 36.1986
+demon_name = "BAPHOMET"
+demon_type = 7
+demon_form = "ORGANIC"
+known = true
+first_sentience = 4470
+demon_disposition = "ASSIMILATOR"
+
+[demon_tree.leaf."363"]
+parent_id = 120
+children_ids = []
+hip = 79822
+is_leaf = true
+spectral_type = "F 3 V"
+distance_from_sol_pc = 29.9231
+demon_name = "SHDUM"
+demon_type = 8
+demon_form = "RECONSTITUTION"
+known = true
+first_sentience = 4293
+demon_disposition = "CRUSHER"
+
+[demon_tree.leaf."364"]
+parent_id = 121
+children_ids = []
+hip = 71631
+is_leaf = true
+spectral_type = "F8"
+distance_from_sol_pc = 34.4043
+demon_name = "KUMBHAKARNA"
+demon_type = 8
+demon_form = "RECONSTITUTION"
+known = true
+first_sentience = 3121
+demon_disposition = "CRUSHER"
+
+[demon_tree.leaf."365"]
+parent_id = 121
+children_ids = []
+hip = 80902
+is_leaf = true
+spectral_type = "G0"
+distance_from_sol_pc = 28.1828
+demon_name = "CHORT"
+demon_type = 8
+demon_form = "SPHERE"
+known = true
+first_sentience = 3970
+demon_disposition = "CRUSHER"
+
+[demon_tree.leaf."366"]
+parent_id = 121
+children_ids = []
+hip = 75809
+is_leaf = true
+spectral_type = "G0IV-V"
+distance_from_sol_pc = 21.8137
+demon_name = "AHRIMAN"
+demon_type = 6
+demon_form = "ORGANIC"
+known = false
+first_sentience = 3136
+demon_disposition = "DESTROYER"
+
+[demon_tree.leaf."367"]
+parent_id = 122
+children_ids = []
+hip = 76456
+is_leaf = true
+spectral_type = "F 5 V"
+distance_from_sol_pc = 35.3323
+demon_name = "MEPHISTOPHELES"
+demon_type = 5
+demon_form = "RECONSTITUTION"
+known = true
+first_sentience = 3710
+demon_disposition = "ANALYZER"
+
+[demon_tree.leaf."368"]
+parent_id = 123
+children_ids = []
+hip = 58876
+is_leaf = true
+spectral_type = "F8"
+distance_from_sol_pc = 45.1944
+demon_name = "APAOSHA"
+demon_type = 3
+demon_form = "LOCUS"
+known = true
+first_sentience = 3741
+demon_disposition = "CRUSHER"
+
+[demon_tree.leaf."369"]
+parent_id = 123
+children_ids = []
+hip = 73623
+is_leaf = true
+spectral_type = "G0"
+distance_from_sol_pc = 39.4627
+demon_name = "LUCIFUGE ROFOCALE"
+demon_type = 4
+demon_form = "LOCUS"
+known = true
+first_sentience = 3442
+demon_disposition = "DESTROYER"
+
+[demon_tree.leaf."370"]
+parent_id = 124
+children_ids = []
+hip = 71876
+is_leaf = true
+spectral_type = "F2III"
+distance_from_sol_pc = 41.1474
+demon_name = "KRAMPUS"
+demon_type = 5
+demon_form = "SWARM"
+known = true
+first_sentience = 3705
+demon_disposition = "OBSERVER"
+
+[demon_tree.leaf."371"]
+parent_id = 124
+children_ids = []
+hip = 70499
+is_leaf = true
+spectral_type = "F8"
+distance_from_sol_pc = 40.2725
+demon_name = "GUSION"
+demon_type = 7
+demon_form = "ORGANIC"
+known = true
+first_sentience = 4775
+demon_disposition = "BENEFICIARY"
+
+[demon_tree.leaf."372"]
+parent_id = 124
+children_ids = []
+hip = 87234
+is_leaf = true
+spectral_type = "F6IV"
+distance_from_sol_pc = 31.6579
+demon_name = "GUALICHU"
+demon_type = 3
+demon_form = "LOCUS"
+known = true
+first_sentience = 4632
+demon_disposition = "OBSERVER"
+
+[demon_tree.leaf."373"]
+parent_id = 125
+children_ids = []
+hip = 76829
+is_leaf = true
+spectral_type = "F3/5 V"
+distance_from_sol_pc = 17.3986
+demon_name = "SABNOCK"
+demon_type = 3
+demon_form = "TORUS"
+known = true
+first_sentience = 4119
+demon_disposition = "DESTROYER"
+
+[demon_tree.leaf."374"]
+parent_id = 125
+children_ids = []
+hip = 69671
+is_leaf = true
+spectral_type = "G1 V"
+distance_from_sol_pc = 20.9021
+demon_name = "ELIGOS"
+demon_type = 7
+demon_form = "SPHERE"
+known = true
+first_sentience = 4823
+demon_disposition = "ASSIMILATOR"
+
+[demon_tree.leaf."375"]
+parent_id = 125
+children_ids = []
+hip = 67153
+is_leaf = true
+spectral_type = "F3 V"
+distance_from_sol_pc = 19.2651
+demon_name = "ARMAROS"
+demon_type = 7
+demon_form = "SWARM"
+known = true
+first_sentience = 3694
+demon_disposition = "ASSIMILATOR"
+
+[demon_tree.leaf."376"]
+parent_id = 125
+children_ids = []
+hip = 67408
+is_leaf = true
+spectral_type = "G0 V"
+distance_from_sol_pc = 29.9959
+demon_name = "BERITH"
+demon_type = 3
+demon_form = "ORGANIC"
+known = true
+first_sentience = 4999
+demon_disposition = "DEVOURER"
+
+[demon_tree.leaf."377"]
+parent_id = 125
+children_ids = []
+hip = 84143
+is_leaf = true
+spectral_type = "F2 V"
+distance_from_sol_pc = 22.4361
+demon_name = "ANAYE"
+demon_type = 7
+demon_form = "ORGANIC"
+known = true
+first_sentience = 3905
+demon_disposition = "ASSIMILATOR"
+
+[demon_tree.leaf."378"]
+parent_id = 126
+children_ids = []
+hip = 80686
+is_leaf = true
+spectral_type = "G0 V"
+distance_from_sol_pc = 12.0671
+demon_name = "RAKSHASA"
+demon_type = 6
+demon_form = "SPHERE"
+known = true
+first_sentience = 3953
+demon_disposition = "STRINGIFIER"
+
+[demon_tree.leaf."379"]
+parent_id = 127
+children_ids = []
+hip = 59380
+is_leaf = true
+spectral_type = "G0/1 V"
+distance_from_sol_pc = 35.731
+demon_name = "MASTEMA"
+demon_type = 8
+demon_form = "LOCUS"
+known = true
+first_sentience = 3452
+demon_disposition = "ASSIMILATOR"
+
+[demon_tree.leaf."380"]
+parent_id = 127
+children_ids = []
+hip = 57021
+is_leaf = true
+spectral_type = "G0 V"
+distance_from_sol_pc = 34.6982
+demon_name = "AKA MANAH"
+demon_type = 6
+demon_form = "RECONSTITUTION"
+known = true
+first_sentience = 3527
+demon_disposition = "OBSERVER"
+
+[demon_tree.leaf."381"]
+parent_id = 127
+children_ids = []
+hip = 51986
+is_leaf = true
+spectral_type = "A3m+..."
+distance_from_sol_pc = 26.7138
+demon_name = "LILI"
+demon_type = 3
+demon_form = "LATTICE"
+known = true
+first_sentience = 4274
+demon_disposition = "BENEFICIARY"
+
+[demon_tree.leaf."382"]
+parent_id = 127
+children_ids = []
+hip = 55779
+is_leaf = true
+spectral_type = "F7 V"
+distance_from_sol_pc = 27.861
+demon_name = "POCONG"
+demon_type = 7
+demon_form = "LATTICE"
+known = true
+first_sentience = 3579
+demon_disposition = "ASSIMILATOR"
+
+[demon_tree.leaf."383"]
+parent_id = 128
+children_ids = []
+hip = 50191
+is_leaf = true
+spectral_type = "A1 V"
+distance_from_sol_pc = 31.6087
+demon_name = "O TOKATA"
+demon_type = 3
+demon_form = "RECONSTITUTION"
+known = true
+first_sentience = 3536
+demon_disposition = "CRUSHER"
+
+[demon_tree.leaf."384"]
+parent_id = 128
+children_ids = []
+hip = 48926
+is_leaf = true
+spectral_type = "A8 IV"
+distance_from_sol_pc = 33.2779
+demon_name = "MAZOKU"
+demon_type = 6
+demon_form = "LOCUS"
+known = true
+first_sentience = 3747
+demon_disposition = "OBSERVER"
+
+[demon_tree.leaf."385"]
+parent_id = 128
+children_ids = []
+hip = 40283
+is_leaf = true
+spectral_type = "G2 V"
+distance_from_sol_pc = 27.1875
+demon_name = "PHENEX"
+demon_type = 5
+demon_form = "SWARM"
+known = true
+first_sentience = 4377
+demon_disposition = "BENEFICIARY"
+
+[demon_tree.leaf."386"]
+parent_id = 129
+children_ids = []
+hip = 74824
+is_leaf = true
+spectral_type = "A3V"
+distance_from_sol_pc = 29.5679
+demon_name = "BALBERITH"
+demon_type = 9
+demon_form = "SWARM"
+known = true
+first_sentience = 4209
+demon_disposition = "DESTROYER"
+
+[demon_tree.leaf."387"]
+parent_id = 129
+children_ids = []
+hip = 71530
+is_leaf = true
+spectral_type = "F7 V"
+distance_from_sol_pc = 27.7631
+demon_name = "FURCAS"
+demon_type = 7
+demon_form = "SPHERE"
+known = true
+first_sentience = 4580
+demon_disposition = "STRINGIFIER"
+
+[demon_tree.leaf."388"]
+parent_id = 129
+children_ids = []
+hip = 40702
+is_leaf = true
+spectral_type = "F5 V"
+distance_from_sol_pc = 19.4867
+demon_name = "CHARUN"
+demon_type = 6
+demon_form = "LOCUS"
+known = true
+first_sentience = 4409
+demon_disposition = "ANALYZER"
+
+[demon_tree.leaf."389"]
+parent_id = 130
+children_ids = []
+hip = 43177
+is_leaf = true
+spectral_type = "G0 V"
+distance_from_sol_pc = 29.0238
+demon_name = "BELPHEGOR"
+demon_type = 6
+demon_form = "SPHERE"
+known = true
+first_sentience = 4402
+demon_disposition = "ASSIMILATOR"
+
+[demon_tree.leaf."390"]
+parent_id = 130
+children_ids = []
+hip = 39710
+is_leaf = true
+spectral_type = "G2 V"
+distance_from_sol_pc = 25.6686
+demon_name = "DZOAVITS"
+demon_type = 9
+demon_form = "SPHERE"
+known = true
+first_sentience = 3191
+demon_disposition = "DESTROYER"
+
+[demon_tree.leaf."391"]
+parent_id = 130
+children_ids = []
+hip = 39757
+is_leaf = true
+spectral_type = "F2mF5IIp"
+distance_from_sol_pc = 19.4553
+demon_name = "MARCHOSIAS"
+demon_type = 8
+demon_form = "TORUS"
+known = true
+first_sentience = 4245
+demon_disposition = "BENEFICIARY"
+
+[demon_tree.leaf."392"]
+parent_id = 131
+children_ids = []
+hip = 23941
+is_leaf = true
+spectral_type = "F5 V"
+distance_from_sol_pc = 25.3554
+demon_name = "MOLOCH"
+demon_type = 8
+demon_form = "LATTICE"
+known = true
+first_sentience = 4412
+demon_disposition = "BENEFICIARY"
+
+[demon_tree.leaf."393"]
+parent_id = 131
+children_ids = []
+hip = 33719
+is_leaf = true
+spectral_type = "G0 V"
+distance_from_sol_pc = 29.9177
+demon_name = "AAMON"
+demon_type = 6
+demon_form = "LOCUS"
+known = true
+first_sentience = 4623
+demon_disposition = "CRUSHER"
+
+[demon_tree.leaf."394"]
+parent_id = 131
+children_ids = []
+hip = 25662
+is_leaf = true
+spectral_type = "G 0 V"
+distance_from_sol_pc = 29.5964
+demon_name = "BALI RAJ"
+demon_type = 5
+demon_form = "SPHERE"
+known = false
+first_sentience = 3521
+demon_disposition = "ANALYZER"
+
+[demon_tree.leaf."395"]
+parent_id = 131
+children_ids = []
+hip = 18267
+is_leaf = true
+spectral_type = "G0"
+distance_from_sol_pc = 20.4712
+demon_name = "RIBESAL"
+demon_type = 3
+demon_form = "TORUS"
+known = true
+first_sentience = 3830
+demon_disposition = "STRINGIFIER"
+
+[demon_tree.leaf."396"]
+parent_id = 132
+children_ids = []
+hip = 44075
+is_leaf = true
+spectral_type = "F7/8 IV/V"
+distance_from_sol_pc = 21.4191
+demon_name = "NARAKASURA"
+demon_type = 3
+demon_form = "ORGANIC"
+known = true
+first_sentience = 4026
+demon_disposition = "ANALYZER"
+
+[demon_tree.leaf."397"]
+parent_id = 132
+children_ids = []
+hip = 45336
+is_leaf = true
+spectral_type = "B9.5 V"
+distance_from_sol_pc = 36.9407
+demon_name = "BARONG"
+demon_type = 3
+demon_form = "ORGANIC"
+known = true
+first_sentience = 3997
+demon_disposition = "ASSIMILATOR"
+
+[demon_tree.leaf."398"]
+parent_id = 132
+children_ids = []
+hip = 39506
+is_leaf = true
+spectral_type = "G0"
+distance_from_sol_pc = 29.8325
+demon_name = "HAURES"
+demon_type = 4
+demon_form = "ORGANIC"
+known = true
+first_sentience = 4806
+demon_disposition = "DEVOURER"
+
+[demon_tree.leaf."399"]
+parent_id = 132
+children_ids = []
+hip = 38048
+is_leaf = true
+spectral_type = "F6 V"
+distance_from_sol_pc = 28.8001
+demon_name = "PRUFLAS"
+demon_type = 8
+demon_form = "LOCUS"
+known = true
+first_sentience = 3670
+demon_disposition = "DESTROYER"
+
+[demon_tree.leaf."400"]
+parent_id = 133
+children_ids = []
+hip = 32874
+is_leaf = true
+spectral_type = "F8"
+distance_from_sol_pc = 34.4022
+demon_name = "LUCIFER"
+demon_type = 3
+demon_form = "LATTICE"
+known = true
+first_sentience = 3553
+demon_disposition = "DESTROYER"
+
+[demon_tree.leaf."401"]
+parent_id = 134
+children_ids = []
+hip = 31681
+is_leaf = true
+spectral_type = "A0IV"
+distance_from_sol_pc = 33.5121
+demon_name = "AGALIAREPT"
+demon_type = 7
+demon_form = "ORGANIC"
+known = true
+first_sentience = 3461
+demon_disposition = "DEVOURER"
+
+[demon_tree.leaf."402"]
+parent_id = 134
+children_ids = []
+hip = 35350
+is_leaf = true
+spectral_type = "A3V"
+distance_from_sol_pc = 30.6684
+demon_name = "KILLAKEE CAT"
+demon_type = 5
+demon_form = "LATTICE"
+known = true
+first_sentience = 4025
+demon_disposition = "STRINGIFIER"

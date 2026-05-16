@@ -29,7 +29,7 @@ jitter. Because siblings are pointed away from each other and each entity keeps
 moving roughly outward, paths naturally fan apart in 3D space.
 
 Branching and leaf counting follow BFS ordering. When a leaf is processed, it
-spawns 1-5 children chosen uniformly, clamped so the leaf total never overshoots
+spawns 1-3 children chosen uniformly, clamped so the leaf total never overshoots
 268. The parent stops being a leaf (-1) and its `b` children become new leaves
 (+b), so each fork adds `(b - 1)` net leaves.
 
