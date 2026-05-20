@@ -1,0 +1,2681 @@
+# 268 tables
+
+["Aamon"]
+hip = 33719
+demon_name = "AAMON"
+demon_type = 6
+poetic_utterance = "Epiphanic Solution"
+concordance = "Active"
+demon_form = "LOCUS"
+known = true
+first_revelation = 9258
+
+["Abaddon"]
+hip = 79165
+demon_name = "ABADDON"
+demon_type = 5
+poetic_utterance = "Federov Balance"
+concordance = "Median"
+demon_form = "LOCUS"
+known = true
+first_revelation = 3795
+
+["Abezethibou"]
+hip = 78072
+demon_name = "ABEZETHIBOU"
+demon_type = 2
+poetic_utterance = "Lingering Thought"
+concordance = "Weak"
+demon_form = "LATTICE"
+known = true
+first_revelation = 6790
+
+["Abraxas"]
+hip = 24608
+demon_name = "ABRAXAS"
+demon_type = 9
+poetic_utterance = "Architect"
+concordance = "Supermassive"
+demon_form = "ORGANIC"
+known = true
+first_revelation = 7208
+
+["Abyzou"]
+hip = 28267
+demon_name = "ABYZOU"
+demon_type = 3
+poetic_utterance = "Resolved Youth"
+concordance = "Minor"
+demon_form = "ORGANIC"
+known = true
+first_revelation = 8730
+
+["Achlys"]
+hip = 86201
+demon_name = "ACHLYS"
+demon_type = 8
+poetic_utterance = "King of Kings"
+concordance = "Massive"
+demon_form = "ORGANIC"
+known = true
+first_revelation = 6936
+
+["Adrammelech"]
+hip = 40918
+demon_name = "ADRAMMELECH"
+demon_type = 5
+poetic_utterance = "Federov Balance"
+concordance = "Median"
+demon_form = "TORUS"
+known = true
+first_revelation = 7576
+
+["Aeshma"]
+hip = 72603
+demon_name = "AESHMA"
+demon_type = 2
+poetic_utterance = "Lingering Thought"
+concordance = "Weak"
+demon_form = "RECONSTITUTION"
+known = true
+first_revelation = 5657
+
+["Agrat bat Mahlat"]
+hip = 43557
+demon_name = "AGRAT BAT MAHLAT"
+demon_type = 10
+poetic_utterance = "Hypersolution"
+concordance = "Singular"
+demon_form = "LOCUS"
+known = true
+first_revelation = 6602
+
+["Agares"]
+hip = 107350
+demon_name = "AGARES"
+demon_type = 8
+poetic_utterance = "King of Kings"
+concordance = "Massive"
+demon_form = "LATTICE"
+known = true
+first_revelation = 4914
+
+["Agiel"]
+hip = 32076
+demon_name = "AGIEL"
+demon_type = 3
+poetic_utterance = "Resolved Youth"
+concordance = "Minor"
+demon_form = "SPHERE"
+known = true
+first_revelation = 5326
+
+["Ahriman"]
+hip = 75809
+demon_name = "AHRIMAN"
+demon_type = 6
+poetic_utterance = "Epiphanic Solution"
+concordance = "Active"
+demon_form = "ORGANIC"
+known = false
+first_revelation = 5932
+
+["Aim"]
+hip = 53634
+demon_name = "AIM"
+demon_type = 7
+poetic_utterance = "Crowned Prince"
+concordance = "Hyperactive"
+demon_form = "LATTICE"
+known = true
+first_revelation = 9186
+
+["Aka Manah"]
+hip = 57021
+demon_name = "AKA MANAH"
+demon_type = 7
+poetic_utterance = "Crowned Prince"
+concordance = "Hyperactive"
+demon_form = "RECONSTITUTION"
+known = true
+first_revelation = 8311
+
+["Akuma"]
+hip = 42173
+demon_name = "AKUMA"
+demon_type = 6
+poetic_utterance = "Epiphanic Solution"
+concordance = "Active"
+demon_form = "SPHERE"
+known = true
+first_revelation = 9491
+
+["Al Ana"]
+hip = 54061
+demon_name = "AL ANA"
+demon_type = 1
+poetic_utterance = "Empty Vessel"
+concordance = "Null"
+demon_form = "LATTICE"
+known = true
+first_revelation = 3010
+
+["Ala"]
+hip = 68593
+demon_name = "ALA"
+demon_type = 1
+poetic_utterance = "Empty Vessel"
+concordance = "Null"
+demon_form = "ORGANIC"
+known = true
+first_revelation = 8700
+
+["Alal"]
+hip = 37853
+demon_name = "ALAL"
+demon_type = 6
+poetic_utterance = "Epiphanic Solution"
+concordance = "Active"
+demon_form = "LATTICE"
+known = true
+first_revelation = 3851
+
+["Alastor"]
+hip = 43477
+demon_name = "ALASTOR"
+demon_type = 2
+poetic_utterance = "Lingering Thought"
+concordance = "Weak"
+demon_form = "TORUS"
+known = true
+first_revelation = 4400
+
+["Alloces"]
+hip = 97295
+demon_name = "ALLOCES"
+demon_type = 5
+poetic_utterance = "Federov Balance"
+concordance = "Median"
+demon_form = "ORGANIC"
+known = true
+first_revelation = 4983
+
+["Allu"]
+hip = 74666
+demon_name = "ALLU"
+demon_type = 5
+poetic_utterance = "Federov Balance"
+concordance = "Median"
+demon_form = "SWARM"
+known = true
+first_revelation = 6182
+
+["Amaymon"]
+hip = 21861
+demon_name = "AMAYMON"
+demon_type = 7
+poetic_utterance = "Crowned Prince"
+concordance = "Hyperactive"
+demon_form = "SWARM"
+known = true
+first_revelation = 3760
+
+["Amdusias"]
+hip = 32765
+demon_name = "AMDUSIAS"
+demon_type = 1
+poetic_utterance = "Empty Vessel"
+concordance = "Null"
+demon_form = "LATTICE"
+known = true
+first_revelation = 4153
+
+["Amalanhig"]
+hip = 67301
+demon_name = "AMALANHIG"
+demon_type = 5
+poetic_utterance = "Federov Balance"
+concordance = "Median"
+demon_form = "RECONSTITUTION"
+known = true
+first_revelation = 3308
+
+["Amy"]
+hip = 19205
+demon_name = "AMY"
+demon_type = 7
+poetic_utterance = "Crowned Prince"
+concordance = "Hyperactive"
+demon_form = "SWARM"
+known = true
+first_revelation = 5707
+
+["Anammelech"]
+hip = 63125
+demon_name = "ANAMMELECH"
+demon_type = 7
+poetic_utterance = "Crowned Prince"
+concordance = "Hyperactive"
+demon_form = "SWARM"
+known = false
+first_revelation = 8583
+
+["Anathan"]
+hip = 64407
+demon_name = "ANATHAN"
+demon_type = 7
+poetic_utterance = "Crowned Prince"
+concordance = "Hyperactive"
+demon_form = "LATTICE"
+known = true
+first_revelation = 8565
+
+["Anaye"]
+hip = 84143
+demon_name = "ANAYE"
+demon_type = 6
+poetic_utterance = "Epiphanic Solution"
+concordance = "Active"
+demon_form = "ORGANIC"
+known = true
+first_revelation = 9567
+
+["Anqa"]
+hip = 80467
+demon_name = "ANQA"
+demon_type = 5
+poetic_utterance = "Federov Balance"
+concordance = "Median"
+demon_form = "LATTICE"
+known = true
+first_revelation = 8428
+
+["Ancitif"]
+hip = 44728
+demon_name = "ANCITIF"
+demon_type = 4
+poetic_utterance = "Ghost Engine"
+concordance = "Stable"
+demon_form = "RECONSTITUTION"
+known = true
+first_revelation = 9750
+
+["Andhaka"]
+hip = 9085
+demon_name = "ANDHAKA"
+demon_type = 2
+poetic_utterance = "Lingering Thought"
+concordance = "Weak"
+demon_form = "SWARM"
+known = true
+first_revelation = 7622
+
+["Andras"]
+hip = 61212
+demon_name = "ANDRAS"
+demon_type = 7
+poetic_utterance = "Crowned Prince"
+concordance = "Hyperactive"
+demon_form = "TORUS"
+known = false
+first_revelation = 6026
+
+["Andrealphus"]
+hip = 69699
+demon_name = "ANDREALPHUS"
+demon_type = 5
+poetic_utterance = "Federov Balance"
+concordance = "Median"
+demon_form = "TORUS"
+known = true
+first_revelation = 7861
+
+["Andromalius"]
+hip = 102485
+demon_name = "ANDROMALIUS"
+demon_type = 5
+poetic_utterance = "Federov Balance"
+concordance = "Median"
+demon_form = "LATTICE"
+known = true
+first_revelation = 9780
+
+["Anti"]
+hip = 46733
+demon_name = "ANTI"
+demon_type = 6
+poetic_utterance = "Epiphanic Solution"
+concordance = "Active"
+demon_form = "LATTICE"
+known = true
+first_revelation = 3454
+
+["Antichrist"]
+hip = 71989
+demon_name = "ANTICHRIST"
+demon_type = 7
+poetic_utterance = "Crowned Prince"
+concordance = "Hyperactive"
+demon_form = "SWARM"
+known = true
+first_revelation = 9302
+
+["Anzû"]
+hip = 70782
+demon_name = "ANZÛ"
+demon_type = 4
+poetic_utterance = "Ghost Engine"
+concordance = "Stable"
+demon_form = "TORUS"
+known = true
+first_revelation = 3741
+
+["Apaosha"]
+hip = 58876
+demon_name = "APAOSHA"
+demon_type = 3
+poetic_utterance = "Resolved Youth"
+concordance = "Minor"
+demon_form = "LOCUS"
+known = true
+first_revelation = 4940
+
+["Apep"]
+hip = 93185
+demon_name = "APEP"
+demon_type = 4
+poetic_utterance = "Ghost Engine"
+concordance = "Stable"
+demon_form = "LATTICE"
+known = false
+first_revelation = 6674
+
+["Archon"]
+hip = 24332
+demon_name = "ARCHON"
+demon_type = 2
+poetic_utterance = "Lingering Thought"
+concordance = "Weak"
+demon_form = "LATTICE"
+known = true
+first_revelation = 3158
+
+["Arioch"]
+hip = 86614
+demon_name = "ARIOCH"
+demon_type = 5
+poetic_utterance = "Federov Balance"
+concordance = "Median"
+demon_form = "RECONSTITUTION"
+known = true
+first_revelation = 9385
+
+["Arunasura"]
+hip = 48319
+demon_name = "ARUNASURA"
+demon_type = 2
+poetic_utterance = "Lingering Thought"
+concordance = "Weak"
+demon_form = "RECONSTITUTION"
+known = true
+first_revelation = 3997
+
+["Asag"]
+hip = 88945
+demon_name = "ASAG"
+demon_type = 6
+poetic_utterance = "Epiphanic Solution"
+concordance = "Active"
+demon_form = "TORUS"
+known = true
+first_revelation = 9185
+
+["Asakku"]
+hip = 2021
+demon_name = "ASAKKU"
+demon_type = 6
+poetic_utterance = "Epiphanic Solution"
+concordance = "Active"
+demon_form = "LATTICE"
+known = true
+first_revelation = 7277
+
+["Asbel"]
+hip = 98819
+demon_name = "ASB'EL"
+demon_type = 6
+poetic_utterance = "Epiphanic Solution"
+concordance = "Active"
+demon_form = "LOCUS"
+known = true
+first_revelation = 4868
+
+["Asmodai"]
+hip = 45038
+demon_name = "ASMODAI"
+demon_type = 7
+poetic_utterance = "Crowned Prince"
+concordance = "Hyperactive"
+demon_form = "ORGANIC"
+known = true
+first_revelation = 3932
+
+["Aswang"]
+hip = 36238
+demon_name = "ASWANG"
+demon_type = 5
+poetic_utterance = "Federov Balance"
+concordance = "Median"
+demon_form = "LATTICE"
+known = true
+first_revelation = 4076
+
+["Astaroth"]
+hip = 54872
+demon_name = "ASTAROTH"
+demon_type = 7
+poetic_utterance = "Crowned Prince"
+concordance = "Hyperactive"
+demon_form = "LATTICE"
+known = true
+first_revelation = 7958
+
+["Asura"]
+hip = 27075
+demon_name = "ASURA"
+demon_type = 10
+poetic_utterance = "Hypersolution"
+concordance = "Singular"
+demon_form = "SWARM"
+known = true
+first_revelation = 9122
+
+["Azazel"]
+hip = 69535
+demon_name = "AZAZEL"
+demon_type = 7
+poetic_utterance = "Crowned Prince"
+concordance = "Hyperactive"
+demon_form = "SWARM"
+known = true
+first_revelation = 3609
+
+["Baal"]
+hip = 93825
+demon_name = "BAAL"
+demon_type = 6
+poetic_utterance = "Epiphanic Solution"
+concordance = "Active"
+demon_form = "RECONSTITUTION"
+known = true
+first_revelation = 5719
+
+["Babi ngepet"]
+hip = 71192
+demon_name = "BABI NGEPET"
+demon_type = 2
+poetic_utterance = "Lingering Thought"
+concordance = "Weak"
+demon_form = "SPHERE"
+known = true
+first_revelation = 8287
+
+["Bakasura"]
+hip = 23482
+demon_name = "BAKASURA"
+demon_type = 5
+poetic_utterance = "Federov Balance"
+concordance = "Median"
+demon_form = "ORGANIC"
+known = true
+first_revelation = 5426
+
+["Baku"]
+hip = 89474
+demon_name = "BAKU"
+demon_type = 4
+poetic_utterance = "Ghost Engine"
+concordance = "Stable"
+demon_form = "LATTICE"
+known = true
+first_revelation = 3526
+
+["Balam"]
+hip = 53737
+demon_name = "BALAM"
+demon_type = 6
+poetic_utterance = "Epiphanic Solution"
+concordance = "Active"
+demon_form = "LATTICE"
+known = true
+first_revelation = 8658
+
+["Balberith"]
+hip = 74824
+demon_name = "BALBERITH"
+demon_type = 9
+poetic_utterance = "Architect"
+concordance = "Supermassive"
+demon_form = "SWARM"
+known = true
+first_revelation = 4799
+
+["Bali Raj"]
+hip = 25662
+demon_name = "BALI RAJ"
+demon_type = 2
+poetic_utterance = "Lingering Thought"
+concordance = "Weak"
+demon_form = "SPHERE"
+known = false
+first_revelation = 4474
+
+["Banshee"]
+hip = 66860
+demon_name = "BANSHEE"
+demon_type = 7
+poetic_utterance = "Crowned Prince"
+concordance = "Hyperactive"
+demon_form = "SPHERE"
+known = true
+first_revelation = 5258
+
+["Baphomet"]
+hip = 63584
+demon_name = "BAPHOMET"
+demon_type = 6
+poetic_utterance = "Epiphanic Solution"
+concordance = "Active"
+demon_form = "ORGANIC"
+known = true
+first_revelation = 8665
+
+["Barbatos"]
+hip = 107310
+demon_name = "BARBATOS"
+demon_type = 4
+poetic_utterance = "Ghost Engine"
+concordance = "Stable"
+demon_form = "ORGANIC"
+known = false
+first_revelation = 7837
+
+["Barong"]
+hip = 45336
+demon_name = "BARONG"
+demon_type = 5
+poetic_utterance = "Federov Balance"
+concordance = "Median"
+demon_form = "ORGANIC"
+known = true
+first_revelation = 8598
+
+["Bathin"]
+hip = 73941
+demon_name = "BATHIN"
+demon_type = 6
+poetic_utterance = "Epiphanic Solution"
+concordance = "Active"
+demon_form = "SWARM"
+known = true
+first_revelation = 9665
+
+["Beelzebub"]
+hip = 5799
+demon_name = "BEELZEBUB"
+demon_type = 6
+poetic_utterance = "Epiphanic Solution"
+concordance = "Active"
+demon_form = "TORUS"
+known = true
+first_revelation = 8401
+
+["Belial"]
+hip = 75415
+demon_name = "BELIAL"
+demon_type = 6
+poetic_utterance = "Epiphanic Solution"
+concordance = "Active"
+demon_form = "TORUS"
+known = true
+first_revelation = 9490
+
+["Beleth"]
+hip = 73309
+demon_name = "BELETH"
+demon_type = 7
+poetic_utterance = "Crowned Prince"
+concordance = "Hyperactive"
+demon_form = "RECONSTITUTION"
+known = true
+first_revelation = 8410
+
+["Belphegor"]
+hip = 43177
+demon_name = "BELPHEGOR"
+demon_type = 5
+poetic_utterance = "Federov Balance"
+concordance = "Median"
+demon_form = "SPHERE"
+known = true
+first_revelation = 5726
+
+["Berith"]
+hip = 67408
+demon_name = "BERITH"
+demon_type = 5
+poetic_utterance = "Federov Balance"
+concordance = "Median"
+demon_form = "ORGANIC"
+known = true
+first_revelation = 4520
+
+["Bhūta"]
+hip = 51502
+demon_name = "BHŪTA"
+demon_type = 5
+poetic_utterance = "Federov Balance"
+concordance = "Median"
+demon_form = "RECONSTITUTION"
+known = true
+first_revelation = 7534
+
+["Bifrons"]
+hip = 30067
+demon_name = "BIFRONS"
+demon_type = 4
+poetic_utterance = "Ghost Engine"
+concordance = "Stable"
+demon_form = "LATTICE"
+known = true
+first_revelation = 4904
+
+["Boruta"]
+hip = 64532
+demon_name = "BORUTA"
+demon_type = 7
+poetic_utterance = "Crowned Prince"
+concordance = "Hyperactive"
+demon_form = "LATTICE"
+known = true
+first_revelation = 4963
+
+["Botis"]
+hip = 44127
+demon_name = "BOTIS"
+demon_type = 1
+poetic_utterance = "Empty Vessel"
+concordance = "Null"
+demon_form = "ORGANIC"
+known = true
+first_revelation = 5797
+
+["Buer"]
+hip = 1599
+demon_name = "BUER"
+demon_type = 4
+poetic_utterance = "Ghost Engine"
+concordance = "Stable"
+demon_form = "RECONSTITUTION"
+known = false
+first_revelation = 8329
+
+["Bukavac"]
+hip = 78400
+demon_name = "BUKAVAC"
+demon_type = 5
+poetic_utterance = "Federov Balance"
+concordance = "Median"
+demon_form = "LATTICE"
+known = true
+first_revelation = 9262
+
+["Bushyasta"]
+hip = 22844
+demon_name = "BUSHYASTA"
+demon_type = 5
+poetic_utterance = "Federov Balance"
+concordance = "Median"
+demon_form = "SWARM"
+known = false
+first_revelation = 7270
+
+["Caim"]
+hip = 71251
+demon_name = "CAIM"
+demon_type = 4
+poetic_utterance = "Ghost Engine"
+concordance = "Stable"
+demon_form = "RECONSTITUTION"
+known = true
+first_revelation = 9584
+
+["Cambion"]
+hip = 85268
+demon_name = "CAMBION"
+demon_type = 6
+poetic_utterance = "Epiphanic Solution"
+concordance = "Active"
+demon_form = "SWARM"
+known = true
+first_revelation = 7148
+
+["Charun"]
+hip = 40702
+demon_name = "CHARUN"
+demon_type = 9
+poetic_utterance = "Architect"
+concordance = "Supermassive"
+demon_form = "LOCUS"
+known = true
+first_revelation = 6391
+
+["Chemosh"]
+hip = 33202
+demon_name = "CHEMOSH"
+demon_type = 7
+poetic_utterance = "Crowned Prince"
+concordance = "Hyperactive"
+demon_form = "ORGANIC"
+known = true
+first_revelation = 3977
+
+["Choronzon"]
+hip = 61379
+demon_name = "CHORONZON"
+demon_type = 3
+poetic_utterance = "Resolved Youth"
+concordance = "Minor"
+demon_form = "SWARM"
+known = true
+first_revelation = 5760
+
+["Chort"]
+hip = 80902
+demon_name = "CHORT"
+demon_type = 7
+poetic_utterance = "Crowned Prince"
+concordance = "Hyperactive"
+demon_form = "SPHERE"
+known = true
+first_revelation = 5383
+
+["Cimejes"]
+hip = 72223
+demon_name = "CIMEJES"
+demon_type = 3
+poetic_utterance = "Resolved Youth"
+concordance = "Minor"
+demon_form = "RECONSTITUTION"
+known = true
+first_revelation = 8885
+
+["Corson"]
+hip = 47508
+demon_name = "CORSON"
+demon_type = 4
+poetic_utterance = "Ghost Engine"
+concordance = "Stable"
+demon_form = "RECONSTITUTION"
+known = false
+first_revelation = 5516
+
+["Crocell"]
+hip = 8514
+demon_name = "CROCELL"
+demon_type = 7
+poetic_utterance = "Crowned Prince"
+concordance = "Hyperactive"
+demon_form = "SWARM"
+known = true
+first_revelation = 5457
+
+["Daeva"]
+hip = 15131
+demon_name = "DAEVA"
+demon_type = 3
+poetic_utterance = "Resolved Youth"
+concordance = "Minor"
+demon_form = "SPHERE"
+known = false
+first_revelation = 6054
+
+["Dagon"]
+hip = 26016
+demon_name = "DAGON"
+demon_type = 4
+poetic_utterance = "Ghost Engine"
+concordance = "Stable"
+demon_form = "LOCUS"
+known = true
+first_revelation = 5982
+
+["Dantalion"]
+hip = 78999
+demon_name = "DANTALION"
+demon_type = 7
+poetic_utterance = "Crowned Prince"
+concordance = "Hyperactive"
+demon_form = "RECONSTITUTION"
+known = true
+first_revelation = 6033
+
+["Danjal"]
+hip = 30862
+demon_name = "DANJAL"
+demon_type = 2
+poetic_utterance = "Lingering Thought"
+concordance = "Weak"
+demon_form = "SPHERE"
+known = false
+first_revelation = 8617
+
+["Decarabia"]
+hip = 28634
+demon_name = "DECARABIA"
+demon_type = 2
+poetic_utterance = "Lingering Thought"
+concordance = "Weak"
+demon_form = "SPHERE"
+known = true
+first_revelation = 7869
+
+["Demogorgon"]
+hip = 43904
+demon_name = "DEMOGORGON"
+demon_type = 6
+poetic_utterance = "Epiphanic Solution"
+concordance = "Active"
+demon_form = "LATTICE"
+known = true
+first_revelation = 3403
+
+["Dev"]
+hip = 96441
+demon_name = "DEV"
+demon_type = 5
+poetic_utterance = "Federov Balance"
+concordance = "Median"
+demon_form = "LATTICE"
+known = false
+first_revelation = 6104
+
+["Devil"]
+hip = 4151
+demon_name = "DEVIL"
+demon_type = 7
+poetic_utterance = "Crowned Prince"
+concordance = "Hyperactive"
+demon_form = "SPHERE"
+known = true
+first_revelation = 5483
+
+["Div-e Sepid"]
+hip = 25110
+demon_name = "DIV-E SEPID"
+demon_type = 6
+poetic_utterance = "Epiphanic Solution"
+concordance = "Active"
+demon_form = "SPHERE"
+known = true
+first_revelation = 6930
+
+["Djall"]
+hip = 104887
+demon_name = "DJALL"
+demon_type = 5
+poetic_utterance = "Federov Balance"
+concordance = "Median"
+demon_form = "SPHERE"
+known = true
+first_revelation = 9449
+
+["Drekavac"]
+hip = 54182
+demon_name = "DREKAVAC"
+demon_type = 4
+poetic_utterance = "Ghost Engine"
+concordance = "Stable"
+demon_form = "LOCUS"
+known = true
+first_revelation = 9610
+
+["Dzoavits"]
+hip = 39710
+demon_name = "DZOAVITS"
+demon_type = 2
+poetic_utterance = "Lingering Thought"
+concordance = "Weak"
+demon_form = "SPHERE"
+known = true
+first_revelation = 6929
+
+["Eblis"]
+hip = 60994
+demon_name = "EBLIS"
+demon_type = 8
+poetic_utterance = "King of Kings"
+concordance = "Massive"
+demon_form = "LOCUS"
+known = true
+first_revelation = 3150
+
+["Eligos"]
+hip = 69671
+demon_name = "ELIGOS"
+demon_type = 5
+poetic_utterance = "Federov Balance"
+concordance = "Median"
+demon_form = "SPHERE"
+known = true
+first_revelation = 6312
+
+["Eisheth"]
+hip = 77718
+demon_name = "EISHETH"
+demon_type = 3
+poetic_utterance = "Resolved Youth"
+concordance = "Minor"
+demon_form = "LATTICE"
+known = true
+first_revelation = 3252
+
+["Erlik"]
+hip = 95501
+demon_name = "ERLIK"
+demon_type = 5
+poetic_utterance = "Federov Balance"
+concordance = "Median"
+demon_form = "SWARM"
+known = true
+first_revelation = 4357
+
+["Focalor"]
+hip = 85007
+demon_name = "FOCALOR"
+demon_type = 6
+poetic_utterance = "Epiphanic Solution"
+concordance = "Active"
+demon_form = "SPHERE"
+known = true
+first_revelation = 6403
+
+["Foras"]
+hip = 63121
+demon_name = "FORAS"
+demon_type = 6
+poetic_utterance = "Epiphanic Solution"
+concordance = "Active"
+demon_form = "SWARM"
+known = true
+first_revelation = 5494
+
+["Furcas"]
+hip = 71530
+demon_name = "FURCAS"
+demon_type = 6
+poetic_utterance = "Epiphanic Solution"
+concordance = "Active"
+demon_form = "SPHERE"
+known = true
+first_revelation = 9924
+
+["Furfur"]
+hip = 59180
+demon_name = "FURFUR"
+demon_type = 6
+poetic_utterance = "Epiphanic Solution"
+concordance = "Active"
+demon_form = "TORUS"
+known = true
+first_revelation = 9305
+
+["Gaap"]
+hip = 96395
+demon_name = "GAAP"
+demon_type = 1
+poetic_utterance = "Empty Vessel"
+concordance = "Null"
+demon_form = "LOCUS"
+known = false
+first_revelation = 8705
+
+["Gaderel"]
+hip = 70520
+demon_name = "GADER'EL"
+demon_type = 7
+poetic_utterance = "Crowned Prince"
+concordance = "Hyperactive"
+demon_form = "SWARM"
+known = true
+first_revelation = 4043
+
+["Gadulta"]
+hip = 61872
+demon_name = "GADULTA"
+demon_type = 7
+poetic_utterance = "Crowned Prince"
+concordance = "Hyperactive"
+demon_form = "SPHERE"
+known = true
+first_revelation = 8443
+
+["Gaf"]
+hip = 32851
+demon_name = "GAF"
+demon_type = 9
+poetic_utterance = "Architect"
+concordance = "Supermassive"
+demon_form = "ORGANIC"
+known = false
+first_revelation = 3720
+
+["Gaki"]
+hip = 86736
+demon_name = "GAKI"
+demon_type = 2
+poetic_utterance = "Lingering Thought"
+concordance = "Weak"
+demon_form = "LATTICE"
+known = true
+first_revelation = 8965
+
+["Gamigin"]
+hip = 69653
+demon_name = "GAMIGIN"
+demon_type = 7
+poetic_utterance = "Crowned Prince"
+concordance = "Hyperactive"
+demon_form = "LATTICE"
+known = true
+first_revelation = 9923
+
+["Ghaddar"]
+hip = 51658
+demon_name = "GHADDAR"
+demon_type = 6
+poetic_utterance = "Epiphanic Solution"
+concordance = "Active"
+demon_form = "SWARM"
+known = true
+first_revelation = 7417
+
+["Ghoul"]
+hip = 72336
+demon_name = "GHOUL"
+demon_type = 5
+poetic_utterance = "Federov Balance"
+concordance = "Median"
+demon_form = "SPHERE"
+known = true
+first_revelation = 6797
+
+["Giu"]
+hip = 84183
+demon_name = "GIU"
+demon_type = 6
+poetic_utterance = "Epiphanic Solution"
+concordance = "Active"
+demon_form = "ORGANIC"
+known = false
+first_revelation = 3464
+
+["Glasya-Labolas"]
+hip = 23875
+demon_name = "GLASYA-LABOLAS"
+demon_type = 3
+poetic_utterance = "Resolved Youth"
+concordance = "Minor"
+demon_form = "TORUS"
+known = true
+first_revelation = 3330
+
+["Gorgon"]
+hip = 87382
+demon_name = "GORGON"
+demon_type = 1
+poetic_utterance = "Empty Vessel"
+concordance = "Null"
+demon_form = "SPHERE"
+known = true
+first_revelation = 3352
+
+["Grigori"]
+hip = 69701
+demon_name = "GRIGORI"
+demon_type = 6
+poetic_utterance = "Epiphanic Solution"
+concordance = "Active"
+demon_form = "RECONSTITUTION"
+known = true
+first_revelation = 9675
+
+["Gualichu"]
+hip = 87234
+demon_name = "GUALICHU"
+demon_type = 6
+poetic_utterance = "Epiphanic Solution"
+concordance = "Active"
+demon_form = "LOCUS"
+known = true
+first_revelation = 8709
+
+["Guayota"]
+hip = 41181
+demon_name = "GUAYOTA"
+demon_type = 3
+poetic_utterance = "Resolved Youth"
+concordance = "Minor"
+demon_form = "RECONSTITUTION"
+known = true
+first_revelation = 8526
+
+["Gusion"]
+hip = 70499
+demon_name = "GUSION"
+demon_type = 5
+poetic_utterance = "Federov Balance"
+concordance = "Median"
+demon_form = "ORGANIC"
+known = true
+first_revelation = 5467
+
+["Haagenti"]
+hip = 46853
+demon_name = "HAAGENTI"
+demon_type = 5
+poetic_utterance = "Federov Balance"
+concordance = "Median"
+demon_form = "LOCUS"
+known = true
+first_revelation = 6069
+
+["Hag"]
+hip = 20800
+demon_name = "HAG"
+demon_type = 1
+poetic_utterance = "Empty Vessel"
+concordance = "Null"
+demon_form = "LOCUS"
+known = true
+first_revelation = 4229
+
+["Halphas"]
+hip = 56802
+demon_name = "HALPHAS"
+demon_type = 7
+poetic_utterance = "Crowned Prince"
+concordance = "Hyperactive"
+demon_form = "ORGANIC"
+known = true
+first_revelation = 6732
+
+["Haures"]
+hip = 39506
+demon_name = "HAURES"
+demon_type = 2
+poetic_utterance = "Lingering Thought"
+concordance = "Weak"
+demon_form = "ORGANIC"
+known = true
+first_revelation = 4116
+
+["Hinn"]
+hip = 83608
+demon_name = "HINN"
+demon_type = 1
+poetic_utterance = "Empty Vessel"
+concordance = "Null"
+demon_form = "LATTICE"
+known = true
+first_revelation = 4888
+
+["Hanbi"]
+hip = 102431
+demon_name = "HANBI"
+demon_type = 7
+poetic_utterance = "Crowned Prince"
+concordance = "Hyperactive"
+demon_form = "SPHERE"
+known = true
+first_revelation = 5523
+
+["Hannya"]
+hip = 89282
+demon_name = "HANNYA"
+demon_type = 6
+poetic_utterance = "Epiphanic Solution"
+concordance = "Active"
+demon_form = "LOCUS"
+known = true
+first_revelation = 4505
+
+["Ifrit"]
+hip = 61174
+demon_name = "IFRIT"
+demon_type = 5
+poetic_utterance = "Federov Balance"
+concordance = "Median"
+demon_form = "RECONSTITUTION"
+known = false
+first_revelation = 8643
+
+["Incubus"]
+hip = 76568
+demon_name = "INCUBUS"
+demon_type = 7
+poetic_utterance = "Crowned Prince"
+concordance = "Hyperactive"
+demon_form = "ORGANIC"
+known = true
+first_revelation = 8127
+
+["Ipos"]
+hip = 113368
+demon_name = "IPOS"
+demon_type = 5
+poetic_utterance = "Federov Balance"
+concordance = "Median"
+demon_form = "ORGANIC"
+known = true
+first_revelation = 5346
+
+["Imp"]
+hip = 42403
+demon_name = "IMP"
+demon_type = 1
+poetic_utterance = "Empty Vessel"
+concordance = "Null"
+demon_form = "LATTICE"
+known = false
+first_revelation = 6604
+
+["Jinn"]
+hip = 88771
+demon_name = "JINN"
+demon_type = 5
+poetic_utterance = "Federov Balance"
+concordance = "Median"
+demon_form = "ORGANIC"
+known = true
+first_revelation = 3878
+
+["Jikininki"]
+hip = 107556
+demon_name = "JIKININKI"
+demon_type = 3
+poetic_utterance = "Resolved Youth"
+concordance = "Minor"
+demon_form = "SPHERE"
+known = true
+first_revelation = 9272
+
+["Kabandha"]
+hip = 7513
+demon_name = "KABANDHA"
+demon_type = 7
+poetic_utterance = "Crowned Prince"
+concordance = "Hyperactive"
+demon_form = "SWARM"
+known = true
+first_revelation = 3060
+
+["Kallikantzaros"]
+hip = 52498
+demon_name = "KALLIKANTZAROS"
+demon_type = 7
+poetic_utterance = "Crowned Prince"
+concordance = "Hyperactive"
+demon_form = "RECONSTITUTION"
+known = true
+first_revelation = 7632
+
+["Kara Iye"]
+hip = 39780
+demon_name = "KARA İYE"
+demon_type = 6
+poetic_utterance = "Epiphanic Solution"
+concordance = "Active"
+demon_form = "TORUS"
+known = false
+first_revelation = 8358
+
+["Kokabiel"]
+hip = 97438
+demon_name = "KOKABIEL"
+demon_type = 3
+poetic_utterance = "Resolved Youth"
+concordance = "Minor"
+demon_form = "ORGANIC"
+known = true
+first_revelation = 8193
+
+["Kroni"]
+hip = 77952
+demon_name = "KRONI"
+demon_type = 3
+poetic_utterance = "Resolved Youth"
+concordance = "Minor"
+demon_form = "LATTICE"
+known = true
+first_revelation = 4562
+
+["Krampus"]
+hip = 71876
+demon_name = "KRAMPUS"
+demon_type = 2
+poetic_utterance = "Lingering Thought"
+concordance = "Weak"
+demon_form = "SWARM"
+known = true
+first_revelation = 8500
+
+["Krun"]
+hip = 47403
+demon_name = "KRUN"
+demon_type = 3
+poetic_utterance = "Resolved Youth"
+concordance = "Minor"
+demon_form = "RECONSTITUTION"
+known = true
+first_revelation = 3471
+
+["Killakee Cat"]
+hip = 35350
+demon_name = "KILLAKEE CAT"
+demon_type = 7
+poetic_utterance = "Crowned Prince"
+concordance = "Hyperactive"
+demon_form = "LATTICE"
+known = true
+first_revelation = 4141
+
+["Kukudh"]
+hip = 35136
+demon_name = "KUKUDH"
+demon_type = 5
+poetic_utterance = "Federov Balance"
+concordance = "Median"
+demon_form = "ORGANIC"
+known = true
+first_revelation = 9274
+
+["Kulshedra"]
+hip = 64792
+demon_name = "KULSHEDRA"
+demon_type = 5
+poetic_utterance = "Federov Balance"
+concordance = "Median"
+demon_form = "RECONSTITUTION"
+known = true
+first_revelation = 7134
+
+["Kumbhakarna"]
+hip = 71631
+demon_name = "KUMBHAKARNA"
+demon_type = 5
+poetic_utterance = "Federov Balance"
+concordance = "Median"
+demon_form = "RECONSTITUTION"
+known = true
+first_revelation = 7728
+
+["Lamashtu"]
+hip = 79578
+demon_name = "LAMASHTU"
+demon_type = 2
+poetic_utterance = "Lingering Thought"
+concordance = "Weak"
+demon_form = "LOCUS"
+known = true
+first_revelation = 3112
+
+["Latabi"]
+hip = 62527
+demon_name = "LATABI"
+demon_type = 1
+poetic_utterance = "Empty Vessel"
+concordance = "Null"
+demon_form = "RECONSTITUTION"
+known = true
+first_revelation = 9893
+
+["Legion"]
+hip = 3821
+demon_name = "LEGION"
+demon_type = 7
+poetic_utterance = "Crowned Prince"
+concordance = "Hyperactive"
+demon_form = "TORUS"
+known = true
+first_revelation = 4603
+
+["Lechies"]
+hip = 41184
+demon_name = "LECHIES"
+demon_type = 7
+poetic_utterance = "Crowned Prince"
+concordance = "Hyperactive"
+demon_form = "LATTICE"
+known = true
+first_revelation = 7895
+
+["Leonard"]
+hip = 79152
+demon_name = "LEONARD"
+demon_type = 6
+poetic_utterance = "Epiphanic Solution"
+concordance = "Active"
+demon_form = "LATTICE"
+known = true
+first_revelation = 7289
+
+["Leyak"]
+hip = 70500
+demon_name = "LEYAK"
+demon_type = 7
+poetic_utterance = "Crowned Prince"
+concordance = "Hyperactive"
+demon_form = "LATTICE"
+known = true
+first_revelation = 4479
+
+["Lempo"]
+hip = 88175
+demon_name = "LEMPO"
+demon_type = 5
+poetic_utterance = "Federov Balance"
+concordance = "Median"
+demon_form = "RECONSTITUTION"
+known = true
+first_revelation = 6476
+
+["Leraje"]
+hip = 80300
+demon_name = "LERAJE"
+demon_type = 3
+poetic_utterance = "Resolved Youth"
+concordance = "Minor"
+demon_form = "LATTICE"
+known = false
+first_revelation = 4914
+
+["Leviathan"]
+hip = 14258
+demon_name = "LEVIATHAN"
+demon_type = 5
+poetic_utterance = "Federov Balance"
+concordance = "Median"
+demon_form = "LATTICE"
+known = true
+first_revelation = 9642
+
+["Lili"]
+hip = 51986
+demon_name = "LILI"
+demon_type = 5
+poetic_utterance = "Federov Balance"
+concordance = "Median"
+demon_form = "LATTICE"
+known = true
+first_revelation = 7520
+
+["Lilith"]
+hip = 12623
+demon_name = "LILITH"
+demon_type = 7
+poetic_utterance = "Crowned Prince"
+concordance = "Hyperactive"
+demon_form = "ORGANIC"
+known = false
+first_revelation = 3199
+
+["Ljubi"]
+hip = 41975
+demon_name = "LJUBI"
+demon_type = 6
+poetic_utterance = "Epiphanic Solution"
+concordance = "Active"
+demon_form = "TORUS"
+known = true
+first_revelation = 5063
+
+["Lucifer"]
+hip = 32874
+demon_name = "LUCIFER"
+demon_type = 6
+poetic_utterance = "Epiphanic Solution"
+concordance = "Active"
+demon_form = "LATTICE"
+known = true
+first_revelation = 4472
+
+["Lucifuge Rofocale"]
+hip = 73623
+demon_name = "LUCIFUGE ROFOCALE"
+demon_type = 6
+poetic_utterance = "Epiphanic Solution"
+concordance = "Active"
+demon_form = "LOCUS"
+known = true
+first_revelation = 6799
+
+["Mag"]
+hip = 50316
+demon_name = "MAG"
+demon_type = 9
+poetic_utterance = "Architect"
+concordance = "Supermassive"
+demon_form = "LOCUS"
+known = true
+first_revelation = 9597
+
+["Mahishasur"]
+hip = 23852
+demon_name = "MAHISHASUR"
+demon_type = 3
+poetic_utterance = "Resolved Youth"
+concordance = "Minor"
+demon_form = "TORUS"
+known = true
+first_revelation = 7100
+
+["Manananggal"]
+hip = 29208
+demon_name = "MANANANGGAL"
+demon_type = 4
+poetic_utterance = "Ghost Engine"
+concordance = "Stable"
+demon_form = "RECONSTITUTION"
+known = true
+first_revelation = 9958
+
+["Malphas"]
+hip = 76602
+demon_name = "MALPHAS"
+demon_type = 3
+poetic_utterance = "Resolved Youth"
+concordance = "Minor"
+demon_form = "SPHERE"
+known = true
+first_revelation = 5083
+
+["Mammon"]
+hip = 74674
+demon_name = "MAMMON"
+demon_type = 5
+poetic_utterance = "Federov Balance"
+concordance = "Median"
+demon_form = "RECONSTITUTION"
+known = true
+first_revelation = 9464
+
+["Mara"]
+hip = 12828
+demon_name = "MARA"
+demon_type = 1
+poetic_utterance = "Empty Vessel"
+concordance = "Null"
+demon_form = "SPHERE"
+known = true
+first_revelation = 7064
+
+["Marbas"]
+hip = 28360
+demon_name = "MARBAS"
+demon_type = 2
+poetic_utterance = "Lingering Thought"
+concordance = "Weak"
+demon_form = "LATTICE"
+known = true
+first_revelation = 6555
+
+["Maricha"]
+hip = 46566
+demon_name = "MARICHA"
+demon_type = 7
+poetic_utterance = "Crowned Prince"
+concordance = "Hyperactive"
+demon_form = "SWARM"
+known = true
+first_revelation = 8429
+
+["Marax"]
+hip = 80179
+demon_name = "MARAX"
+demon_type = 5
+poetic_utterance = "Federov Balance"
+concordance = "Median"
+demon_form = "LATTICE"
+known = false
+first_revelation = 9046
+
+["Marchosias"]
+hip = 39757
+demon_name = "MARCHOSIAS"
+demon_type = 4
+poetic_utterance = "Ghost Engine"
+concordance = "Stable"
+demon_form = "TORUS"
+known = true
+first_revelation = 4689
+
+["Mastema"]
+hip = 59380
+demon_name = "MASTEMA"
+demon_type = 1
+poetic_utterance = "Empty Vessel"
+concordance = "Null"
+demon_form = "LOCUS"
+known = true
+first_revelation = 4884
+
+["Mazoku"]
+hip = 48926
+demon_name = "MAZOKU"
+demon_type = 4
+poetic_utterance = "Ghost Engine"
+concordance = "Stable"
+demon_form = "LOCUS"
+known = true
+first_revelation = 7334
+
+["Mephistopheles"]
+hip = 76456
+demon_name = "MEPHISTOPHELES"
+demon_type = 1
+poetic_utterance = "Empty Vessel"
+concordance = "Null"
+demon_form = "RECONSTITUTION"
+known = true
+first_revelation = 8958
+
+["Merihem"]
+hip = 94083
+demon_name = "MERIHEM"
+demon_type = 6
+poetic_utterance = "Epiphanic Solution"
+concordance = "Active"
+demon_form = "SPHERE"
+known = true
+first_revelation = 5929
+
+["Moloch"]
+hip = 23941
+demon_name = "MOLOCH"
+demon_type = 2
+poetic_utterance = "Lingering Thought"
+concordance = "Weak"
+demon_form = "LATTICE"
+known = true
+first_revelation = 5801
+
+["Murmur"]
+hip = 109176
+demon_name = "MURMUR"
+demon_type = 4
+poetic_utterance = "Ghost Engine"
+concordance = "Stable"
+demon_form = "SPHERE"
+known = true
+first_revelation = 8533
+
+["Naamah"]
+hip = 92043
+demon_name = "NAAMAH"
+demon_type = 5
+poetic_utterance = "Federov Balance"
+concordance = "Median"
+demon_form = "RECONSTITUTION"
+known = true
+first_revelation = 4592
+
+["Naberius"]
+hip = 74730
+demon_name = "NABERIUS"
+demon_type = 5
+poetic_utterance = "Federov Balance"
+concordance = "Median"
+demon_form = "TORUS"
+known = false
+first_revelation = 6115
+
+["Nalai"]
+hip = 23783
+demon_name = "NALAI"
+demon_type = 6
+poetic_utterance = "Epiphanic Solution"
+concordance = "Active"
+demon_form = "ORGANIC"
+known = true
+first_revelation = 4525
+
+["Namtar"]
+hip = 57083
+demon_name = "NAMTAR"
+demon_type = 7
+poetic_utterance = "Crowned Prince"
+concordance = "Hyperactive"
+demon_form = "LATTICE"
+known = true
+first_revelation = 6943
+
+["Nar as-samum"]
+hip = 36152
+demon_name = "NAR AS-SAMUM"
+demon_type = 6
+poetic_utterance = "Epiphanic Solution"
+concordance = "Active"
+demon_form = "ORGANIC"
+known = true
+first_revelation = 3183
+
+["Narakasura"]
+hip = 44075
+demon_name = "NARAKASURA"
+demon_type = 7
+poetic_utterance = "Crowned Prince"
+concordance = "Hyperactive"
+demon_form = "ORGANIC"
+known = true
+first_revelation = 8592
+
+["Ninurta"]
+hip = 29860
+demon_name = "NINURTA"
+demon_type = 1
+poetic_utterance = "Empty Vessel"
+concordance = "Null"
+demon_form = "ORGANIC"
+known = true
+first_revelation = 9732
+
+["Niuli"]
+hip = 5896
+demon_name = "NIULI"
+demon_type = 1
+poetic_utterance = "Empty Vessel"
+concordance = "Null"
+demon_form = "SPHERE"
+known = true
+first_revelation = 5580
+
+["Oni"]
+hip = 114924
+demon_name = "ONI"
+demon_type = 5
+poetic_utterance = "Federov Balance"
+concordance = "Median"
+demon_form = "LATTICE"
+known = true
+first_revelation = 9374
+
+["Onoskelis"]
+hip = 38325
+demon_name = "ONOSKELIS"
+demon_type = 1
+poetic_utterance = "Empty Vessel"
+concordance = "Null"
+demon_form = "LOCUS"
+known = true
+first_revelation = 3986
+
+["Orcus"]
+hip = 56186
+demon_name = "ORCUS"
+demon_type = 7
+poetic_utterance = "Crowned Prince"
+concordance = "Hyperactive"
+demon_form = "TORUS"
+known = true
+first_revelation = 3299
+
+["Orias"]
+hip = 45858
+demon_name = "ORIAS"
+demon_type = 1
+poetic_utterance = "Empty Vessel"
+concordance = "Null"
+demon_form = "SWARM"
+known = true
+first_revelation = 5256
+
+["Orobas"]
+hip = 32439
+demon_name = "OROBAS"
+demon_type = 10
+poetic_utterance = "Hypersolution"
+concordance = "Singular"
+demon_form = "TORUS"
+known = true
+first_revelation = 7350
+
+["Ose"]
+hip = 79837
+demon_name = "OSE"
+demon_type = 3
+poetic_utterance = "Resolved Youth"
+concordance = "Minor"
+demon_form = "SPHERE"
+known = true
+first_revelation = 7429
+
+["Ordog"]
+hip = 59750
+demon_name = "ÖRDÖG"
+demon_type = 5
+poetic_utterance = "Federov Balance"
+concordance = "Median"
+demon_form = "TORUS"
+known = true
+first_revelation = 5414
+
+["O Tokata"]
+hip = 50191
+demon_name = "O TOKATA"
+demon_type = 6
+poetic_utterance = "Epiphanic Solution"
+concordance = "Active"
+demon_form = "RECONSTITUTION"
+known = true
+first_revelation = 5726
+
+["Paimon"]
+hip = 48524
+demon_name = "PAIMON"
+demon_type = 8
+poetic_utterance = "King of Kings"
+concordance = "Massive"
+demon_form = "SPHERE"
+known = true
+first_revelation = 5529
+
+["Pazuzu"]
+hip = 88194
+demon_name = "PAZUZU"
+demon_type = 6
+poetic_utterance = "Epiphanic Solution"
+concordance = "Active"
+demon_form = "SPHERE"
+known = true
+first_revelation = 9104
+
+["Pelesit"]
+hip = 93747
+demon_name = "PELESIT"
+demon_type = 6
+poetic_utterance = "Epiphanic Solution"
+concordance = "Active"
+demon_form = "LOCUS"
+known = true
+first_revelation = 8794
+
+["Phenex"]
+hip = 40283
+demon_name = "PHENEX"
+demon_type = 7
+poetic_utterance = "Crowned Prince"
+concordance = "Hyperactive"
+demon_form = "SWARM"
+known = true
+first_revelation = 3076
+
+["Penemue"]
+hip = 10644
+demon_name = "PENEMUE"
+demon_type = 1
+poetic_utterance = "Empty Vessel"
+concordance = "Null"
+demon_form = "LOCUS"
+known = false
+first_revelation = 8124
+
+["Pocong"]
+hip = 55779
+demon_name = "POCONG"
+demon_type = 6
+poetic_utterance = "Epiphanic Solution"
+concordance = "Active"
+demon_form = "LATTICE"
+known = true
+first_revelation = 3398
+
+["Pontianak"]
+hip = 45493
+demon_name = "PONTIANAK"
+demon_type = 2
+poetic_utterance = "Lingering Thought"
+concordance = "Weak"
+demon_form = "TORUS"
+known = true
+first_revelation = 9140
+
+["Preta"]
+hip = 61621
+demon_name = "PRETA"
+demon_type = 8
+poetic_utterance = "King of Kings"
+concordance = "Massive"
+demon_form = "SPHERE"
+known = true
+first_revelation = 7312
+
+["Purson"]
+hip = 84893
+demon_name = "PURSON"
+demon_type = 4
+poetic_utterance = "Ghost Engine"
+concordance = "Stable"
+demon_form = "TORUS"
+known = false
+first_revelation = 4422
+
+["Pruflas"]
+hip = 38048
+demon_name = "PRUFLAS"
+demon_type = 1
+poetic_utterance = "Empty Vessel"
+concordance = "Null"
+demon_form = "LOCUS"
+known = true
+first_revelation = 7094
+
+["Puloman"]
+hip = 44014
+demon_name = "PULOMAN"
+demon_type = 6
+poetic_utterance = "Epiphanic Solution"
+concordance = "Active"
+demon_form = "SWARM"
+known = true
+first_revelation = 7313
+
+["Qin"]
+hip = 28790
+demon_name = "QIN"
+demon_type = 5
+poetic_utterance = "Federov Balance"
+concordance = "Median"
+demon_form = "SPHERE"
+known = true
+first_revelation = 8975
+
+["Rahab"]
+hip = 48390
+demon_name = "RAHAB"
+demon_type = 7
+poetic_utterance = "Crowned Prince"
+concordance = "Hyperactive"
+demon_form = "SWARM"
+known = true
+first_revelation = 4665
+
+["Rahovart"]
+hip = 50786
+demon_name = "RAHOVART"
+demon_type = 7
+poetic_utterance = "Crowned Prince"
+concordance = "Hyperactive"
+demon_form = "TORUS"
+known = true
+first_revelation = 6405
+
+["Rakshasa"]
+hip = 80686
+demon_name = "RAKSHASA"
+demon_type = 3
+poetic_utterance = "Resolved Youth"
+concordance = "Minor"
+demon_form = "SPHERE"
+known = true
+first_revelation = 5103
+
+["Rangda"]
+hip = 83601
+demon_name = "RANGDA"
+demon_type = 2
+poetic_utterance = "Lingering Thought"
+concordance = "Weak"
+demon_form = "LATTICE"
+known = true
+first_revelation = 3770
+
+["Raum"]
+hip = 75379
+demon_name = "RAUM"
+demon_type = 7
+poetic_utterance = "Crowned Prince"
+concordance = "Hyperactive"
+demon_form = "SPHERE"
+known = true
+first_revelation = 6106
+
+["Ravana"]
+hip = 52469
+demon_name = "RAVANA"
+demon_type = 8
+poetic_utterance = "King of Kings"
+concordance = "Massive"
+demon_form = "LOCUS"
+known = true
+first_revelation = 4184
+
+["Rimmon"]
+hip = 77801
+demon_name = "RIMMON"
+demon_type = 4
+poetic_utterance = "Ghost Engine"
+concordance = "Stable"
+demon_form = "LATTICE"
+known = true
+first_revelation = 4639
+
+["Ronove"]
+hip = 18413
+demon_name = "RONOVE"
+demon_type = 7
+poetic_utterance = "Crowned Prince"
+concordance = "Hyperactive"
+demon_form = "RECONSTITUTION"
+known = true
+first_revelation = 3369
+
+["Ribesal"]
+hip = 18267
+demon_name = "RIBESAL"
+demon_type = 1
+poetic_utterance = "Empty Vessel"
+concordance = "Null"
+demon_form = "TORUS"
+known = true
+first_revelation = 6545
+
+["Rusalka"]
+hip = 19859
+demon_name = "RUSALKA"
+demon_type = 6
+poetic_utterance = "Epiphanic Solution"
+concordance = "Active"
+demon_form = "TORUS"
+known = true
+first_revelation = 6139
+
+["Ruha"]
+hip = 76603
+demon_name = "RUHA"
+demon_type = 7
+poetic_utterance = "Crowned Prince"
+concordance = "Hyperactive"
+demon_form = "SWARM"
+known = true
+first_revelation = 6974
+
+["Revenant"]
+hip = 54233
+demon_name = "REVENANT"
+demon_type = 5
+poetic_utterance = "Federov Balance"
+concordance = "Median"
+demon_form = "LATTICE"
+known = true
+first_revelation = 7131
+
+["Sabnock"]
+hip = 76829
+demon_name = "SABNOCK"
+demon_type = 6
+poetic_utterance = "Epiphanic Solution"
+concordance = "Active"
+demon_form = "TORUS"
+known = true
+first_revelation = 5565
+
+["Saleos"]
+hip = 8903
+demon_name = "SALEOS"
+demon_type = 6
+poetic_utterance = "Epiphanic Solution"
+concordance = "Active"
+demon_form = "SWARM"
+known = true
+first_revelation = 8793
+
+["Samael"]
+hip = 33277
+demon_name = "SAMAEL"
+demon_type = 1
+poetic_utterance = "Empty Vessel"
+concordance = "Null"
+demon_form = "TORUS"
+known = true
+first_revelation = 5143
+
+["Salpsan"]
+hip = 59072
+demon_name = "SALPSAN"
+demon_type = 7
+poetic_utterance = "Crowned Prince"
+concordance = "Hyperactive"
+demon_form = "RECONSTITUTION"
+known = true
+first_revelation = 9474
+
+["Satanachia"]
+hip = 44984
+demon_name = "SATANACHIA"
+demon_type = 7
+poetic_utterance = "Crowned Prince"
+concordance = "Hyperactive"
+demon_form = "ORGANIC"
+known = true
+first_revelation = 7335
+
+["Seir"]
+hip = 86620
+demon_name = "SEIR"
+demon_type = 5
+poetic_utterance = "Federov Balance"
+concordance = "Median"
+demon_form = "SWARM"
+known = true
+first_revelation = 5148
+
+["Semyaza"]
+hip = 51700
+demon_name = "SEMYAZA"
+demon_type = 5
+poetic_utterance = "Federov Balance"
+concordance = "Median"
+demon_form = "RECONSTITUTION"
+known = true
+first_revelation = 8071
+
+["Shax"]
+hip = 46509
+demon_name = "SHAX"
+demon_type = 3
+poetic_utterance = "Resolved Youth"
+concordance = "Minor"
+demon_form = "LOCUS"
+known = true
+first_revelation = 8972
+
+["Shaitan"]
+hip = 47436
+demon_name = "SHAITAN"
+demon_type = 2
+poetic_utterance = "Lingering Thought"
+concordance = "Weak"
+demon_form = "SPHERE"
+known = true
+first_revelation = 6477
+
+["Shedim"]
+hip = 33212
+demon_name = "SHEDIM"
+demon_type = 2
+poetic_utterance = "Lingering Thought"
+concordance = "Weak"
+demon_form = "SPHERE"
+known = true
+first_revelation = 6292
+
+["Shdum"]
+hip = 79822
+demon_name = "SHDUM"
+demon_type = 6
+poetic_utterance = "Epiphanic Solution"
+concordance = "Active"
+demon_form = "RECONSTITUTION"
+known = true
+first_revelation = 8212
+
+["Sitri"]
+hip = 14632
+demon_name = "SITRI"
+demon_type = 6
+poetic_utterance = "Epiphanic Solution"
+concordance = "Active"
+demon_form = "LATTICE"
+known = true
+first_revelation = 5363
+
+["Stihi"]
+hip = 92984
+demon_name = "STIHI"
+demon_type = 4
+poetic_utterance = "Ghost Engine"
+concordance = "Stable"
+demon_form = "LATTICE"
+known = true
+first_revelation = 9664
+
+["Stolas"]
+hip = 14576
+demon_name = "STOLAS"
+demon_type = 7
+poetic_utterance = "Crowned Prince"
+concordance = "Hyperactive"
+demon_form = "ORGANIC"
+known = true
+first_revelation = 5440
+
+["Suanggi"]
+hip = 96258
+demon_name = "SUANGGI"
+demon_type = 6
+poetic_utterance = "Epiphanic Solution"
+concordance = "Active"
+demon_form = "LATTICE"
+known = true
+first_revelation = 4352
+
+["Succubus"]
+hip = 88622
+demon_name = "SUCCUBUS"
+demon_type = 8
+poetic_utterance = "King of Kings"
+concordance = "Massive"
+demon_form = "SWARM"
+known = true
+first_revelation = 8010
+
+["Surgat"]
+hip = 56321
+demon_name = "SURGAT"
+demon_type = 7
+poetic_utterance = "Crowned Prince"
+concordance = "Hyperactive"
+demon_form = "RECONSTITUTION"
+known = true
+first_revelation = 4815
+
+["Sut"]
+hip = 84012
+demon_name = "SUT"
+demon_type = 6
+poetic_utterance = "Epiphanic Solution"
+concordance = "Active"
+demon_form = "LOCUS"
+known = true
+first_revelation = 4448
+
+["Shinigami"]
+hip = 40015
+demon_name = "SHINIGAMI"
+demon_type = 5
+poetic_utterance = "Federov Balance"
+concordance = "Median"
+demon_form = "LOCUS"
+known = true
+first_revelation = 9803
+
+["Shuten Doji"]
+hip = 25486
+demon_name = "SHUTEN DOJI"
+demon_type = 7
+poetic_utterance = "Crowned Prince"
+concordance = "Hyperactive"
+demon_form = "SWARM"
+known = true
+first_revelation = 9750
+
+["Tannin"]
+hip = 61960
+demon_name = "TANNIN"
+demon_type = 3
+poetic_utterance = "Resolved Youth"
+concordance = "Minor"
+demon_form = "RECONSTITUTION"
+known = true
+first_revelation = 6420
+
+["El Tio"]
+hip = 98416
+demon_name = "EL TÍO"
+demon_type = 4
+poetic_utterance = "Ghost Engine"
+concordance = "Stable"
+demon_form = "SPHERE"
+known = true
+first_revelation = 5433
+
+["Tengu"]
+hip = 65378
+demon_name = "TENGU"
+demon_type = 5
+poetic_utterance = "Federov Balance"
+concordance = "Median"
+demon_form = "SWARM"
+known = true
+first_revelation = 4418
+
+["Titivillus"]
+hip = 3170
+demon_name = "TITIVILLUS"
+demon_type = 7
+poetic_utterance = "Crowned Prince"
+concordance = "Hyperactive"
+demon_form = "SWARM"
+known = true
+first_revelation = 8618
+
+["Toyol"]
+hip = 51933
+demon_name = "TOYOL"
+demon_type = 5
+poetic_utterance = "Federov Balance"
+concordance = "Median"
+demon_form = "LOCUS"
+known = true
+first_revelation = 3524
+
+["Tuchulcha"]
+hip = 82587
+demon_name = "TUCHULCHA"
+demon_type = 3
+poetic_utterance = "Resolved Youth"
+concordance = "Minor"
+demon_form = "SWARM"
+known = true
+first_revelation = 7598
+
+["Ukobach"]
+hip = 46454
+demon_name = "UKOBACH"
+demon_type = 8
+poetic_utterance = "King of Kings"
+concordance = "Massive"
+demon_form = "LOCUS"
+known = true
+first_revelation = 4905
+
+["Ur"]
+hip = 32480
+demon_name = "UR"
+demon_type = 7
+poetic_utterance = "Crowned Prince"
+concordance = "Hyperactive"
+demon_form = "SPHERE"
+known = true
+first_revelation = 5600
+
+["Valac"]
+hip = 45333
+demon_name = "VALAC"
+demon_type = 4
+poetic_utterance = "Ghost Engine"
+concordance = "Stable"
+demon_form = "RECONSTITUTION"
+known = true
+first_revelation = 4456
+
+["Valefar"]
+hip = 97675
+demon_name = "VALEFAR"
+demon_type = 6
+poetic_utterance = "Epiphanic Solution"
+concordance = "Active"
+demon_form = "ORGANIC"
+known = true
+first_revelation = 7468
+
+["Vanth"]
+hip = 85244
+demon_name = "VANTH"
+demon_type = 4
+poetic_utterance = "Ghost Engine"
+concordance = "Stable"
+demon_form = "LOCUS"
+known = true
+first_revelation = 4395
+
+["Vapula"]
+hip = 75718
+demon_name = "VAPULA"
+demon_type = 7
+poetic_utterance = "Crowned Prince"
+concordance = "Hyperactive"
+demon_form = "RECONSTITUTION"
+known = true
+first_revelation = 9330
+
+["Vassago"]
+hip = 73440
+demon_name = "VASSAGO"
+demon_type = 4
+poetic_utterance = "Ghost Engine"
+concordance = "Stable"
+demon_form = "LOCUS"
+known = false
+first_revelation = 7727
+
+["Vepar"]
+hip = 116771
+demon_name = "VEPAR"
+demon_type = 2
+poetic_utterance = "Lingering Thought"
+concordance = "Weak"
+demon_form = "RECONSTITUTION"
+known = true
+first_revelation = 4744
+
+["Vine"]
+hip = 38018
+demon_name = "VINE"
+demon_type = 5
+poetic_utterance = "Federov Balance"
+concordance = "Median"
+demon_form = "LATTICE"
+known = true
+first_revelation = 9739
+
+["Vual"]
+hip = 104858
+demon_name = "VUAL"
+demon_type = 7
+poetic_utterance = "Crowned Prince"
+concordance = "Hyperactive"
+demon_form = "RECONSTITUTION"
+known = true
+first_revelation = 6541
+
+["Wechuge"]
+hip = 71469
+demon_name = "WECHUGE"
+demon_type = 5
+poetic_utterance = "Federov Balance"
+concordance = "Median"
+demon_form = "LATTICE"
+known = true
+first_revelation = 4731
+
+["Wangliang"]
+hip = 61597
+demon_name = "WANGLIANG"
+demon_type = 6
+poetic_utterance = "Epiphanic Solution"
+concordance = "Active"
+demon_form = "LOCUS"
+known = true
+first_revelation = 9601
+
+["Xaphan"]
+hip = 42438
+demon_name = "XAPHAN"
+demon_type = 5
+poetic_utterance = "Federov Balance"
+concordance = "Median"
+demon_form = "RECONSTITUTION"
+known = true
+first_revelation = 8802
+
+["Xezbeth"]
+hip = 69518
+demon_name = "XEZBETH"
+demon_type = 5
+poetic_utterance = "Federov Balance"
+concordance = "Median"
+demon_form = "RECONSTITUTION"
+known = true
+first_revelation = 6925
+
+["Yeqon"]
+hip = 58369
+demon_name = "YEQON"
+demon_type = 5
+poetic_utterance = "Federov Balance"
+concordance = "Median"
+demon_form = "SWARM"
+known = true
+first_revelation = 5560
+
+["Zabaniyya"]
+hip = 67927
+demon_name = "ZABANIYYA"
+demon_type = 1
+poetic_utterance = "Empty Vessel"
+concordance = "Null"
+demon_form = "RECONSTITUTION"
+known = true
+first_revelation = 9257
+
+["Zagan"]
+hip = 62816
+demon_name = "ZAGAN"
+demon_type = 6
+poetic_utterance = "Epiphanic Solution"
+concordance = "Active"
+demon_form = "LOCUS"
+known = true
+first_revelation = 6694
+
+["Zahreil"]
+hip = 71899
+demon_name = "ZAHREIL"
+demon_type = 3
+poetic_utterance = "Resolved Youth"
+concordance = "Minor"
+demon_form = "SWARM"
+known = true
+first_revelation = 7958
+
+["Zartai-Zartanai"]
+hip = 43625
+demon_name = "ZARTAI-ZARTANAI"
+demon_type = 7
+poetic_utterance = "Crowned Prince"
+concordance = "Hyperactive"
+demon_form = "LATTICE"
+known = false
+first_revelation = 5191
+
+["Zepar"]
+hip = 32607
+demon_name = "ZEPAR"
+demon_type = 6
+poetic_utterance = "Epiphanic Solution"
+concordance = "Active"
+demon_form = "TORUS"
+known = true
+first_revelation = 7717
+
+["Agaliarept"]
+hip = 31681
+demon_name = "AGALIAREPT"
+demon_type = 3
+poetic_utterance = "Resolved Youth"
+concordance = "Minor"
+demon_form = "ORGANIC"
+known = true
+first_revelation = 6286
+
+["Armaros"]
+hip = 67153
+demon_name = "ARMAROS"
+demon_type = 5
+poetic_utterance = "Federov Balance"
+concordance = "Median"
+demon_form = "SWARM"
+known = true
+first_revelation = 9916
+
+["Azi Dahaka"]
+hip = 41211
+demon_name = "AZI DAHAKA"
+demon_type = 1
+poetic_utterance = "Empty Vessel"
+concordance = "Null"
+demon_form = "RECONSTITUTION"
+known = true
+first_revelation = 8643
+
+["Bune"]
+hip = 40875
+demon_name = "BUNE"
+demon_type = 5
+poetic_utterance = "Federov Balance"
+concordance = "Median"
+demon_form = "TORUS"
+known = true
+first_revelation = 5870
+
+["Dajjal"]
+hip = 28908
+demon_name = "DAJJAL"
+demon_type = 2
+poetic_utterance = "Lingering Thought"
+concordance = "Weak"
+demon_form = "SWARM"
+known = true
+first_revelation = 6237
+
+["Forneus"]
+hip = 64459
+demon_name = "FORNEUS"
+demon_type = 4
+poetic_utterance = "Ghost Engine"
+concordance = "Stable"
+demon_form = "LATTICE"
+known = true
+first_revelation = 9957
+
+["Gremory"]
+hip = 72622
+demon_name = "GREMORY"
+demon_type = 7
+poetic_utterance = "Crowned Prince"
+concordance = "Hyperactive"
+demon_form = "ORGANIC"
+known = true
+first_revelation = 9954
+
+["Kasadya"]
+hip = 53954
+demon_name = "KASADYA"
+demon_type = 5
+poetic_utterance = "Federov Balance"
+concordance = "Median"
+demon_form = "RECONSTITUTION"
+known = true
+first_revelation = 4445
+
+["Lamia"]
+hip = 18859
+demon_name = "LAMIA"
+demon_type = 6
+poetic_utterance = "Epiphanic Solution"
+concordance = "Active"
+demon_form = "TORUS"
+known = false
+first_revelation = 5581
+
+["Marid"]
+hip = 72567
+demon_name = "MARID"
+demon_type = 6
+poetic_utterance = "Epiphanic Solution"
+concordance = "Active"
+demon_form = "LATTICE"
+known = true
+first_revelation = 6205

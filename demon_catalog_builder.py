@@ -15,10 +15,10 @@ import json
 import math
 import re
 import sys
-import tomllib
 from pathlib import Path
 from typing import Any
 
+import tomllib
 
 STELLAR_TREE_PATTERN = re.compile(r"^stellar_tree_version(\d+)\.toml$")
 DEMON_CATALOG_PATTERN = re.compile(r"^demon_catalog_v(\d+)\.toml$")
@@ -30,10 +30,11 @@ DEMON_FIELDS = (
     "hip",
     "demon_name",
     "demon_type",
+    "poetic_utterance",
+    "concordance",
     "demon_form",
     "known",
-    "first_sentience",
-    "demon_disposition",
+    "first_revelation",
 )
 
 
@@ -94,9 +95,7 @@ def require_table(
     if key not in mapping:
         ctx.add(f"{location} is missing required table {key!r}.")
     else:
-        ctx.add(
-            f"{location}.{key} must be a table, got {describe_value(value)}."
-        )
+        ctx.add(f"{location}.{key} must be a table, got {describe_value(value)}.")
     return None
 
 
@@ -142,13 +141,17 @@ def require_int_array(
             f"index {index}: {describe_value(item)}" for index, item in bad_items[:5]
         )
         suffix = "" if len(bad_items) <= 5 else f", plus {len(bad_items) - 5} more"
-        ctx.add(f"{location}.{key} must contain only int values; got {rendered}{suffix}.")
+        ctx.add(
+            f"{location}.{key} must contain only int values; got {rendered}{suffix}."
+        )
         return None
 
     return value
 
 
-def sorted_numeric_keys(mapping: dict[str, Any], location: str, ctx: ValidationContext) -> list[str]:
+def sorted_numeric_keys(
+    mapping: dict[str, Any], location: str, ctx: ValidationContext
+) -> list[str]:
     numeric_keys: list[str] = []
     for key, value in mapping.items():
         if not isinstance(value, dict):
@@ -207,7 +210,9 @@ def parse_stellar_tree(
         if star is not None:
             star_location = f'{path} [tree."{tree_id}".star]'
             hip = require_field(ctx, star, "hip", int, star_location)
-            spectral_type = require_field(ctx, star, "spectral_type", str, star_location)
+            spectral_type = require_field(
+                ctx, star, "spectral_type", str, star_location
+            )
             distance = require_field(
                 ctx,
                 star,
@@ -248,13 +253,16 @@ def parse_demonlist(
             "hip": int,
             "demon_name": str,
             "demon_type": int,
+            "poetic_utterance": str,
+            "concordance": str,
             "demon_form": str,
             "known": bool,
-            "first_sentience": int,
-            "demon_disposition": str,
+            "first_revelation": int,
         }
         for field_name in DEMON_FIELDS:
-            value = require_field(ctx, table, field_name, field_types[field_name], location)
+            value = require_field(
+                ctx, table, field_name, field_types[field_name], location
+            )
             if value is not None:
                 parsed[field_name] = value
 
@@ -264,7 +272,7 @@ def parse_demonlist(
         if hip in by_hip:
             ctx.add(
                 f"{path} has duplicate demon hip {hip}: "
-                f'{first_table_by_hip[hip]!r} and {table_name!r}.'
+                f"{first_table_by_hip[hip]!r} and {table_name!r}."
             )
             continue
 
@@ -328,8 +336,7 @@ def build_catalog(
     demons_by_hip: dict[int, dict[str, Any]],
 ) -> dict[str, Any]:
     node_tables = {
-        tree_id: ordered_tree_row(nodes[tree_id])
-        for tree_id in sorted(nodes, key=int)
+        tree_id: ordered_tree_row(nodes[tree_id]) for tree_id in sorted(nodes, key=int)
     }
 
     leaf_tables: dict[str, dict[str, Any]] = {}
@@ -507,7 +514,9 @@ def main() -> None:
     )
     demonlist_path = args.demonlist.resolve()
     output_path = (
-        args.output.resolve() if args.output else next_catalog_output_path(Path.cwd()).resolve()
+        args.output.resolve()
+        if args.output
+        else next_catalog_output_path(Path.cwd()).resolve()
     )
 
     ctx = ValidationContext()
@@ -538,6 +547,12 @@ def main() -> None:
 if __name__ == "__main__":
     try:
         main()
-    except (CatalogValidationError, FileNotFoundError, KeyError, TypeError, ValueError) as exc:
+    except (
+        CatalogValidationError,
+        FileNotFoundError,
+        KeyError,
+        TypeError,
+        ValueError,
+    ) as exc:
         print(f"error: {exc}", file=sys.stderr)
         raise SystemExit(1) from exc
