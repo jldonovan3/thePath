@@ -23,6 +23,6 @@ These Forms would house the materia and mass aspect of the Entity's being, namel
 
 /POSTSCRIPTUM/
 
-An epoch vessel from the Miltonian Institute has been in transit for 1344 cycles towards the Entity known as ... , an Entity with the RECONSTITUTION form. The Apostles encapsulated in the Vessel's Noösphere will awaken and take on material form upon arrival, and will be the first postsapient consciousnesses to encounter an Entity at close quarters. 
+An epoch vessel from the Miltonian Institute has been in transit for 1344 cycles towards the Entity known as Agares, an Entity with the LATTICE form. The Apostles encapsulated in the Vessel's Noösphere will awaken and take on material form upon arrival, and will be the first postsapient consciousnesses to encounter an Entity at close quarters. 
 
 This expedition was controversial, as it has been the dogma and contract of the Institutes for thousands of cycles that Entities must only be observed, not encountered or addressed. The method of communication the expedition will employ is still under computation, and has not been resolved as of this transmission. Efforts to model a completion date for resolution of the communication method are themselves incomplete. Uncertainty remains as to whether the expedition will face danger upon their encounter. Entity disposition towards material encounters with lesser consciousnesses remains an realm of toposophy that many consider metaphysics.
